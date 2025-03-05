@@ -3,6 +3,7 @@ import html
 import json
 import os
 import textwrap
+from schema import Card, DeckOption, DeckRequirement
 
 def directory(raw_path: str):
     raw_path = raw_path.replace("\"", "").replace("'", "").strip()
@@ -11,17 +12,13 @@ def directory(raw_path: str):
     return os.path.abspath(raw_path)
 
 parser = argparse.ArgumentParser(
-                    prog='Marvel Champions Translation Diff',
-                    description='Checks the Marvel Champions JSON Repo for missing translations')
-parser.add_argument("-l", "--lang", default="de", help="The language code for the translation")
-parser.add_argument("-a", "--attributes", action="store_true", help="If used also compares the object keys for equalness. May lead to false positives as values may be the same in the two languages.") # flag
+                    prog='Marvel Champions Reprint List',
+                    description='Checks the Marvel Champions JSON Repo for reprints')
 parser.add_argument("-v", "--verbose", action="store_true", help="Show verbose output") # flag
 parser.add_argument("-i", "--input", nargs="?", default=os.path.curdir, type=directory, help="The directory of the repo. Defaults to the current path.")
 parser.add_argument("-o", "--output", nargs="?", default=os.path.curdir, type=directory, help="The directory where the output is writtent to. Defaults to the current path.")
 args = parser.parse_args()
 # args
-lang = args.lang
-listAttributes = args.attributes
 verbose = args.verbose
 inputDir = args.input
 outputDir = args.output
@@ -41,38 +38,96 @@ vprint(args)
 baseDir = inputDir
 packSubDir = "pack"
 packsFile = "packs.json"
+dbUrl = "https://marvelcdb.com/card/{0}"
 
 vprint("Reading files")
-# check if the folder structure is somewhat right
+# TODO: sanity check the input dir
 
 # get all existing original files
+packs = {}
 for entry in os.scandir(os.path.join(baseDir, packSubDir)):
-    packFiles = []
+    if entry.is_file() and entry.name.endswith("json"):
+        with open(entry.path, mode="r", encoding="utf-8") as f:
+            packs[entry.name] = json.load(f)
+#print(packs)
 
 # check if any files were found
-if len(queue) == 0:
+if len(packs) == 0:
     print("No files found.")
     exit(0)
 
-missingFiles: list[str] = []
-missingInfos: list[MissingInfo] = []
+vprint(f"{len(packs)} files loaded.")
 
-outputPath = os.path.join(outputDir, f"output_{lang}.md")
-vprint(f"Writing {len(missingFiles)} + {len(missingInfos)} entries to output file:")
-vprint(outputPath)
-with open(outputPath, "w", encoding="utf-8") as out:
-    write(f"Missing Files ({len(missingFiles)}):", out)
-    for file in missingFiles:
-        write(f"- {file}", out)
-    
-    write(f"Missing Entries ({len(missingInfos)}):", out)
-    for info in missingInfos:
-        # wrap in spoiler
-        write("<details>", out)
-        write(f"<summary>{info.file} ({len(info.entries) + len(info.attributes)})</summary>", out)
-        write(out=out) # empty line needed
-        for entry in info.entries:
-            write(f"- Entry: {entry.code} ({html.escape(entry.name)})", out)
-        for attrib in info.attributes:
-            write(f"- Attribut: {attrib.code} ({attrib.attribute}, {textwrap.shorten(html.escape(attrib.value), width=100)})", out)
-        write("</details>", out)
+# map into cards list
+cards: list[Card] = []
+for pack in packs.values():
+    cards = cards + pack
+
+def getCardUrl(card: Card):
+    return dbUrl.format(card.get("code"))
+
+def getCardByCode(code: str):
+    return next(filter(lambda c: c.get("code") == code, cards)) or None
+
+def isReprint(card: Card):
+    isDuplicate = card.get("duplicate_of") is not None
+    if not isDuplicate:
+        return False
+    orig = card.get("duplicate_of")
+    card = getCardByCode(orig)
+    if card is None:
+        print(f"Card with code {isDuplicate} not found")
+    return True
+
+def isUniquePlayerCard(card: Card):
+    # ignore hero, encounter and campaign cards
+    if card.get("faction_code") in ["encounter", "hero", "campaign"]:
+        return False
+    code = card.get("code")
+    # code doesnt exist OR card is duplicate
+    if code is None or card.get("duplicate_of") is not None:
+        return False
+    duplicates = list(filter(lambda c: c.get("duplicate_of") == code, cards))
+    if len(duplicates) > 0:
+        return False
+    return True
+
+# list reprints (sorted by pack)
+reprints: dict[str, list[Card]] = {}
+# get reprints and sort by pack
+for card in filter(isReprint, cards):
+    pack = card.get("pack_code")
+    if not pack in reprints:
+        reprints[pack] = []
+    reprints[pack].append(card)
+# write
+reprintOutputPath = os.path.join(outputDir, f"reprints.md")
+with open(reprintOutputPath, "w", encoding="utf-8") as out:
+    write("# Reprints", out)
+    for pack in reprints:
+        write(f"## {pack} ({len(reprints[pack])})", out)
+        for card in reprints[pack]:
+            orig = getCardByCode(card.get("duplicate_of"))
+            write(f"- [{orig.get("name")}]({getCardUrl(orig)}) x{card.get("quantity")}", out)
+# list unique cards with their corresponding packs (in full list and in nested list sorted by packs)
+# get reprints and sort by pack
+uniqueCards = list(filter(isUniquePlayerCard, cards))
+uniqueOutputPath = os.path.join(outputDir, f"uniques.md")
+with open(uniqueOutputPath, "w", encoding="utf-8") as out:
+    write("# Unique Cards", out)
+    write("## Sorted by Name", out)
+    for card in sorted(uniqueCards, key=lambda c: c.get("name").strip("\"' ")):
+        write(f"- [{card.get("name")}]({getCardUrl(card)}) x{card.get("quantity")} ({card.get("pack_code")})", out)
+
+    write("", out)
+    write("## Sorted by Pack", out)
+    uniques: dict[str, list[Card]] = {}
+    for card in uniqueCards:
+        pack = card.get("pack_code")
+        if not pack in uniques:
+            uniques[pack] = []
+        uniques[pack].append(card)
+    for pack in uniques:
+        write(f"### {pack} ({len(uniques[pack])})", out)
+        for card in uniques[pack]:
+            write(f"- [{card.get("name")}]({getCardUrl(card)}) x{card.get("quantity")}", out)

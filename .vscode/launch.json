@@ -8,6 +8,7 @@
             "name": "Run diff",
             "type": "debugpy",
             "request": "launch",
+            "cwd": "${workspaceFolder}/TranslationDiff",
             "program": "diff.py",
             "console": "integratedTerminal",
             "args": [
@@ -19,6 +20,7 @@
             "name": "Run diff attributes",
             "type": "debugpy",
             "request": "launch",
+            "cwd": "${workspaceFolder}/TranslationDiff",
             "program": "diff.py",
             "console": "integratedTerminal",
             "args": [
@@ -26,6 +28,18 @@
                 "-v",
                 "-a"
             ]
-        }
+        },
+        {
+            "name": "Run reprint list",
+            "type": "debugpy",
+            "request": "launch",
+            "cwd": "${workspaceFolder}/ReprintList",
+            "program": "run.py",
+            "console": "integratedTerminal",
+            "args": [
+                "-i 'D:\\D\\Visual Studio\\Github\\marvelsdb-json-data'",
+                "-v"
+            ]
+        },
     ]
 }

@@ -1,0 +1,1103 @@
+# Unique Cards
+## Sorted by Name
+- [Across the Spider-Verse](https://marvelcdb.com/card/27018) x1 (sm)
+- [Adam Warlock](https://marvelcdb.com/card/17011) x1 (stld)
+- [Adrenaline Rush](https://marvelcdb.com/card/14022) x3 (qsv)
+- [Advanced Suit](https://marvelcdb.com/card/45014) x3 (aoa)
+- [Aerial Intervention](https://marvelcdb.com/card/42014) x3 (angel)
+- [Agents of S.H.I.E.L.D.](https://marvelcdb.com/card/50015) x3 (aos)
+- [Agile Flight](https://marvelcdb.com/card/17029) x3 (stld)
+- [Air Supremacy](https://marvelcdb.com/card/17014) x3 (stld)
+- [All for One](https://marvelcdb.com/card/13032) x3 (wsp)
+- [Ambush](https://marvelcdb.com/card/44051) x3 (deadpool)
+- [Angel](https://marvelcdb.com/card/33019) x1 (cyclops)
+- [Angel's Aerie](https://marvelcdb.com/card/42018) x1 (angel)
+- [Anole](https://marvelcdb.com/card/49034) x1 (magneto)
+- [Ant-Man](https://marvelcdb.com/card/12011) x1 (ant)
+- [Anticipated Attack](https://marvelcdb.com/card/43040) x3 (x23)
+- [Anticipation](https://marvelcdb.com/card/25035) x3 (valk)
+- [Armor](https://marvelcdb.com/card/38012) x1 (rogue)
+- [As One!](https://marvelcdb.com/card/23032) x3 (warm)
+- [Assault Training](https://marvelcdb.com/card/26033) x2 (vision)
+- [Assess the Situation](https://marvelcdb.com/card/12033) x3 (ant)
+- [Astonishing X-Men](https://marvelcdb.com/card/48020) x1 (ncrawler)
+- [Atlas Bear](https://marvelcdb.com/card/40056) x1 (next_evol)
+- [Attack Training](https://marvelcdb.com/card/32043) x3 (mut_gen)
+- [Avengers Assemble!](https://marvelcdb.com/card/03015) x3 (cap)
+- [Band Together](https://marvelcdb.com/card/21018) x3 (mts)
+- [Banshee](https://marvelcdb.com/card/34014) x1 (phoenix)
+- [Barely a Scratch](https://marvelcdb.com/card/44017) x3 (deadpool)
+- [Basic Spell](https://marvelcdb.com/card/45051) x3 (aoa)
+- [Bazooka](https://marvelcdb.com/card/44052) x2 (deadpool)
+- [Beak](https://marvelcdb.com/card/46020) x1 (iceman)
+- [Beast](https://marvelcdb.com/card/33011) x1 (cyclops)
+- [Beat 'Em Up](https://marvelcdb.com/card/14032) x3 (qsv)
+- [Beat Cop](https://marvelcdb.com/card/10029) x3 (hlk)
+- [Befuddle](https://marvelcdb.com/card/33033) x3 (cyclops)
+- [Beta Ray Bill](https://marvelcdb.com/card/17012) x1 (stld)
+- [Bishop](https://marvelcdb.com/card/37011) x1 (gambit)
+- [Black Knight](https://marvelcdb.com/card/04012) x1 (trors)
+- [Black Panther](https://marvelcdb.com/card/23012) x1 (warm)
+- [Black Widow](https://marvelcdb.com/card/01075) x1 (core)
+- [Blackout](https://marvelcdb.com/card/44053) x1 (deadpool)
+- [Blade](https://marvelcdb.com/card/21019) x1 (mts)
+- [Blaze of Glory](https://marvelcdb.com/card/17015) x3 (stld)
+- [Blindfold](https://marvelcdb.com/card/33014) x1 (cyclops)
+- [Bling!](https://marvelcdb.com/card/49035) x1 (magneto)
+- [Blood Rage](https://marvelcdb.com/card/45043) x3 (aoa)
+- [Bloodgem](https://marvelcdb.com/card/45050) x1 (aoa)
+- [Bob, Agent of Hydra](https://marvelcdb.com/card/44043) x1 (deadpool)
+- [Bombs Away](https://marvelcdb.com/card/42029) x3 (angel)
+- [Bombshell](https://marvelcdb.com/card/29033) x1 (ironheart)
+- [Boom Boom](https://marvelcdb.com/card/43013) x1 (x23)
+- [Booster Boots](https://marvelcdb.com/card/16052) x3 (gmw)
+- [Boot Camp](https://marvelcdb.com/card/13016) x3 (wsp)
+- [Brains Over Brawn](https://marvelcdb.com/card/22018) x3 (nebu)
+- [Brawn](https://marvelcdb.com/card/10011) x1 (hlk)
+- [Break Time](https://marvelcdb.com/card/44046) x1 (deadpool)
+- [Breaking and Entering](https://marvelcdb.com/card/37015) x3 (gambit)
+- ["Bring It!"](https://marvelcdb.com/card/19030) x3 (drax)
+- [Brother Voodoo](https://marvelcdb.com/card/09012) x1 (drs)
+- [Browbeat](https://marvelcdb.com/card/15028) x3 (scw)
+- [Brute Force](https://marvelcdb.com/card/14029) x3 (qsv)
+- [Bug](https://marvelcdb.com/card/16040) x1 (gmw)
+- [Build Support](https://marvelcdb.com/card/40027) x1 (next_evol)
+- [C.I.T.T.](https://marvelcdb.com/card/17021) x1 (stld)
+- [Cable](https://marvelcdb.com/card/45011) x1 (aoa)
+- [Caliban](https://marvelcdb.com/card/40014) x1 (next_evol)
+- [Call for Aid](https://marvelcdb.com/card/12015) x3 (ant)
+- [Call for Backup](https://marvelcdb.com/card/40018) x1 (next_evol)
+- [Cannonball](https://marvelcdb.com/card/42020) x1 (angel)
+- [Captain America](https://marvelcdb.com/card/21011) x1 (mts)
+- [Captain Britain](https://marvelcdb.com/card/41012) x1 (psylocke)
+- [Captain Marvel](https://marvelcdb.com/card/23013) x1 (warm)
+- [Cell Phone](https://marvelcdb.com/card/47019) x3 (jubilee)
+- [Cerebro](https://marvelcdb.com/card/34022) x1 (phoenix)
+- [Chamber](https://marvelcdb.com/card/47011) x1 (jubilee)
+- [Champions Mobile Bunker](https://marvelcdb.com/card/28020) x1 (nova)
+- [Chance Encounter](https://marvelcdb.com/card/26034) x3 (vision)
+- [Change of Fortune](https://marvelcdb.com/card/48014) x3 (ncrawler)
+- [Charlie-27](https://marvelcdb.com/card/21059) x1 (mts)
+- [Children of the Atom](https://marvelcdb.com/card/49037) x3 (magneto)
+- [Civic Duty](https://marvelcdb.com/card/14023) x3 (qsv)
+- [Clarity of Purpose](https://marvelcdb.com/card/31029) x3 (spdr)
+- [Clea](https://marvelcdb.com/card/09013) x1 (drs)
+- [Clear the Area](https://marvelcdb.com/card/04049) x3 (trors)
+- [Cloud 9](https://marvelcdb.com/card/29014) x1 (ironheart)
+- [Combat Specialist](https://marvelcdb.com/card/43034) x1 (x23)
+- [Combine Forces](https://marvelcdb.com/card/48031) x3 (ncrawler)
+- ["Come Get Me, Bub!"](https://marvelcdb.com/card/48016) x3 (ncrawler)
+- [Command Center](https://marvelcdb.com/card/35032) x3 (wolv)
+- [Comms Implant](https://marvelcdb.com/card/18030) x3 (gam)
+- [Containment Strategy](https://marvelcdb.com/card/42019) x3 (angel)
+- [Contaminant Immunity](https://marvelcdb.com/card/04037) x2 (trors)
+- [Coordinated Attack](https://marvelcdb.com/card/33016) x3 (cyclops)
+- [Cosmic Alliance](https://marvelcdb.com/card/25036) x3 (valk)
+- [Counterattack](https://marvelcdb.com/card/08030) x3 (bkw)
+- [Counterintelligence](https://marvelcdb.com/card/08017) x3 (bkw)
+- [Crew Quarters](https://marvelcdb.com/card/20029) x3 (vnm)
+- [Crisis Averted](https://marvelcdb.com/card/15012) x3 (scw)
+- [Critical Hit](https://marvelcdb.com/card/43016) x3 (x23)
+- [Cutupper](https://marvelcdb.com/card/44018) x1 (deadpool)
+- [Cyclops](https://marvelcdb.com/card/49015) x1 (magneto)
+- [Cypher](https://marvelcdb.com/card/41013) x1 (psylocke)
+- [Da Bomb](https://marvelcdb.com/card/44019) x1 (deadpool)
+- [Danger Room](https://marvelcdb.com/card/33021) x1 (cyclops)
+- [Danger Room Training](https://marvelcdb.com/card/33015) x3 (cyclops)
+- [Daredevil](https://marvelcdb.com/card/01058) x1 (core)
+- [Daredevil](https://marvelcdb.com/card/31014) x1 (spdr)
+- [Daughters of Thanos](https://marvelcdb.com/card/22022) x2 (nebu)
+- [Dauntless](https://marvelcdb.com/card/16016) x3 (gmw)
+- [Dazzler](https://marvelcdb.com/card/37012) x1 (gambit)
+- [Deadpool](https://marvelcdb.com/card/40024) x1 (next_evol)
+- [Deadpool Corps Ship](https://marvelcdb.com/card/44049) x1 (deadpool)
+- [Deathlok](https://marvelcdb.com/card/40025) x1 (next_evol)
+- [Defense Specialist](https://marvelcdb.com/card/43035) x1 (x23)
+- [Defensive Stance](https://marvelcdb.com/card/08032) x3 (bkw)
+- [Defensive Training](https://marvelcdb.com/card/22034) x2 (nebu)
+- [Defiance](https://marvelcdb.com/card/26018) x3 (vision)
+- [Deflection](https://marvelcdb.com/card/19015) x3 (drax)
+- [Digging Deep](https://marvelcdb.com/card/40060) x3 (next_evol)
+- [Directed Force](https://marvelcdb.com/card/41019) x3 (psylocke)
+- [Disguise](https://marvelcdb.com/card/47013) x3 (jubilee)
+- [Distraction](https://marvelcdb.com/card/44054) x3 (deadpool)
+- [Dive Bomb](https://marvelcdb.com/card/17028) x3 (stld)
+- [Dogpool](https://marvelcdb.com/card/44013) x1 (deadpool)
+- [Domino](https://marvelcdb.com/card/41031) x1 (psylocke)
+- [Drax](https://marvelcdb.com/card/18019) x1 (gam)
+- [Drop Kick](https://marvelcdb.com/card/10014) x3 (hlk)
+- [Dust](https://marvelcdb.com/card/33012) x1 (cyclops)
+- [E.V.A.](https://marvelcdb.com/card/40021) x1 (next_evol)
+- [Earth's Mightiest Heroes](https://marvelcdb.com/card/04022) x3 (trors)
+- [Electrostatic Armor](https://marvelcdb.com/card/10031) x3 (hlk)
+- [Elixir](https://marvelcdb.com/card/42011) x1 (angel)
+- [Emergency](https://marvelcdb.com/card/01085) x3 (core)
+- [Energy Spear](https://marvelcdb.com/card/22032) x3 (nebu)
+- [Enraged](https://marvelcdb.com/card/03031) x3 (cap)
+- [Eros](https://marvelcdb.com/card/22011) x1 (nebu)
+- [Espionage](https://marvelcdb.com/card/08033) x3 (bkw)
+- [Establish Perimeter](https://marvelcdb.com/card/40020) x1 (next_evol)
+- [Eternity](https://marvelcdb.com/card/21054) x1 (mts)
+- [Everyday Hero](https://marvelcdb.com/card/28019) x3 (nova)
+- [Expert Defense](https://marvelcdb.com/card/03033) x3 (cap)
+- [Eyes in the Sky](https://marvelcdb.com/card/42030) x3 (angel)
+- [Face the Past](https://marvelcdb.com/card/49022) x1 (magneto)
+- [Falcon](https://marvelcdb.com/card/29015) x1 (ironheart)
+- [Fantomex](https://marvelcdb.com/card/40015) x1 (next_evol)
+- [Fastball Special](https://marvelcdb.com/card/35023) x1 (wolv)
+- [Feral](https://marvelcdb.com/card/40050) x1 (next_evol)
+- [Field Agent](https://marvelcdb.com/card/27044) x3 (sm)
+- [Fighting Fit](https://marvelcdb.com/card/16014) x3 (gmw)
+- [First Hit](https://marvelcdb.com/card/18015) x3 (gam)
+- [Float Like a Butterfly](https://marvelcdb.com/card/41017) x3 (psylocke)
+- [Flow Like Water](https://marvelcdb.com/card/26016) x3 (vision)
+- [Fluid Motion](https://marvelcdb.com/card/28016) x3 (nova)
+- [Flying Formation](https://marvelcdb.com/card/42031) x3 (angel)
+- [Foiled!](https://marvelcdb.com/card/09038) x3 (drs)
+- [Follow Through](https://marvelcdb.com/card/16045) x3 (gmw)
+- [Forcefield Generator](https://marvelcdb.com/card/31019) x3 (spdr)
+- [Forge](https://marvelcdb.com/card/36022) x1 (storm)
+- [Front Line Specialist](https://marvelcdb.com/card/43036) x1 (x23)
+- [Front Organization](https://marvelcdb.com/card/50028) x3 (aos)
+- [Full-Body Charge](https://marvelcdb.com/card/45045) x3 (aoa)
+- [Fusillade](https://marvelcdb.com/card/20026) x3 (vnm)
+- [Gambit](https://marvelcdb.com/card/48021) x1 (ncrawler)
+- [Game Time](https://marvelcdb.com/card/33022) x3 (cyclops)
+- [Gamora](https://marvelcdb.com/card/19020) x1 (drax)
+- [Gatekeeper](https://marvelcdb.com/card/32044) x3 (mut_gen)
+- [Generation X](https://marvelcdb.com/card/47016) x1 (jubilee)
+- [Gentle](https://marvelcdb.com/card/36016) x1 (storm)
+- [Get Over Here!](https://marvelcdb.com/card/06014) x3 (thor)
+- [Get Rage-y](https://marvelcdb.com/card/44020) x1 (deadpool)
+- [Get in Front of Me!](https://marvelcdb.com/card/44047) x1 (deadpool)
+- [Ghost-Spider](https://marvelcdb.com/card/27048) x1 (sm)
+- [Giant-Man](https://marvelcdb.com/card/12012) x1 (ant)
+- [Git Gud](https://marvelcdb.com/card/44028) x1 (deadpool)
+- [Glob](https://marvelcdb.com/card/46013) x1 (iceman)
+- [Go All Out](https://marvelcdb.com/card/29017) x3 (ironheart)
+- [Go Down Swinging](https://marvelcdb.com/card/23019) x3 (warm)
+- ["Go for Champions!"](https://marvelcdb.com/card/29025) x1 (ironheart)
+- [Godlike Stamina](https://marvelcdb.com/card/25024) x3 (valk)
+- [Godslayer](https://marvelcdb.com/card/18018) x1 (gam)
+- [Goldballs](https://marvelcdb.com/card/45041) x1 (aoa)
+- [Government Liaison](https://marvelcdb.com/card/27054) x3 (sm)
+- [Grant Ward](https://marvelcdb.com/card/50022) x1 (aos)
+- [Groot](https://marvelcdb.com/card/16047) x1 (gmw)
+- [Guardians of the Galaxy](https://marvelcdb.com/card/22033) x3 (nebu)
+- [Gunboat Diplomacy](https://marvelcdb.com/card/48032) x3 (ncrawler)
+- [Hand Cannon](https://marvelcdb.com/card/16046) x3 (gmw)
+- [Hangar Bay](https://marvelcdb.com/card/36035) x3 (storm)
+- [Hard Knocks](https://marvelcdb.com/card/19016) x3 (drax)
+- [Hard to Ignore](https://marvelcdb.com/card/16017) x3 (gmw)
+- [Havok](https://marvelcdb.com/card/36014) x1 (storm)
+- [Hawkeye](https://marvelcdb.com/card/04011) x1 (trors)
+- [Haymaker](https://marvelcdb.com/card/01087) x3 (core)
+- [Headpool](https://marvelcdb.com/card/44014) x1 (deadpool)
+- [Healing Factor](https://marvelcdb.com/card/44029) x3 (deadpool)
+- [Height Advantage](https://marvelcdb.com/card/28027) x3 (nova)
+- [Heimdall](https://marvelcdb.com/card/06020) x1 (thor)
+- [Hercules](https://marvelcdb.com/card/06011) x1 (thor)
+- [Homeland Intervention](https://marvelcdb.com/card/27042) x3 (sm)
+- [Honed Technique](https://marvelcdb.com/card/28017) x3 (nova)
+- [Honorary Avenger](https://marvelcdb.com/card/03025) x3 (cap)
+- [Honorary Guardian](https://marvelcdb.com/card/22035) x3 (nebu)
+- [Honorary X-Men](https://marvelcdb.com/card/33035) x3 (cyclops)
+- [Hope Summers](https://marvelcdb.com/card/40204) x1 (next_evol)
+- [Hulk](https://marvelcdb.com/card/01050) x1 (core)
+- [Husk](https://marvelcdb.com/card/47012) x1 (jubilee)
+- ["I Got This"](https://marvelcdb.com/card/44021) x3 (deadpool)
+- [Iceman](https://marvelcdb.com/card/38010) x1 (rogue)
+- [Impede](https://marvelcdb.com/card/18016) x3 (gam)
+- [In-Betweener](https://marvelcdb.com/card/21042) x1 (mts)
+- [Inconspicuous](https://marvelcdb.com/card/04038) x2 (trors)
+- [Indra](https://marvelcdb.com/card/49036) x1 (magneto)
+- [Informant](https://marvelcdb.com/card/50050) x3 (aos)
+- [Ingenuity](https://marvelcdb.com/card/29027) x3 (ironheart)
+- [Inspiring Presence](https://marvelcdb.com/card/10030) x3 (hlk)
+- [Intelligence](https://marvelcdb.com/card/50051) x3 (aos)
+- [Invulnerability](https://marvelcdb.com/card/06021) x3 (thor)
+- [Iron Fist](https://marvelcdb.com/card/09014) x1 (drs)
+- [Iron Man](https://marvelcdb.com/card/09039) x1 (drs)
+- [Ironheart](https://marvelcdb.com/card/13018) x1 (wsp)
+- [Jack Flag](https://marvelcdb.com/card/20011) x1 (vnm)
+- [Jarnbjorn](https://marvelcdb.com/card/06019) x1 (thor)
+- [Jemma Simmons](https://marvelcdb.com/card/50055) x1 (aos)
+- [Jessica Jones](https://marvelcdb.com/card/01059) x1 (core)
+- [Jocasta](https://marvelcdb.com/card/26013) x1 (vision)
+- [Joining Forces](https://marvelcdb.com/card/26035) x3 (vision)
+- [Judoka Skill](https://marvelcdb.com/card/38014) x3 (rogue)
+- [Jump Flip](https://marvelcdb.com/card/27014) x3 (sm)
+- [Justice Served](https://marvelcdb.com/card/22014) x3 (nebu)
+- [Kaluu](https://marvelcdb.com/card/21014) x1 (mts)
+- [Karma](https://marvelcdb.com/card/38011) x1 (rogue)
+- [Keep Them Busy](https://marvelcdb.com/card/43018) x1 (x23)
+- [Keep Up the Pressure](https://marvelcdb.com/card/46018) x1 (iceman)
+- [Kid Omega](https://marvelcdb.com/card/49013) x1 (magneto)
+- [Kidpool](https://marvelcdb.com/card/44015) x1 (deadpool)
+- [Lady Deadpool](https://marvelcdb.com/card/44016) x1 (deadpool)
+- [Lady Spider](https://marvelcdb.com/card/30012) x1 (spiderham)
+- [Laser Blaster](https://marvelcdb.com/card/17019) x3 (stld)
+- [Laser Swords](https://marvelcdb.com/card/44055) x1 (deadpool)
+- [Last Stand](https://marvelcdb.com/card/15029) x3 (scw)
+- [Lay Down the Law](https://marvelcdb.com/card/12031) x3 (ant)
+- [Lay the Trap](https://marvelcdb.com/card/41016) x1 (psylocke)
+- [Leadership Skill](https://marvelcdb.com/card/36019) x3 (storm)
+- [Leadership Training](https://marvelcdb.com/card/25034) x2 (valk)
+- [Leading Blow](https://marvelcdb.com/card/19017) x3 (drax)
+- [Legion](https://marvelcdb.com/card/45020) x1 (aoa)
+- [Leo Fitz](https://marvelcdb.com/card/50056) x1 (aos)
+- [Lie in Wait](https://marvelcdb.com/card/13017) x3 (wsp)
+- [Limitless Stamina](https://marvelcdb.com/card/31023) x3 (spdr)
+- [Live Dangerously](https://marvelcdb.com/card/44024) x1 (deadpool)
+- [Living Tribunal](https://marvelcdb.com/card/21048) x1 (mts)
+- [Lock and Load](https://marvelcdb.com/card/40019) x1 (next_evol)
+- [Lockjaw](https://marvelcdb.com/card/05018) x1 (msm)
+- [Longshot](https://marvelcdb.com/card/35033) x1 (wolv)
+- [Luke Cage](https://marvelcdb.com/card/01076) x1 (core)
+- [M](https://marvelcdb.com/card/49012) x1 (magneto)
+- [Machine Man](https://marvelcdb.com/card/26022) x1 (vision)
+- [Magic Attack](https://marvelcdb.com/card/21043) x1 (mts)
+- [Magik](https://marvelcdb.com/card/32042) x1 (mut_gen)
+- [Major Victory](https://marvelcdb.com/card/21053) x1 (mts)
+- [Maria Hill](https://marvelcdb.com/card/01067) x1 (core)
+- [Marked](https://marvelcdb.com/card/33032) x3 (cyclops)
+- [Marrow](https://marvelcdb.com/card/45021) x1 (aoa)
+- [Martial Prowess](https://marvelcdb.com/card/10018) x3 (hlk)
+- [Martinex](https://marvelcdb.com/card/21065) x1 (mts)
+- [Martyr](https://marvelcdb.com/card/19012) x1 (drax)
+- [Marvel Boy](https://marvelcdb.com/card/21041) x1 (mts)
+- [Marvel Girl](https://marvelcdb.com/card/34015) x1 (phoenix)
+- [Mass Attack](https://marvelcdb.com/card/21016) x3 (mts)
+- [Med Lab](https://marvelcdb.com/card/38028) x3 (rogue)
+- [Meditation](https://marvelcdb.com/card/26036) x3 (vision)
+- [Melee](https://marvelcdb.com/card/05030) x3 (msm)
+- [Melinda May](https://marvelcdb.com/card/50023) x1 (aos)
+- [Mighty Avengers](https://marvelcdb.com/card/21015) x3 (mts)
+- [Mirage](https://marvelcdb.com/card/36015) x1 (storm)
+- [Mission Leader](https://marvelcdb.com/card/40023) x1 (next_evol)
+- [Mission Planning](https://marvelcdb.com/card/40017) x3 (next_evol)
+- [Mission Training](https://marvelcdb.com/card/34016) x3 (phoenix)
+- [Momentum Shift](https://marvelcdb.com/card/09016) x3 (drs)
+- [Monica Chang](https://marvelcdb.com/card/27040) x1 (sm)
+- [Moon Girl](https://marvelcdb.com/card/28018) x1 (nova)
+- [Moondragon](https://marvelcdb.com/card/19013) x1 (drax)
+- [Mulligan](https://marvelcdb.com/card/44048) x3 (deadpool)
+- [Multiple Man](https://marvelcdb.com/card/14012) x3 (qsv)
+- [Multitalented](https://marvelcdb.com/card/47021) x3 (jubilee)
+- [Multitasking](https://marvelcdb.com/card/15013) x3 (scw)
+- [Muster Courage](https://marvelcdb.com/card/12032) x3 (ant)
+- [Mutant Education](https://marvelcdb.com/card/37021) x3 (gambit)
+- [Mutant Mayhem](https://marvelcdb.com/card/47028) x3 (jubilee)
+- [Mutant Peacekeepers](https://marvelcdb.com/card/34018) x3 (phoenix)
+- [Mutant Protectors](https://marvelcdb.com/card/32017) x3 (mut_gen)
+- [Negasonic Teenage Warhead](https://marvelcdb.com/card/44044) x1 (deadpool)
+- [Nerves of Steel](https://marvelcdb.com/card/14017) x3 (qsv)
+- [Never Back Down](https://marvelcdb.com/card/14014) x3 (qsv)
+- [New Recruits](https://marvelcdb.com/card/49020) x1 (magneto)
+- [Nick Fury, Sr.](https://marvelcdb.com/card/50054) x1 (aos)
+- [Nightcrawler](https://marvelcdb.com/card/32011) x1 (mut_gen)
+- [No Quarter](https://marvelcdb.com/card/28013) x3 (nova)
+- [Noble Sacrifice](https://marvelcdb.com/card/49018) x3 (magneto)
+- [Northstar](https://marvelcdb.com/card/48013) x1 (ncrawler)
+- [Not Today!](https://marvelcdb.com/card/38016) x3 (rogue)
+- [Not my Responsibility](https://marvelcdb.com/card/44022) x1 (deadpool)
+- [Nova](https://marvelcdb.com/card/05012) x1 (msm)
+- ["Now I'm Mad"](https://marvelcdb.com/card/43019) x3 (x23)
+- [One by One](https://marvelcdb.com/card/28014) x3 (nova)
+- [Operative Skill](https://marvelcdb.com/card/37013) x3 (gambit)
+- [Organizational Support](https://marvelcdb.com/card/50014) x3 (aos)
+- [Outta My Way!](https://marvelcdb.com/card/35017) x3 (wolv)
+- [Pandapool](https://marvelcdb.com/card/44045) x1 (deadpool)
+- [Patriot](https://marvelcdb.com/card/29016) x1 (ironheart)
+- [Pete Wisdom](https://marvelcdb.com/card/41018) x1 (psylocke)
+- [Pheromones](https://marvelcdb.com/card/04036) x2 (trors)
+- [Phoenix](https://marvelcdb.com/card/49014) x1 (magneto)
+- [Piercing Strike](https://marvelcdb.com/card/04044) x3 (trors)
+- [Pinned Down](https://marvelcdb.com/card/33034) x3 (cyclops)
+- [Pinpoint](https://marvelcdb.com/card/29035) x1 (ironheart)
+- [Pitchback](https://marvelcdb.com/card/28012) x3 (nova)
+- [Pivotal Moment](https://marvelcdb.com/card/18029) x3 (gam)
+- [Pixie](https://marvelcdb.com/card/36017) x1 (storm)
+- [Plan B](https://marvelcdb.com/card/27024) x3 (sm)
+- [Plan of Attack](https://marvelcdb.com/card/18013) x3 (gam)
+- [Plasma Pistol](https://marvelcdb.com/card/20022) x3 (vnm)
+- [Plot Convenience](https://marvelcdb.com/card/44050) x1 (deadpool)
+- [Polaris](https://marvelcdb.com/card/32012) x1 (mut_gen)
+- ['Pool Inspection](https://marvelcdb.com/card/44023) x1 (deadpool)
+- [Power Gloves](https://marvelcdb.com/card/12017) x3 (ant)
+- [Power Man](https://marvelcdb.com/card/21012) x1 (mts)
+- [Practiced Plan](https://marvelcdb.com/card/50058) x3 (aos)
+- [Precision Strike](https://marvelcdb.com/card/35018) x3 (wolv)
+- [Predictable Ploy](https://marvelcdb.com/card/43038) x3 (x23)
+- [Press the Advantage](https://marvelcdb.com/card/04043) x3 (trors)
+- [Prism Dust](https://marvelcdb.com/card/50052) x3 (aos)
+- [Problem Solvers](https://marvelcdb.com/card/25033) x3 (valk)
+- [Protective Training](https://marvelcdb.com/card/32013) x3 (mut_gen)
+- [Protector](https://marvelcdb.com/card/26014) x1 (vision)
+- [Psi-Bow Attack](https://marvelcdb.com/card/41030) x3 (psylocke)
+- [Psi-Flail Strike](https://marvelcdb.com/card/41032) x3 (psylocke)
+- [Psimitar](https://marvelcdb.com/card/40029) x1 (next_evol)
+- [Psychic Assault](https://marvelcdb.com/card/34032) x3 (phoenix)
+- [Psychic Kicker](https://marvelcdb.com/card/34034) x3 (phoenix)
+- [Psychic Manipulation](https://marvelcdb.com/card/34017) x3 (phoenix)
+- [Psychic Misdirection](https://marvelcdb.com/card/34033) x3 (phoenix)
+- [Psylocke](https://marvelcdb.com/card/35013) x1 (wolv)
+- [Pulse Grenade](https://marvelcdb.com/card/17023) x3 (stld)
+- [Push Ahead](https://marvelcdb.com/card/29018) x3 (ironheart)
+- [Quasar](https://marvelcdb.com/card/21047) x1 (mts)
+- [Quick Strike](https://marvelcdb.com/card/25018) x3 (valk)
+- [Quinjet](https://marvelcdb.com/card/03019) x3 (cap)
+- [R&D Facility](https://marvelcdb.com/card/29020) x3 (ironheart)
+- [Rally the Troops](https://marvelcdb.com/card/43039) x1 (x23)
+- [Rapid Response](https://marvelcdb.com/card/08031) x3 (bkw)
+- [Ready for Action](https://marvelcdb.com/card/04017) x3 (trors)
+- [Reboot](https://marvelcdb.com/card/26024) x3 (vision)
+- [Regroup](https://marvelcdb.com/card/19032) x3 (drax)
+- [Reinforced Suit](https://marvelcdb.com/card/12018) x3 (ant)
+- [Render Medical Aid](https://marvelcdb.com/card/42017) x1 (angel)
+- [Repurpose](https://marvelcdb.com/card/31016) x3 (spdr)
+- [Return the Favor](https://marvelcdb.com/card/27015) x3 (sm)
+- [Rictor](https://marvelcdb.com/card/43014) x1 (x23)
+- [Riposte](https://marvelcdb.com/card/48018) x3 (ncrawler)
+- [Rock, Paper, Scissors](https://marvelcdb.com/card/44056) x1 (deadpool)
+- [Rocket Raccoon](https://marvelcdb.com/card/16019) x1 (gmw)
+- [Rockslide](https://marvelcdb.com/card/33013) x1 (cyclops)
+- [Rogue](https://marvelcdb.com/card/48012) x1 (ncrawler)
+- [Ronin](https://marvelcdb.com/card/12013) x1 (ant)
+- [Running Interference](https://marvelcdb.com/card/13031) x3 (wsp)
+- [SP//dr](https://marvelcdb.com/card/30021) x1 (spiderham)
+- [Save the Day](https://marvelcdb.com/card/23018) x3 (warm)
+- [Scare Tactic](https://marvelcdb.com/card/20012) x3 (vnm)
+- [Scarlet Spider](https://marvelcdb.com/card/30020) x1 (spiderham)
+- [Second Wind](https://marvelcdb.com/card/06033) x3 (thor)
+- [Self Confidence](https://marvelcdb.com/card/44025) x1 (deadpool)
+- [Self Control](https://marvelcdb.com/card/44026) x1 (deadpool)
+- [Self Preservation](https://marvelcdb.com/card/44027) x1 (deadpool)
+- [Sense of Justice](https://marvelcdb.com/card/14030) x3 (qsv)
+- [Sentry](https://marvelcdb.com/card/10012) x1 (hlk)
+- [Serve and Protect](https://marvelcdb.com/card/47029) x3 (jubilee)
+- [Shadowcat](https://marvelcdb.com/card/46019) x1 (iceman)
+- [Shake it Off](https://marvelcdb.com/card/20028) x3 (vnm)
+- [Shark-Girl](https://marvelcdb.com/card/46012) x1 (iceman)
+- [Sharpshooter](https://marvelcdb.com/card/40064) x3 (next_evol)
+- [Shatterstar](https://marvelcdb.com/card/43015) x1 (x23)
+- [She-Hulk](https://marvelcdb.com/card/10013) x1 (hlk)
+- [Shield Spell](https://marvelcdb.com/card/21061) x1 (mts)
+- [Side Holster](https://marvelcdb.com/card/20021) x3 (vnm)
+- [Side-by-Side](https://marvelcdb.com/card/45016) x3 (aoa)
+- [Sidekick](https://marvelcdb.com/card/45015) x3 (aoa)
+- [Silk](https://marvelcdb.com/card/27010) x1 (sm)
+- [Siryn](https://marvelcdb.com/card/42012) x1 (angel)
+- [Skilled Investigator](https://marvelcdb.com/card/04047) x3 (trors)
+- [Skilled Strike](https://marvelcdb.com/card/09037) x3 (drs)
+- [Sky Cycle](https://marvelcdb.com/card/04015) x3 (trors)
+- [Slingshot](https://marvelcdb.com/card/50013) x1 (aos)
+- [Smash the Problem](https://marvelcdb.com/card/25019) x3 (valk)
+- [Sneak Attack](https://marvelcdb.com/card/23017) x3 (warm)
+- [Snowguard](https://marvelcdb.com/card/29023) x1 (ironheart)
+- [Soaring Acrobatics](https://marvelcdb.com/card/42023) x3 (angel)
+- [Sonic Rifle](https://marvelcdb.com/card/20015) x3 (vnm)
+- [Soul Sisters](https://marvelcdb.com/card/34035) x1 (phoenix)
+- [Specialized Training](https://marvelcdb.com/card/43021) x1 (x23)
+- [Speed](https://marvelcdb.com/card/15010) x1 (scw)
+- [Spider-Girl](https://marvelcdb.com/card/04040) x1 (trors)
+- [Spider-Ham](https://marvelcdb.com/card/31021) x1 (spdr)
+- [Spider-Man](https://marvelcdb.com/card/27011) x1 (sm)
+- [Spider-Man](https://marvelcdb.com/card/27017) x1 (sm)
+- [Spider-Man](https://marvelcdb.com/card/27049) x1 (sm)
+- [Spider-Man](https://marvelcdb.com/card/31022) x1 (spdr)
+- [Spider-Man](https://marvelcdb.com/card/30013) x1 (spiderham)
+- [Spider-Man](https://marvelcdb.com/card/04045) x1 (trors)
+- [Spider-Man](https://marvelcdb.com/card/13019) x1 (wsp)
+- [Spider-Man Noir](https://marvelcdb.com/card/31015) x1 (spdr)
+- [Spider-Tingle](https://marvelcdb.com/card/31020) x3 (spdr)
+- [Spider-UK](https://marvelcdb.com/card/27012) x1 (sm)
+- [Spider-Woman](https://marvelcdb.com/card/27041) x1 (sm)
+- [Spycraft](https://marvelcdb.com/card/08018) x3 (bkw)
+- [Squared Off](https://marvelcdb.com/card/49017) x3 (magneto)
+- [Squirrel Girl](https://marvelcdb.com/card/03013) x1 (cap)
+- [Stand Together](https://marvelcdb.com/card/23034) x3 (warm)
+- [Star-Lord](https://marvelcdb.com/card/20016) x1 (vnm)
+- [Starhawk](https://marvelcdb.com/card/16012) x1 (gmw)
+- [Stepford Cuckoos](https://marvelcdb.com/card/45049) x1 (aoa)
+- [Stick-To-Itiveness](https://marvelcdb.com/card/44030) x1 (deadpool)
+- [Stinger](https://marvelcdb.com/card/12014) x1 (ant)
+- [Storm](https://marvelcdb.com/card/34021) x1 (phoenix)
+- [Strength In Numbers](https://marvelcdb.com/card/03017) x3 (cap)
+- [Subdue](https://marvelcdb.com/card/19018) x3 (drax)
+- [Suit Up](https://marvelcdb.com/card/45017) x3 (aoa)
+- [Summoning Spell](https://marvelcdb.com/card/21055) x1 (mts)
+- [Sunfire](https://marvelcdb.com/card/35014) x1 (wolv)
+- [Sunspot](https://marvelcdb.com/card/40016) x1 (next_evol)
+- [Super Spies](https://marvelcdb.com/card/50024) x2 (aos)
+- [Superpower Training](https://marvelcdb.com/card/40059) x1 (next_evol)
+- [Suppressing Fire](https://marvelcdb.com/card/46014) x3 (iceman)
+- [Surge](https://marvelcdb.com/card/49033) x1 (magneto)
+- [Surprise Attack](https://marvelcdb.com/card/13014) x3 (wsp)
+- [Surprise Move](https://marvelcdb.com/card/46015) x3 (iceman)
+- [Surveillance Specialist](https://marvelcdb.com/card/43037) x1 (x23)
+- [Symbiote Suit](https://marvelcdb.com/card/27191) x4 (sm)
+- [Synch](https://marvelcdb.com/card/47018) x1 (jubilee)
+- [Tackle](https://marvelcdb.com/card/05015) x3 (msm)
+- [Take Out the Guards](https://marvelcdb.com/card/40054) x1 (next_evol)
+- [Take That!](https://marvelcdb.com/card/46016) x3 (iceman)
+- [Target Acquired](https://marvelcdb.com/card/08024) x3 (bkw)
+- [Target Practice](https://marvelcdb.com/card/17017) x3 (stld)
+- [Taunt](https://marvelcdb.com/card/42016) x3 (angel)
+- [Team Investigation](https://marvelcdb.com/card/40053) x3 (next_evol)
+- [Team Strike](https://marvelcdb.com/card/32045) x3 (mut_gen)
+- [Telekinesis](https://marvelcdb.com/card/41033) x3 (psylocke)
+- [Telepathy](https://marvelcdb.com/card/41024) x3 (psylocke)
+- [Tempus](https://marvelcdb.com/card/45042) x1 (aoa)
+- [Tenacity](https://marvelcdb.com/card/01093) x3 (core)
+- [Test the Defense](https://marvelcdb.com/card/45044) x3 (aoa)
+- [The Bellerophon](https://marvelcdb.com/card/50018) x1 (aos)
+- [The Best Defense…](https://marvelcdb.com/card/25020) x3 (valk)
+- [The Bifrost](https://marvelcdb.com/card/25023) x1 (valk)
+- [The Circe](https://marvelcdb.com/card/50017) x1 (aos)
+- [The Direct Approach](https://marvelcdb.com/card/43020) x3 (x23)
+- [The Douglass](https://marvelcdb.com/card/50019) x1 (aos)
+- [The Gardener](https://marvelcdb.com/card/21060) x1 (mts)
+- [The Locust](https://marvelcdb.com/card/28010) x1 (nova)
+- [The Night Nurse](https://marvelcdb.com/card/09019) x1 (drs)
+- [The Pericles](https://marvelcdb.com/card/50020) x1 (aos)
+- [The Posse](https://marvelcdb.com/card/40058) x1 (next_evol)
+- [The Power of Flight](https://marvelcdb.com/card/42022) x3 (angel)
+- [The Sorcerer Supreme](https://marvelcdb.com/card/09026) x1 (drs)
+- [The Triskelion](https://marvelcdb.com/card/01073) x1 (core)
+- ["Think Fast!"](https://marvelcdb.com/card/19031) x3 (drax)
+- [Thor](https://marvelcdb.com/card/25013) x1 (valk)
+- [Thor](https://marvelcdb.com/card/13011) x1 (wsp)
+- [Three Steps Ahead](https://marvelcdb.com/card/47015) x3 (jubilee)
+- [Throg](https://marvelcdb.com/card/25014) x1 (valk)
+- [Thwip Thwip!](https://marvelcdb.com/card/31017) x3 (spdr)
+- [Tic-Tac-Toe](https://marvelcdb.com/card/44057) x1 (deadpool)
+- [Tigra](https://marvelcdb.com/card/01051) x1 (core)
+- ["To Me, My X-Men!"](https://marvelcdb.com/card/36020) x3 (storm)
+- [To the Rescue!](https://marvelcdb.com/card/10019) x3 (hlk)
+- [Triage](https://marvelcdb.com/card/45048) x1 (aoa)
+- [True Grit](https://marvelcdb.com/card/18031) x3 (gam)
+- [Turn the Tide](https://marvelcdb.com/card/15015) x3 (scw)
+- [Two Against the World](https://marvelcdb.com/card/23024) x2 (warm)
+- [U.S. Agent](https://marvelcdb.com/card/04014) x1 (trors)
+- [Uncanny X-Force](https://marvelcdb.com/card/40022) x3 (next_evol)
+- [Uncanny X-Men](https://marvelcdb.com/card/36018) x3 (storm)
+- [Under Control](https://marvelcdb.com/card/48015) x3 (ncrawler)
+- [United We Stand](https://marvelcdb.com/card/14031) x3 (qsv)
+- [Unlikely Duo](https://marvelcdb.com/card/47022) x1 (jubilee)
+- [Unshakable](https://marvelcdb.com/card/31024) x3 (spdr)
+- [Upside the Head](https://marvelcdb.com/card/41015) x3 (psylocke)
+- [Valkyrie](https://marvelcdb.com/card/06012) x1 (thor)
+- [Venom](https://marvelcdb.com/card/22013) x1 (nebu)
+- [Venom](https://marvelcdb.com/card/27190) x1 (sm)
+- [Venom Blast](https://marvelcdb.com/card/04035) x2 (trors)
+- [Victor Mancha](https://marvelcdb.com/card/26015) x1 (vision)
+- [Victoria Hand](https://marvelcdb.com/card/50012) x1 (aos)
+- [Vigilante Training](https://marvelcdb.com/card/23033) x2 (warm)
+- [Vision](https://marvelcdb.com/card/01068) x1 (core)
+- [Vivian](https://marvelcdb.com/card/29024) x1 (ironheart)
+- [War](https://marvelcdb.com/card/44058) x1 (deadpool)
+- [War Machine](https://marvelcdb.com/card/04020) x1 (trors)
+- [War Room](https://marvelcdb.com/card/37030) x3 (gambit)
+- [Warlock](https://marvelcdb.com/card/14013) x1 (qsv)
+- [Warning](https://marvelcdb.com/card/09021) x3 (drs)
+- [Warpath](https://marvelcdb.com/card/42013) x1 (angel)
+- [Warrior Skill](https://marvelcdb.com/card/35016) x3 (wolv)
+- [Warrior of the Great Web](https://marvelcdb.com/card/30029) x3 (spiderham)
+- [Wasp](https://marvelcdb.com/card/29034) x1 (ironheart)
+- [Wasp](https://marvelcdb.com/card/13012) x1 (wsp)
+- [Waylay](https://marvelcdb.com/card/47014) x3 (jubilee)
+- [Weapon X](https://marvelcdb.com/card/35022) x1 (wolv)
+- ["Welcome Aboard"](https://marvelcdb.com/card/20027) x3 (vnm)
+- [What Doesn't Kill Me](https://marvelcdb.com/card/27016) x3 (sm)
+- [White Fox](https://marvelcdb.com/card/40057) x1 (next_evol)
+- [White Queen](https://marvelcdb.com/card/49021) x1 (magneto)
+- [White Tiger](https://marvelcdb.com/card/21013) x1 (mts)
+- [Wiccan](https://marvelcdb.com/card/15011) x1 (scw)
+- [Wolfsbane](https://marvelcdb.com/card/40051) x1 (next_evol)
+- [Wolverine](https://marvelcdb.com/card/32041) x1 (mut_gen)
+- [Won't Stay Down](https://marvelcdb.com/card/49016) x3 (magneto)
+- [Wonder Man](https://marvelcdb.com/card/03014) x1 (cap)
+- [Wraith](https://marvelcdb.com/card/22012) x1 (nebu)
+- [X-23](https://marvelcdb.com/card/45012) x1 (aoa)
+- [X-Force Recruit](https://marvelcdb.com/card/42032) x3 (angel)
+- [X-Men Instruction](https://marvelcdb.com/card/37031) x3 (gambit)
+- [Yaw and Roll](https://marvelcdb.com/card/28026) x3 (nova)
+- [Yondu](https://marvelcdb.com/card/17013) x1 (stld)
+- ["You Got This!"](https://marvelcdb.com/card/49019) x3 (magneto)
+- ["You'll Pay for That!"](https://marvelcdb.com/card/10016) x3 (hlk)
+- [Zone of Silence](https://marvelcdb.com/card/21050) x1 (mts)
+
+## Sorted by Pack
+### angel (15)
+- [Elixir](https://marvelcdb.com/card/42011) x1
+- [Siryn](https://marvelcdb.com/card/42012) x1
+- [Warpath](https://marvelcdb.com/card/42013) x1
+- [Aerial Intervention](https://marvelcdb.com/card/42014) x3
+- [Taunt](https://marvelcdb.com/card/42016) x3
+- [Render Medical Aid](https://marvelcdb.com/card/42017) x1
+- [Angel's Aerie](https://marvelcdb.com/card/42018) x1
+- [Containment Strategy](https://marvelcdb.com/card/42019) x3
+- [Cannonball](https://marvelcdb.com/card/42020) x1
+- [The Power of Flight](https://marvelcdb.com/card/42022) x3
+- [Soaring Acrobatics](https://marvelcdb.com/card/42023) x3
+- [Bombs Away](https://marvelcdb.com/card/42029) x3
+- [Eyes in the Sky](https://marvelcdb.com/card/42030) x3
+- [Flying Formation](https://marvelcdb.com/card/42031) x3
+- [X-Force Recruit](https://marvelcdb.com/card/42032) x3
+### ant (10)
+- [Ant-Man](https://marvelcdb.com/card/12011) x1
+- [Giant-Man](https://marvelcdb.com/card/12012) x1
+- [Ronin](https://marvelcdb.com/card/12013) x1
+- [Stinger](https://marvelcdb.com/card/12014) x1
+- [Call for Aid](https://marvelcdb.com/card/12015) x3
+- [Power Gloves](https://marvelcdb.com/card/12017) x3
+- [Reinforced Suit](https://marvelcdb.com/card/12018) x3
+- [Lay Down the Law](https://marvelcdb.com/card/12031) x3
+- [Muster Courage](https://marvelcdb.com/card/12032) x3
+- [Assess the Situation](https://marvelcdb.com/card/12033) x3
+### aoa (17)
+- [Cable](https://marvelcdb.com/card/45011) x1
+- [X-23](https://marvelcdb.com/card/45012) x1
+- [Advanced Suit](https://marvelcdb.com/card/45014) x3
+- [Sidekick](https://marvelcdb.com/card/45015) x3
+- [Side-by-Side](https://marvelcdb.com/card/45016) x3
+- [Suit Up](https://marvelcdb.com/card/45017) x3
+- [Legion](https://marvelcdb.com/card/45020) x1
+- [Marrow](https://marvelcdb.com/card/45021) x1
+- [Goldballs](https://marvelcdb.com/card/45041) x1
+- [Tempus](https://marvelcdb.com/card/45042) x1
+- [Blood Rage](https://marvelcdb.com/card/45043) x3
+- [Test the Defense](https://marvelcdb.com/card/45044) x3
+- [Full-Body Charge](https://marvelcdb.com/card/45045) x3
+- [Triage](https://marvelcdb.com/card/45048) x1
+- [Stepford Cuckoos](https://marvelcdb.com/card/45049) x1
+- [Bloodgem](https://marvelcdb.com/card/45050) x1
+- [Basic Spell](https://marvelcdb.com/card/45051) x3
+### aos (19)
+- [Victoria Hand](https://marvelcdb.com/card/50012) x1
+- [Slingshot](https://marvelcdb.com/card/50013) x1
+- [Organizational Support](https://marvelcdb.com/card/50014) x3
+- [Agents of S.H.I.E.L.D.](https://marvelcdb.com/card/50015) x3
+- [The Circe](https://marvelcdb.com/card/50017) x1
+- [The Bellerophon](https://marvelcdb.com/card/50018) x1
+- [The Douglass](https://marvelcdb.com/card/50019) x1
+- [The Pericles](https://marvelcdb.com/card/50020) x1
+- [Grant Ward](https://marvelcdb.com/card/50022) x1
+- [Melinda May](https://marvelcdb.com/card/50023) x1
+- [Super Spies](https://marvelcdb.com/card/50024) x2
+- [Front Organization](https://marvelcdb.com/card/50028) x3
+- [Informant](https://marvelcdb.com/card/50050) x3
+- [Intelligence](https://marvelcdb.com/card/50051) x3
+- [Prism Dust](https://marvelcdb.com/card/50052) x3
+- [Nick Fury, Sr.](https://marvelcdb.com/card/50054) x1
+- [Jemma Simmons](https://marvelcdb.com/card/50055) x1
+- [Leo Fitz](https://marvelcdb.com/card/50056) x1
+- [Practiced Plan](https://marvelcdb.com/card/50058) x3
+### bkw (7)
+- [Counterintelligence](https://marvelcdb.com/card/08017) x3
+- [Spycraft](https://marvelcdb.com/card/08018) x3
+- [Target Acquired](https://marvelcdb.com/card/08024) x3
+- [Counterattack](https://marvelcdb.com/card/08030) x3
+- [Rapid Response](https://marvelcdb.com/card/08031) x3
+- [Defensive Stance](https://marvelcdb.com/card/08032) x3
+- [Espionage](https://marvelcdb.com/card/08033) x3
+### cap (8)
+- [Squirrel Girl](https://marvelcdb.com/card/03013) x1
+- [Wonder Man](https://marvelcdb.com/card/03014) x1
+- [Avengers Assemble!](https://marvelcdb.com/card/03015) x3
+- [Strength In Numbers](https://marvelcdb.com/card/03017) x3
+- [Quinjet](https://marvelcdb.com/card/03019) x3
+- [Honorary Avenger](https://marvelcdb.com/card/03025) x3
+- [Enraged](https://marvelcdb.com/card/03031) x3
+- [Expert Defense](https://marvelcdb.com/card/03033) x3
+### core (12)
+- [Hulk](https://marvelcdb.com/card/01050) x1
+- [Tigra](https://marvelcdb.com/card/01051) x1
+- [Jessica Jones](https://marvelcdb.com/card/01059) x1
+- [Daredevil](https://marvelcdb.com/card/01058) x1
+- [Maria Hill](https://marvelcdb.com/card/01067) x1
+- [Vision](https://marvelcdb.com/card/01068) x1
+- [The Triskelion](https://marvelcdb.com/card/01073) x1
+- [Black Widow](https://marvelcdb.com/card/01075) x1
+- [Luke Cage](https://marvelcdb.com/card/01076) x1
+- [Emergency](https://marvelcdb.com/card/01085) x3
+- [Haymaker](https://marvelcdb.com/card/01087) x3
+- [Tenacity](https://marvelcdb.com/card/01093) x3
+### cyclops (13)
+- [Beast](https://marvelcdb.com/card/33011) x1
+- [Dust](https://marvelcdb.com/card/33012) x1
+- [Rockslide](https://marvelcdb.com/card/33013) x1
+- [Blindfold](https://marvelcdb.com/card/33014) x1
+- [Danger Room Training](https://marvelcdb.com/card/33015) x3
+- [Coordinated Attack](https://marvelcdb.com/card/33016) x3
+- [Angel](https://marvelcdb.com/card/33019) x1
+- [Danger Room](https://marvelcdb.com/card/33021) x1
+- [Game Time](https://marvelcdb.com/card/33022) x3
+- [Marked](https://marvelcdb.com/card/33032) x3
+- [Befuddle](https://marvelcdb.com/card/33033) x3
+- [Pinned Down](https://marvelcdb.com/card/33034) x3
+- [Honorary X-Men](https://marvelcdb.com/card/33035) x3
+### deadpool (34)
+- [Dogpool](https://marvelcdb.com/card/44013) x1
+- [Headpool](https://marvelcdb.com/card/44014) x1
+- [Kidpool](https://marvelcdb.com/card/44015) x1
+- [Lady Deadpool](https://marvelcdb.com/card/44016) x1
+- [Barely a Scratch](https://marvelcdb.com/card/44017) x3
+- [Cutupper](https://marvelcdb.com/card/44018) x1
+- [Da Bomb](https://marvelcdb.com/card/44019) x1
+- [Get Rage-y](https://marvelcdb.com/card/44020) x1
+- ["I Got This"](https://marvelcdb.com/card/44021) x3
+- [Not my Responsibility](https://marvelcdb.com/card/44022) x1
+- ['Pool Inspection](https://marvelcdb.com/card/44023) x1
+- [Live Dangerously](https://marvelcdb.com/card/44024) x1
+- [Self Confidence](https://marvelcdb.com/card/44025) x1
+- [Self Control](https://marvelcdb.com/card/44026) x1
+- [Self Preservation](https://marvelcdb.com/card/44027) x1
+- [Git Gud](https://marvelcdb.com/card/44028) x1
+- [Healing Factor](https://marvelcdb.com/card/44029) x3
+- [Stick-To-Itiveness](https://marvelcdb.com/card/44030) x1
+- [Bob, Agent of Hydra](https://marvelcdb.com/card/44043) x1
+- [Negasonic Teenage Warhead](https://marvelcdb.com/card/44044) x1
+- [Pandapool](https://marvelcdb.com/card/44045) x1
+- [Break Time](https://marvelcdb.com/card/44046) x1
+- [Get in Front of Me!](https://marvelcdb.com/card/44047) x1
+- [Mulligan](https://marvelcdb.com/card/44048) x3
+- [Deadpool Corps Ship](https://marvelcdb.com/card/44049) x1
+- [Plot Convenience](https://marvelcdb.com/card/44050) x1
+- [Ambush](https://marvelcdb.com/card/44051) x3
+- [Bazooka](https://marvelcdb.com/card/44052) x2
+- [Blackout](https://marvelcdb.com/card/44053) x1
+- [Distraction](https://marvelcdb.com/card/44054) x3
+- [Laser Swords](https://marvelcdb.com/card/44055) x1
+- [Rock, Paper, Scissors](https://marvelcdb.com/card/44056) x1
+- [Tic-Tac-Toe](https://marvelcdb.com/card/44057) x1
+- [War](https://marvelcdb.com/card/44058) x1
+### drax (10)
+- [Martyr](https://marvelcdb.com/card/19012) x1
+- [Moondragon](https://marvelcdb.com/card/19013) x1
+- [Deflection](https://marvelcdb.com/card/19015) x3
+- [Hard Knocks](https://marvelcdb.com/card/19016) x3
+- [Leading Blow](https://marvelcdb.com/card/19017) x3
+- [Subdue](https://marvelcdb.com/card/19018) x3
+- [Gamora](https://marvelcdb.com/card/19020) x1
+- ["Bring It!"](https://marvelcdb.com/card/19030) x3
+- ["Think Fast!"](https://marvelcdb.com/card/19031) x3
+- [Regroup](https://marvelcdb.com/card/19032) x3
+### drs (10)
+- [Brother Voodoo](https://marvelcdb.com/card/09012) x1
+- [Clea](https://marvelcdb.com/card/09013) x1
+- [Iron Fist](https://marvelcdb.com/card/09014) x1
+- [Momentum Shift](https://marvelcdb.com/card/09016) x3
+- [The Night Nurse](https://marvelcdb.com/card/09019) x1
+- [Warning](https://marvelcdb.com/card/09021) x3
+- [The Sorcerer Supreme](https://marvelcdb.com/card/09026) x1
+- [Skilled Strike](https://marvelcdb.com/card/09037) x3
+- [Foiled!](https://marvelcdb.com/card/09038) x3
+- [Iron Man](https://marvelcdb.com/card/09039) x1
+### gam (8)
+- [Plan of Attack](https://marvelcdb.com/card/18013) x3
+- [First Hit](https://marvelcdb.com/card/18015) x3
+- [Impede](https://marvelcdb.com/card/18016) x3
+- [Godslayer](https://marvelcdb.com/card/18018) x1
+- [Drax](https://marvelcdb.com/card/18019) x1
+- [Pivotal Moment](https://marvelcdb.com/card/18029) x3
+- [Comms Implant](https://marvelcdb.com/card/18030) x3
+- [True Grit](https://marvelcdb.com/card/18031) x3
+### gambit (7)
+- [Bishop](https://marvelcdb.com/card/37011) x1
+- [Dazzler](https://marvelcdb.com/card/37012) x1
+- [Operative Skill](https://marvelcdb.com/card/37013) x3
+- [Breaking and Entering](https://marvelcdb.com/card/37015) x3
+- [Mutant Education](https://marvelcdb.com/card/37021) x3
+- [War Room](https://marvelcdb.com/card/37030) x3
+- [X-Men Instruction](https://marvelcdb.com/card/37031) x3
+### gmw (10)
+- [Starhawk](https://marvelcdb.com/card/16012) x1
+- [Fighting Fit](https://marvelcdb.com/card/16014) x3
+- [Dauntless](https://marvelcdb.com/card/16016) x3
+- [Hard to Ignore](https://marvelcdb.com/card/16017) x3
+- [Rocket Raccoon](https://marvelcdb.com/card/16019) x1
+- [Bug](https://marvelcdb.com/card/16040) x1
+- [Follow Through](https://marvelcdb.com/card/16045) x3
+- [Hand Cannon](https://marvelcdb.com/card/16046) x3
+- [Groot](https://marvelcdb.com/card/16047) x1
+- [Booster Boots](https://marvelcdb.com/card/16052) x3
+### hlk (10)
+- [Brawn](https://marvelcdb.com/card/10011) x1
+- [Sentry](https://marvelcdb.com/card/10012) x1
+- [She-Hulk](https://marvelcdb.com/card/10013) x1
+- [Drop Kick](https://marvelcdb.com/card/10014) x3
+- ["You'll Pay for That!"](https://marvelcdb.com/card/10016) x3
+- [Martial Prowess](https://marvelcdb.com/card/10018) x3
+- [To the Rescue!](https://marvelcdb.com/card/10019) x3
+- [Beat Cop](https://marvelcdb.com/card/10029) x3
+- [Inspiring Presence](https://marvelcdb.com/card/10030) x3
+- [Electrostatic Armor](https://marvelcdb.com/card/10031) x3
+### iceman (8)
+- [Shark-Girl](https://marvelcdb.com/card/46012) x1
+- [Glob](https://marvelcdb.com/card/46013) x1
+- [Suppressing Fire](https://marvelcdb.com/card/46014) x3
+- [Surprise Move](https://marvelcdb.com/card/46015) x3
+- [Take That!](https://marvelcdb.com/card/46016) x3
+- [Keep Up the Pressure](https://marvelcdb.com/card/46018) x1
+- [Shadowcat](https://marvelcdb.com/card/46019) x1
+- [Beak](https://marvelcdb.com/card/46020) x1
+### ironheart (13)
+- [Cloud 9](https://marvelcdb.com/card/29014) x1
+- [Falcon](https://marvelcdb.com/card/29015) x1
+- [Patriot](https://marvelcdb.com/card/29016) x1
+- [Go All Out](https://marvelcdb.com/card/29017) x3
+- [Push Ahead](https://marvelcdb.com/card/29018) x3
+- [R&D Facility](https://marvelcdb.com/card/29020) x3
+- [Snowguard](https://marvelcdb.com/card/29023) x1
+- [Vivian](https://marvelcdb.com/card/29024) x1
+- ["Go for Champions!"](https://marvelcdb.com/card/29025) x1
+- [Ingenuity](https://marvelcdb.com/card/29027) x3
+- [Bombshell](https://marvelcdb.com/card/29033) x1
+- [Wasp](https://marvelcdb.com/card/29034) x1
+- [Pinpoint](https://marvelcdb.com/card/29035) x1
+### jubilee (12)
+- [Chamber](https://marvelcdb.com/card/47011) x1
+- [Husk](https://marvelcdb.com/card/47012) x1
+- [Disguise](https://marvelcdb.com/card/47013) x3
+- [Waylay](https://marvelcdb.com/card/47014) x3
+- [Three Steps Ahead](https://marvelcdb.com/card/47015) x3
+- [Generation X](https://marvelcdb.com/card/47016) x1
+- [Synch](https://marvelcdb.com/card/47018) x1
+- [Cell Phone](https://marvelcdb.com/card/47019) x3
+- [Multitalented](https://marvelcdb.com/card/47021) x3
+- [Unlikely Duo](https://marvelcdb.com/card/47022) x1
+- [Mutant Mayhem](https://marvelcdb.com/card/47028) x3
+- [Serve and Protect](https://marvelcdb.com/card/47029) x3
+### magneto (16)
+- [M](https://marvelcdb.com/card/49012) x1
+- [Kid Omega](https://marvelcdb.com/card/49013) x1
+- [Phoenix](https://marvelcdb.com/card/49014) x1
+- [Cyclops](https://marvelcdb.com/card/49015) x1
+- [Won't Stay Down](https://marvelcdb.com/card/49016) x3
+- [Squared Off](https://marvelcdb.com/card/49017) x3
+- [Noble Sacrifice](https://marvelcdb.com/card/49018) x3
+- ["You Got This!"](https://marvelcdb.com/card/49019) x3
+- [New Recruits](https://marvelcdb.com/card/49020) x1
+- [White Queen](https://marvelcdb.com/card/49021) x1
+- [Face the Past](https://marvelcdb.com/card/49022) x1
+- [Surge](https://marvelcdb.com/card/49033) x1
+- [Anole](https://marvelcdb.com/card/49034) x1
+- [Bling!](https://marvelcdb.com/card/49035) x1
+- [Indra](https://marvelcdb.com/card/49036) x1
+- [Children of the Atom](https://marvelcdb.com/card/49037) x3
+### msm (4)
+- [Nova](https://marvelcdb.com/card/05012) x1
+- [Tackle](https://marvelcdb.com/card/05015) x3
+- [Lockjaw](https://marvelcdb.com/card/05018) x1
+- [Melee](https://marvelcdb.com/card/05030) x3
+### mts (21)
+- [Captain America](https://marvelcdb.com/card/21011) x1
+- [Power Man](https://marvelcdb.com/card/21012) x1
+- [White Tiger](https://marvelcdb.com/card/21013) x1
+- [Kaluu](https://marvelcdb.com/card/21014) x1
+- [Mighty Avengers](https://marvelcdb.com/card/21015) x3
+- [Mass Attack](https://marvelcdb.com/card/21016) x3
+- [Band Together](https://marvelcdb.com/card/21018) x3
+- [Blade](https://marvelcdb.com/card/21019) x1
+- [Marvel Boy](https://marvelcdb.com/card/21041) x1
+- [In-Betweener](https://marvelcdb.com/card/21042) x1
+- [Magic Attack](https://marvelcdb.com/card/21043) x1
+- [Quasar](https://marvelcdb.com/card/21047) x1
+- [Living Tribunal](https://marvelcdb.com/card/21048) x1
+- [Zone of Silence](https://marvelcdb.com/card/21050) x1
+- [Major Victory](https://marvelcdb.com/card/21053) x1
+- [Eternity](https://marvelcdb.com/card/21054) x1
+- [Summoning Spell](https://marvelcdb.com/card/21055) x1
+- [Charlie-27](https://marvelcdb.com/card/21059) x1
+- [The Gardener](https://marvelcdb.com/card/21060) x1
+- [Shield Spell](https://marvelcdb.com/card/21061) x1
+- [Martinex](https://marvelcdb.com/card/21065) x1
+### mut_gen (9)
+- [Nightcrawler](https://marvelcdb.com/card/32011) x1
+- [Polaris](https://marvelcdb.com/card/32012) x1
+- [Protective Training](https://marvelcdb.com/card/32013) x3
+- [Mutant Protectors](https://marvelcdb.com/card/32017) x3
+- [Wolverine](https://marvelcdb.com/card/32041) x1
+- [Magik](https://marvelcdb.com/card/32042) x1
+- [Attack Training](https://marvelcdb.com/card/32043) x3
+- [Gatekeeper](https://marvelcdb.com/card/32044) x3
+- [Team Strike](https://marvelcdb.com/card/32045) x3
+### ncrawler (10)
+- [Rogue](https://marvelcdb.com/card/48012) x1
+- [Northstar](https://marvelcdb.com/card/48013) x1
+- [Change of Fortune](https://marvelcdb.com/card/48014) x3
+- [Under Control](https://marvelcdb.com/card/48015) x3
+- ["Come Get Me, Bub!"](https://marvelcdb.com/card/48016) x3
+- [Riposte](https://marvelcdb.com/card/48018) x3
+- [Astonishing X-Men](https://marvelcdb.com/card/48020) x1
+- [Gambit](https://marvelcdb.com/card/48021) x1
+- [Combine Forces](https://marvelcdb.com/card/48031) x3
+- [Gunboat Diplomacy](https://marvelcdb.com/card/48032) x3
+### nebu (10)
+- [Eros](https://marvelcdb.com/card/22011) x1
+- [Wraith](https://marvelcdb.com/card/22012) x1
+- [Venom](https://marvelcdb.com/card/22013) x1
+- [Justice Served](https://marvelcdb.com/card/22014) x3
+- [Brains Over Brawn](https://marvelcdb.com/card/22018) x3
+- [Daughters of Thanos](https://marvelcdb.com/card/22022) x2
+- [Energy Spear](https://marvelcdb.com/card/22032) x3
+- [Guardians of the Galaxy](https://marvelcdb.com/card/22033) x3
+- [Defensive Training](https://marvelcdb.com/card/22034) x2
+- [Honorary Guardian](https://marvelcdb.com/card/22035) x3
+### next_evol (25)
+- [Caliban](https://marvelcdb.com/card/40014) x1
+- [Fantomex](https://marvelcdb.com/card/40015) x1
+- [Sunspot](https://marvelcdb.com/card/40016) x1
+- [Mission Planning](https://marvelcdb.com/card/40017) x3
+- [Call for Backup](https://marvelcdb.com/card/40018) x1
+- [Lock and Load](https://marvelcdb.com/card/40019) x1
+- [Establish Perimeter](https://marvelcdb.com/card/40020) x1
+- [E.V.A.](https://marvelcdb.com/card/40021) x1
+- [Uncanny X-Force](https://marvelcdb.com/card/40022) x3
+- [Mission Leader](https://marvelcdb.com/card/40023) x1
+- [Deadpool](https://marvelcdb.com/card/40024) x1
+- [Deathlok](https://marvelcdb.com/card/40025) x1
+- [Build Support](https://marvelcdb.com/card/40027) x1
+- [Psimitar](https://marvelcdb.com/card/40029) x1
+- [Feral](https://marvelcdb.com/card/40050) x1
+- [Wolfsbane](https://marvelcdb.com/card/40051) x1
+- [Team Investigation](https://marvelcdb.com/card/40053) x3
+- [Take Out the Guards](https://marvelcdb.com/card/40054) x1
+- [Atlas Bear](https://marvelcdb.com/card/40056) x1
+- [White Fox](https://marvelcdb.com/card/40057) x1
+- [The Posse](https://marvelcdb.com/card/40058) x1
+- [Superpower Training](https://marvelcdb.com/card/40059) x1
+- [Digging Deep](https://marvelcdb.com/card/40060) x3
+- [Sharpshooter](https://marvelcdb.com/card/40064) x3
+- [Hope Summers](https://marvelcdb.com/card/40204) x1
+### nova (11)
+- [The Locust](https://marvelcdb.com/card/28010) x1
+- [Pitchback](https://marvelcdb.com/card/28012) x3
+- [No Quarter](https://marvelcdb.com/card/28013) x3
+- [One by One](https://marvelcdb.com/card/28014) x3
+- [Fluid Motion](https://marvelcdb.com/card/28016) x3
+- [Honed Technique](https://marvelcdb.com/card/28017) x3
+- [Moon Girl](https://marvelcdb.com/card/28018) x1
+- [Everyday Hero](https://marvelcdb.com/card/28019) x3
+- [Champions Mobile Bunker](https://marvelcdb.com/card/28020) x1
+- [Yaw and Roll](https://marvelcdb.com/card/28026) x3
+- [Height Advantage](https://marvelcdb.com/card/28027) x3
+### phoenix (11)
+- [Banshee](https://marvelcdb.com/card/34014) x1
+- [Marvel Girl](https://marvelcdb.com/card/34015) x1
+- [Mission Training](https://marvelcdb.com/card/34016) x3
+- [Psychic Manipulation](https://marvelcdb.com/card/34017) x3
+- [Mutant Peacekeepers](https://marvelcdb.com/card/34018) x3
+- [Storm](https://marvelcdb.com/card/34021) x1
+- [Cerebro](https://marvelcdb.com/card/34022) x1
+- [Psychic Assault](https://marvelcdb.com/card/34032) x3
+- [Psychic Misdirection](https://marvelcdb.com/card/34033) x3
+- [Psychic Kicker](https://marvelcdb.com/card/34034) x3
+- [Soul Sisters](https://marvelcdb.com/card/34035) x1
+### psylocke (12)
+- [Captain Britain](https://marvelcdb.com/card/41012) x1
+- [Cypher](https://marvelcdb.com/card/41013) x1
+- [Upside the Head](https://marvelcdb.com/card/41015) x3
+- [Lay the Trap](https://marvelcdb.com/card/41016) x1
+- [Float Like a Butterfly](https://marvelcdb.com/card/41017) x3
+- [Pete Wisdom](https://marvelcdb.com/card/41018) x1
+- [Directed Force](https://marvelcdb.com/card/41019) x3
+- [Telepathy](https://marvelcdb.com/card/41024) x3
+- [Psi-Bow Attack](https://marvelcdb.com/card/41030) x3
+- [Domino](https://marvelcdb.com/card/41031) x1
+- [Psi-Flail Strike](https://marvelcdb.com/card/41032) x3
+- [Telekinesis](https://marvelcdb.com/card/41033) x3
+### qsv (10)
+- [Multiple Man](https://marvelcdb.com/card/14012) x3
+- [Warlock](https://marvelcdb.com/card/14013) x1
+- [Never Back Down](https://marvelcdb.com/card/14014) x3
+- [Nerves of Steel](https://marvelcdb.com/card/14017) x3
+- [Adrenaline Rush](https://marvelcdb.com/card/14022) x3
+- [Civic Duty](https://marvelcdb.com/card/14023) x3
+- [Brute Force](https://marvelcdb.com/card/14029) x3
+- [Sense of Justice](https://marvelcdb.com/card/14030) x3
+- [United We Stand](https://marvelcdb.com/card/14031) x3
+- [Beat 'Em Up](https://marvelcdb.com/card/14032) x3
+### rogue (6)
+- [Iceman](https://marvelcdb.com/card/38010) x1
+- [Karma](https://marvelcdb.com/card/38011) x1
+- [Armor](https://marvelcdb.com/card/38012) x1
+- [Judoka Skill](https://marvelcdb.com/card/38014) x3
+- [Not Today!](https://marvelcdb.com/card/38016) x3
+- [Med Lab](https://marvelcdb.com/card/38028) x3
+### scw (7)
+- [Speed](https://marvelcdb.com/card/15010) x1
+- [Wiccan](https://marvelcdb.com/card/15011) x1
+- [Crisis Averted](https://marvelcdb.com/card/15012) x3
+- [Multitasking](https://marvelcdb.com/card/15013) x3
+- [Turn the Tide](https://marvelcdb.com/card/15015) x3
+- [Browbeat](https://marvelcdb.com/card/15028) x3
+- [Last Stand](https://marvelcdb.com/card/15029) x3
+### sm (18)
+- [Silk](https://marvelcdb.com/card/27010) x1
+- [Spider-Man](https://marvelcdb.com/card/27011) x1
+- [Spider-UK](https://marvelcdb.com/card/27012) x1
+- [Jump Flip](https://marvelcdb.com/card/27014) x3
+- [Return the Favor](https://marvelcdb.com/card/27015) x3
+- [What Doesn't Kill Me](https://marvelcdb.com/card/27016) x3
+- [Spider-Man](https://marvelcdb.com/card/27017) x1
+- [Across the Spider-Verse](https://marvelcdb.com/card/27018) x1
+- [Plan B](https://marvelcdb.com/card/27024) x3
+- [Monica Chang](https://marvelcdb.com/card/27040) x1
+- [Spider-Woman](https://marvelcdb.com/card/27041) x1
+- [Homeland Intervention](https://marvelcdb.com/card/27042) x3
+- [Field Agent](https://marvelcdb.com/card/27044) x3
+- [Ghost-Spider](https://marvelcdb.com/card/27048) x1
+- [Spider-Man](https://marvelcdb.com/card/27049) x1
+- [Government Liaison](https://marvelcdb.com/card/27054) x3
+- [Venom](https://marvelcdb.com/card/27190) x1
+- [Symbiote Suit](https://marvelcdb.com/card/27191) x4
+### spdr (11)
+- [Daredevil](https://marvelcdb.com/card/31014) x1
+- [Spider-Man Noir](https://marvelcdb.com/card/31015) x1
+- [Repurpose](https://marvelcdb.com/card/31016) x3
+- [Thwip Thwip!](https://marvelcdb.com/card/31017) x3
+- [Forcefield Generator](https://marvelcdb.com/card/31019) x3
+- [Spider-Tingle](https://marvelcdb.com/card/31020) x3
+- [Spider-Ham](https://marvelcdb.com/card/31021) x1
+- [Spider-Man](https://marvelcdb.com/card/31022) x1
+- [Limitless Stamina](https://marvelcdb.com/card/31023) x3
+- [Unshakable](https://marvelcdb.com/card/31024) x3
+- [Clarity of Purpose](https://marvelcdb.com/card/31029) x3
+### spiderham (5)
+- [Lady Spider](https://marvelcdb.com/card/30012) x1
+- [Spider-Man](https://marvelcdb.com/card/30013) x1
+- [Scarlet Spider](https://marvelcdb.com/card/30020) x1
+- [SP//dr](https://marvelcdb.com/card/30021) x1
+- [Warrior of the Great Web](https://marvelcdb.com/card/30029) x3
+### stld (11)
+- [Adam Warlock](https://marvelcdb.com/card/17011) x1
+- [Beta Ray Bill](https://marvelcdb.com/card/17012) x1
+- [Yondu](https://marvelcdb.com/card/17013) x1
+- [Air Supremacy](https://marvelcdb.com/card/17014) x3
+- [Blaze of Glory](https://marvelcdb.com/card/17015) x3
+- [Target Practice](https://marvelcdb.com/card/17017) x3
+- [Laser Blaster](https://marvelcdb.com/card/17019) x3
+- [C.I.T.T.](https://marvelcdb.com/card/17021) x1
+- [Pulse Grenade](https://marvelcdb.com/card/17023) x3
+- [Dive Bomb](https://marvelcdb.com/card/17028) x3
+- [Agile Flight](https://marvelcdb.com/card/17029) x3
+### storm (9)
+- [Havok](https://marvelcdb.com/card/36014) x1
+- [Mirage](https://marvelcdb.com/card/36015) x1
+- [Gentle](https://marvelcdb.com/card/36016) x1
+- [Pixie](https://marvelcdb.com/card/36017) x1
+- [Uncanny X-Men](https://marvelcdb.com/card/36018) x3
+- [Leadership Skill](https://marvelcdb.com/card/36019) x3
+- ["To Me, My X-Men!"](https://marvelcdb.com/card/36020) x3
+- [Forge](https://marvelcdb.com/card/36022) x1
+- [Hangar Bay](https://marvelcdb.com/card/36035) x3
+### thor (7)
+- [Hercules](https://marvelcdb.com/card/06011) x1
+- [Valkyrie](https://marvelcdb.com/card/06012) x1
+- [Get Over Here!](https://marvelcdb.com/card/06014) x3
+- [Jarnbjorn](https://marvelcdb.com/card/06019) x1
+- [Heimdall](https://marvelcdb.com/card/06020) x1
+- [Invulnerability](https://marvelcdb.com/card/06021) x3
+- [Second Wind](https://marvelcdb.com/card/06033) x3
+### trors (17)
+- [Hawkeye](https://marvelcdb.com/card/04011) x1
+- [Black Knight](https://marvelcdb.com/card/04012) x1
+- [U.S. Agent](https://marvelcdb.com/card/04014) x1
+- [Sky Cycle](https://marvelcdb.com/card/04015) x3
+- [Ready for Action](https://marvelcdb.com/card/04017) x3
+- [War Machine](https://marvelcdb.com/card/04020) x1
+- [Earth's Mightiest Heroes](https://marvelcdb.com/card/04022) x3
+- [Venom Blast](https://marvelcdb.com/card/04035) x2
+- [Pheromones](https://marvelcdb.com/card/04036) x2
+- [Contaminant Immunity](https://marvelcdb.com/card/04037) x2
+- [Inconspicuous](https://marvelcdb.com/card/04038) x2
+- [Spider-Girl](https://marvelcdb.com/card/04040) x1
+- [Press the Advantage](https://marvelcdb.com/card/04043) x3
+- [Piercing Strike](https://marvelcdb.com/card/04044) x3
+- [Spider-Man](https://marvelcdb.com/card/04045) x1
+- [Skilled Investigator](https://marvelcdb.com/card/04047) x3
+- [Clear the Area](https://marvelcdb.com/card/04049) x3
+### valk (11)
+- [Thor](https://marvelcdb.com/card/25013) x1
+- [Throg](https://marvelcdb.com/card/25014) x1
+- [Quick Strike](https://marvelcdb.com/card/25018) x3
+- [Smash the Problem](https://marvelcdb.com/card/25019) x3
+- [The Best Defense…](https://marvelcdb.com/card/25020) x3
+- [The Bifrost](https://marvelcdb.com/card/25023) x1
+- [Godlike Stamina](https://marvelcdb.com/card/25024) x3
+- [Problem Solvers](https://marvelcdb.com/card/25033) x3
+- [Leadership Training](https://marvelcdb.com/card/25034) x2
+- [Anticipation](https://marvelcdb.com/card/25035) x3
+- [Cosmic Alliance](https://marvelcdb.com/card/25036) x3
+### vision (11)
+- [Jocasta](https://marvelcdb.com/card/26013) x1
+- [Protector](https://marvelcdb.com/card/26014) x1
+- [Victor Mancha](https://marvelcdb.com/card/26015) x1
+- [Flow Like Water](https://marvelcdb.com/card/26016) x3
+- [Defiance](https://marvelcdb.com/card/26018) x3
+- [Machine Man](https://marvelcdb.com/card/26022) x1
+- [Reboot](https://marvelcdb.com/card/26024) x3
+- [Assault Training](https://marvelcdb.com/card/26033) x2
+- [Chance Encounter](https://marvelcdb.com/card/26034) x3
+- [Joining Forces](https://marvelcdb.com/card/26035) x3
+- [Meditation](https://marvelcdb.com/card/26036) x3
+### vnm (10)
+- [Jack Flag](https://marvelcdb.com/card/20011) x1
+- [Scare Tactic](https://marvelcdb.com/card/20012) x3
+- [Sonic Rifle](https://marvelcdb.com/card/20015) x3
+- [Star-Lord](https://marvelcdb.com/card/20016) x1
+- [Side Holster](https://marvelcdb.com/card/20021) x3
+- [Plasma Pistol](https://marvelcdb.com/card/20022) x3
+- [Fusillade](https://marvelcdb.com/card/20026) x3
+- ["Welcome Aboard"](https://marvelcdb.com/card/20027) x3
+- [Shake it Off](https://marvelcdb.com/card/20028) x3
+- [Crew Quarters](https://marvelcdb.com/card/20029) x3
+### warm (9)
+- [Black Panther](https://marvelcdb.com/card/23012) x1
+- [Captain Marvel](https://marvelcdb.com/card/23013) x1
+- [Sneak Attack](https://marvelcdb.com/card/23017) x3
+- [Save the Day](https://marvelcdb.com/card/23018) x3
+- [Go Down Swinging](https://marvelcdb.com/card/23019) x3
+- [Two Against the World](https://marvelcdb.com/card/23024) x2
+- [As One!](https://marvelcdb.com/card/23032) x3
+- [Vigilante Training](https://marvelcdb.com/card/23033) x2
+- [Stand Together](https://marvelcdb.com/card/23034) x3
+### wolv (9)
+- [Psylocke](https://marvelcdb.com/card/35013) x1
+- [Sunfire](https://marvelcdb.com/card/35014) x1
+- [Warrior Skill](https://marvelcdb.com/card/35016) x3
+- [Outta My Way!](https://marvelcdb.com/card/35017) x3
+- [Precision Strike](https://marvelcdb.com/card/35018) x3
+- [Weapon X](https://marvelcdb.com/card/35022) x1
+- [Fastball Special](https://marvelcdb.com/card/35023) x1
+- [Command Center](https://marvelcdb.com/card/35032) x3
+- [Longshot](https://marvelcdb.com/card/35033) x1
+### wsp (9)
+- [Thor](https://marvelcdb.com/card/13011) x1
+- [Wasp](https://marvelcdb.com/card/13012) x1
+- [Surprise Attack](https://marvelcdb.com/card/13014) x3
+- [Boot Camp](https://marvelcdb.com/card/13016) x3
+- [Lie in Wait](https://marvelcdb.com/card/13017) x3
+- [Ironheart](https://marvelcdb.com/card/13018) x1
+- [Spider-Man](https://marvelcdb.com/card/13019) x1
+- [Running Interference](https://marvelcdb.com/card/13031) x3
+- [All for One](https://marvelcdb.com/card/13032) x3
+### x23 (15)
+- [Boom Boom](https://marvelcdb.com/card/43013) x1
+- [Rictor](https://marvelcdb.com/card/43014) x1
+- [Shatterstar](https://marvelcdb.com/card/43015) x1
+- [Critical Hit](https://marvelcdb.com/card/43016) x3
+- [Keep Them Busy](https://marvelcdb.com/card/43018) x1
+- ["Now I'm Mad"](https://marvelcdb.com/card/43019) x3
+- [The Direct Approach](https://marvelcdb.com/card/43020) x3
+- [Specialized Training](https://marvelcdb.com/card/43021) x1
+- [Combat Specialist](https://marvelcdb.com/card/43034) x1
+- [Defense Specialist](https://marvelcdb.com/card/43035) x1
+- [Front Line Specialist](https://marvelcdb.com/card/43036) x1
+- [Surveillance Specialist](https://marvelcdb.com/card/43037) x1
+- [Predictable Ploy](https://marvelcdb.com/card/43038) x3
+- [Rally the Troops](https://marvelcdb.com/card/43039) x1
+- [Anticipated Attack](https://marvelcdb.com/card/43040) x3
