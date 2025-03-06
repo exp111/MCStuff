@@ -164,7 +164,8 @@ for card in filter(isReprint, cards):
         reprints[pack] = []
     reprints[pack].append(card)
 # write
-reprintOutputPath = os.path.join(outputDir, f"reprints.md")
+reprintOutputFileName = "reprints.md" if lang is None else f"reprints_{lang}.md"
+reprintOutputPath = os.path.join(outputDir, reprintOutputFileName)
 with open(reprintOutputPath, "w", encoding="utf-8") as out:
     write("# Reprints", out)
     for pack in reprints:
@@ -176,8 +177,8 @@ with open(reprintOutputPath, "w", encoding="utf-8") as out:
 # list unique cards with their corresponding packs (in full list and in nested list sorted by packs)
 # get reprints and sort by pack
 uniqueCards = list(filter(isUniquePlayerCard, cards))
-outputFileName = "uniques.md" if lang is None else f"uniques_{lang}.md"
-uniqueOutputPath = os.path.join(outputDir, outputFileName)
+uniqueOutputFileName = "uniques.md" if lang is None else f"uniques_{lang}.md"
+uniqueOutputPath = os.path.join(outputDir, uniqueOutputFileName)
 with open(uniqueOutputPath, "w", encoding="utf-8") as out:
     write("# Unique Cards", out)
     write("## Sorted by Name", out)
