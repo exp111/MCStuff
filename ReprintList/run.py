@@ -3,7 +3,8 @@ import html
 import json
 import os
 import textwrap
-from schema import Card, DeckOption, DeckRequirement
+from card_schema import Card, DeckOption, DeckRequirement
+from pack_schema import Pack
 
 def directory(raw_path: str):
     raw_path = raw_path.replace("\"", "").replace("'", "").strip()
@@ -14,11 +15,13 @@ def directory(raw_path: str):
 parser = argparse.ArgumentParser(
                     prog='Marvel Champions Reprint List',
                     description='Checks the Marvel Champions JSON Repo for reprints')
+parser.add_argument("-l", "--lang", default=None, help="The language code")
 parser.add_argument("-v", "--verbose", action="store_true", help="Show verbose output") # flag
 parser.add_argument("-i", "--input", nargs="?", default=os.path.curdir, type=directory, help="The directory of the repo. Defaults to the current path.")
 parser.add_argument("-o", "--output", nargs="?", default=os.path.curdir, type=directory, help="The directory where the output is writtent to. Defaults to the current path.")
 args = parser.parse_args()
 # args
+lang = args.lang
 verbose = args.verbose
 inputDir = args.input
 outputDir = args.output
@@ -49,14 +52,18 @@ for entry in os.scandir(os.path.join(baseDir, packSubDir)):
     if entry.is_file() and entry.name.endswith("json"):
         with open(entry.path, mode="r", encoding="utf-8") as f:
             packs[entry.name] = json.load(f)
-#print(packs)
+vprint(f"{len(packs)} pack files loaded.")
+
+# get packs
+allPacks: list[Pack] = []
+with open(os.path.join(baseDir, packsFile), mode="r", encoding="utf-8") as f:
+    allPacks = json.load(f)
+vprint(f"{len(allPacks)} packs loaded.")
 
 # check if any files were found
 if len(packs) == 0:
     print("No files found.")
     exit(0)
-
-vprint(f"{len(packs)} files loaded.")
 
 # map into cards list
 cards: list[Card] = []
@@ -92,6 +99,13 @@ def isUniquePlayerCard(card: Card):
         return False
     return True
 
+def getPackName(packCode: str):
+    pack = list(filter(lambda p: p.get("code") == packCode, allPacks))
+    if len(pack) > 0:
+        return pack[0].get("name") or packCode
+    else:
+        return packCode
+
 # list reprints (sorted by pack)
 reprints: dict[str, list[Card]] = {}
 # get reprints and sort by pack
@@ -105,7 +119,9 @@ reprintOutputPath = os.path.join(outputDir, f"reprints.md")
 with open(reprintOutputPath, "w", encoding="utf-8") as out:
     write("# Reprints", out)
     for pack in reprints:
-        write(f"## {pack} ({len(reprints[pack])})", out)
+        # TODO: get pack name
+        write(f"## {getPackName(pack)} ({len(reprints[pack])})", out)
+        # TODO: spoiler for each entry
         for card in reprints[pack]:
             orig = getCardByCode(card.get("duplicate_of"))
             write(f"- [{orig.get("name")}]({getCardUrl(orig)}) x{card.get("quantity")}", out)
@@ -116,8 +132,9 @@ uniqueOutputPath = os.path.join(outputDir, f"uniques.md")
 with open(uniqueOutputPath, "w", encoding="utf-8") as out:
     write("# Unique Cards", out)
     write("## Sorted by Name", out)
+    # TODO: spoilers for list
     for card in sorted(uniqueCards, key=lambda c: c.get("name").strip("\"' ")):
-        write(f"- [{card.get("name")}]({getCardUrl(card)}) x{card.get("quantity")} ({card.get("pack_code")})", out)
+        write(f"- [{card.get("name")}]({getCardUrl(card)}) x{card.get("quantity")} ({getPackName(card.get("pack_code"))})", out)
 
     write("", out)
     write("## Sorted by Pack", out)
@@ -127,7 +144,8 @@ with open(uniqueOutputPath, "w", encoding="utf-8") as out:
         if not pack in uniques:
             uniques[pack] = []
         uniques[pack].append(card)
+    #TODO: spoiler for list + each pack
     for pack in uniques:
-        write(f"### {pack} ({len(uniques[pack])})", out)
+        write(f"### {getPackName(pack)} ({len(uniques[pack])})", out)
         for card in uniques[pack]:
             write(f"- [{card.get("name")}]({getCardUrl(card)}) x{card.get("quantity")}", out)
