@@ -5,6 +5,7 @@ import os
 import textwrap
 from card_schema import Card, DeckOption, DeckRequirement
 from pack_schema import Pack
+import sys
 
 def directory(raw_path: str):
     raw_path = raw_path.replace("\"", "").replace("'", "").strip()
@@ -21,7 +22,7 @@ parser.add_argument("-i", "--input", nargs="?", default=os.path.curdir, type=dir
 parser.add_argument("-o", "--output", nargs="?", default=os.path.curdir, type=directory, help="The directory where the output is writtent to. Defaults to the current path.")
 args = parser.parse_args()
 # args
-lang = args.lang
+lang = args.lang.strip() if args.lang is not None else None
 verbose = args.verbose
 inputDir = args.input
 outputDir = args.output
@@ -51,25 +52,51 @@ vprint(args)
 # consts
 baseDir = inputDir
 packSubDir = "pack"
+translationsSubDir = "translations"
 packsFile = "packs.json"
 dbUrl = "https://marvelcdb.com/card/{0}"
 
 vprint("Reading files")
 # TODO: sanity check the input dir
 
+translationDir = ""
+if lang is not None:
+    translationDir = os.path.join(baseDir, translationsSubDir, lang)
+    if not os.path.exists(translationDir):
+        print(f"Can't find translations directory for lang {lang}.")
+        sys.exit(1)
+
+def loadPacks(path: str):
+    packs = {}
+    for entry in os.scandir(path):
+        if entry.is_file() and entry.name.endswith("json"):
+            with open(entry.path, mode="r", encoding="utf-8") as f:
+                packs[entry.name] = json.load(f)
+    return packs
+
+def loadAllPacks(path: str):
+    allPacks: list[Pack] = []
+    with open(path, mode="r", encoding="utf-8") as f:
+        allPacks = json.load(f)
+    return allPacks
+
 # get all existing original files
-packs = {}
-for entry in os.scandir(os.path.join(baseDir, packSubDir)):
-    if entry.is_file() and entry.name.endswith("json"):
-        with open(entry.path, mode="r", encoding="utf-8") as f:
-            packs[entry.name] = json.load(f)
+packs = loadPacks(os.path.join(baseDir, packSubDir))
 vprint(f"{len(packs)} pack files loaded.")
 
+translatedPacks = None
+if lang is not None:
+    translatedPacks = loadPacks(os.path.join(translationDir, packSubDir))
+    vprint(f"{len(packs)} translation pack files loaded.")
+
 # get packs
-allPacks: list[Pack] = []
-with open(os.path.join(baseDir, packsFile), mode="r", encoding="utf-8") as f:
-    allPacks = json.load(f)
+allPacks: list[Pack] = loadAllPacks(os.path.join(baseDir, packsFile))
 vprint(f"{len(allPacks)} packs loaded.")
+
+translatedAllPacks = None
+if lang is not None:
+    translatedAllPacks = loadAllPacks(os.path.join(translationDir, packsFile))
+    vprint(f"{len(packs)} translation packs loaded.")
 
 # check if any files were found
 if len(packs) == 0:
@@ -111,6 +138,10 @@ def isUniquePlayerCard(card: Card):
     return True
 
 def getPackName(packCode: str):
+    if lang is not None:
+        pack = list(filter(lambda p: p.get("code") == packCode, translatedAllPacks))
+        if len(pack) > 0:
+            return pack[0].get("name") or packCode
     pack = list(filter(lambda p: p.get("code") == packCode, allPacks))
     if len(pack) > 0:
         return pack[0].get("name") or packCode
@@ -118,6 +149,10 @@ def getPackName(packCode: str):
         return packCode
     
 def getCardName(card: Card):
+    if lang is not None and card.get("pack_code") is not None:
+        c = list(filter(lambda c: c.get("code") == card.get("code"), [x for xs in translatedPacks.values() for x in xs]))
+        if len(c) > 0:
+            return c[0].get("name") or card.get("name")
     return card.get("name")
 
 # list reprints (sorted by pack)
@@ -141,12 +176,13 @@ with open(reprintOutputPath, "w", encoding="utf-8") as out:
 # list unique cards with their corresponding packs (in full list and in nested list sorted by packs)
 # get reprints and sort by pack
 uniqueCards = list(filter(isUniquePlayerCard, cards))
-uniqueOutputPath = os.path.join(outputDir, f"uniques.md")
+outputFileName = "uniques.md" if lang is None else f"uniques_{lang}.md"
+uniqueOutputPath = os.path.join(outputDir, outputFileName)
 with open(uniqueOutputPath, "w", encoding="utf-8") as out:
     write("# Unique Cards", out)
     write("## Sorted by Name", out)
     writeSpoilerStart("Spoiler", out)
-    for card in sorted(uniqueCards, key=lambda c: c.get("name").strip("\"' ")):
+    for card in sorted(uniqueCards, key=lambda c: getCardName(c).strip("\"' ")):
         write(f"- [{getCardName(card)}]({getCardUrl(card)}) x{card.get("quantity")} ({getPackName(card.get("pack_code"))})", out)
     writeSpoilerEnd(out)
 

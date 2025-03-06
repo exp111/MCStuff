@@ -41,5 +41,18 @@
                 "-v"
             ]
         },
+        {
+            "name": "Run reprint list DE",
+            "type": "debugpy",
+            "request": "launch",
+            "cwd": "${workspaceFolder}/ReprintList",
+            "program": "run.py",
+            "console": "integratedTerminal",
+            "args": [
+                "-l de",
+                "-i 'D:\\D\\Visual Studio\\Github\\marvelsdb-json-data'",
+                "-v"
+            ]
+        },
     ]
 }
