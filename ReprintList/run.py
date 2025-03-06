@@ -197,7 +197,7 @@ with open(uniqueOutputPath, "w", encoding="utf-8") as out:
         if not pack in uniques:
             uniques[pack] = []
         uniques[pack].append(card)
-    for pack in allPacks:
+    for pack in sorted(allPacks, key=lambda p: getPackName(p.get("code"))):
         code = pack.get("code")
         write(f"### {getPackName(code)} ({len(uniques[code])})", out)
         for card in uniques[code]:
