@@ -107,6 +107,13 @@ if len(packs) == 0:
 cards: list[Card] = []
 for pack in packs.values():
     cards = cards + pack
+vprint(f"Loaded {len(cards)} cards.")
+
+translatedCards: list[Card] = []
+if lang is not None:
+    for pack in translatedPacks.values():
+        translatedCards = translatedCards + pack
+    vprint(f"Loaded {len(cards)} translated cards.")
 
 def getCardUrl(card: Card):
     return dbUrl.format(card.get("code"))
@@ -150,13 +157,13 @@ def getPackName(packCode: str):
     
 def getCardName(card: Card):
     if lang is not None and card.get("pack_code") is not None:
-        c = list(filter(lambda c: c.get("code") == card.get("code"), [x for xs in translatedPacks.values() for x in xs]))
+        c = list(filter(lambda c: c.get("code") == card.get("code"), translatedCards))
         if len(c) > 0:
             return c[0].get("name") or card.get("name")
     return card.get("name")
 
 # list reprints (sorted by pack)
-reprints: dict[str, list[Card]] = {}
+reprints: dict[str, list[Card]] = {pack.get("code"): [] for pack in allPacks}
 # get reprints and sort by pack
 for card in filter(isReprint, cards):
     pack = card.get("pack_code")
@@ -164,18 +171,20 @@ for card in filter(isReprint, cards):
         reprints[pack] = []
     reprints[pack].append(card)
 # write
+## reprints
 reprintOutputFileName = "reprints.md" if lang is None else f"reprints_{lang}.md"
 reprintOutputPath = os.path.join(outputDir, reprintOutputFileName)
 with open(reprintOutputPath, "w", encoding="utf-8") as out:
     write("# Reprints", out)
-    for pack in reprints:
-        writeSpoilerStart(f"## {getPackName(pack)} ({len(reprints[pack])})", out)
-        for card in reprints[pack]:
+    for pack in sorted(allPacks, key=lambda p: getPackName(p.get("code"))):
+        code = pack.get("code")
+        write(f"## {getPackName(code)} ({len(reprints[code])})", out)
+        for card in reprints[code]:
             orig = getCardByCode(card.get("duplicate_of"))
             write(f"- [{getCardName(orig)}]({getCardUrl(orig)}) x{card.get("quantity")}", out)
-        writeSpoilerEnd(out)
+        write(out=out)
 # list unique cards with their corresponding packs (in full list and in nested list sorted by packs)
-# get reprints and sort by pack
+## uniques
 uniqueCards = list(filter(isUniquePlayerCard, cards))
 uniqueOutputFileName = "uniques.md" if lang is None else f"uniques_{lang}.md"
 uniqueOutputPath = os.path.join(outputDir, uniqueOutputFileName)
