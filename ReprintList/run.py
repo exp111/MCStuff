@@ -34,6 +34,17 @@ def write(text: str = "", out=None):
     print(text, file=out)
     vprint(text)
 
+def writeSpoilerStart(summary: str = "", out=None):
+    print("<details>", file=out)
+    print(f"<summary>{summary}</summary>", file=out)
+    # empty line needed
+    print("", file=out)
+    vprint(f"Spoiler Start {summary}")
+
+def writeSpoilerEnd(out=None):
+    print("</details>", file=out)
+    vprint(f"Spoiler End")
+
 vprint("Args:")
 vprint(args)
 
@@ -105,6 +116,9 @@ def getPackName(packCode: str):
         return pack[0].get("name") or packCode
     else:
         return packCode
+    
+def getCardName(card: Card):
+    return card.get("name")
 
 # list reprints (sorted by pack)
 reprints: dict[str, list[Card]] = {}
@@ -119,12 +133,11 @@ reprintOutputPath = os.path.join(outputDir, f"reprints.md")
 with open(reprintOutputPath, "w", encoding="utf-8") as out:
     write("# Reprints", out)
     for pack in reprints:
-        # TODO: get pack name
-        write(f"## {getPackName(pack)} ({len(reprints[pack])})", out)
-        # TODO: spoiler for each entry
+        writeSpoilerStart(f"## {getPackName(pack)} ({len(reprints[pack])})", out)
         for card in reprints[pack]:
             orig = getCardByCode(card.get("duplicate_of"))
-            write(f"- [{orig.get("name")}]({getCardUrl(orig)}) x{card.get("quantity")}", out)
+            write(f"- [{getCardName(orig)}]({getCardUrl(orig)}) x{card.get("quantity")}", out)
+        writeSpoilerEnd(out)
 # list unique cards with their corresponding packs (in full list and in nested list sorted by packs)
 # get reprints and sort by pack
 uniqueCards = list(filter(isUniquePlayerCard, cards))
@@ -132,20 +145,25 @@ uniqueOutputPath = os.path.join(outputDir, f"uniques.md")
 with open(uniqueOutputPath, "w", encoding="utf-8") as out:
     write("# Unique Cards", out)
     write("## Sorted by Name", out)
-    # TODO: spoilers for list
+    writeSpoilerStart("Spoiler", out)
     for card in sorted(uniqueCards, key=lambda c: c.get("name").strip("\"' ")):
-        write(f"- [{card.get("name")}]({getCardUrl(card)}) x{card.get("quantity")} ({getPackName(card.get("pack_code"))})", out)
+        write(f"- [{getCardName(card)}]({getCardUrl(card)}) x{card.get("quantity")} ({getPackName(card.get("pack_code"))})", out)
+    writeSpoilerEnd(out)
 
-    write("", out)
+    # new line
+    write(out=out)
     write("## Sorted by Pack", out)
-    uniques: dict[str, list[Card]] = {}
+    writeSpoilerStart("Spoiler", out)
+    uniques: dict[str, list[Card]] = {pack.get("code"): [] for pack in allPacks}
+    # map cards by pack
     for card in uniqueCards:
         pack = card.get("pack_code")
         if not pack in uniques:
             uniques[pack] = []
         uniques[pack].append(card)
-    #TODO: spoiler for list + each pack
-    for pack in uniques:
-        write(f"### {getPackName(pack)} ({len(uniques[pack])})", out)
-        for card in uniques[pack]:
-            write(f"- [{card.get("name")}]({getCardUrl(card)}) x{card.get("quantity")}", out)
+    for pack in allPacks:
+        code = pack.get("code")
+        write(f"### {getPackName(code)} ({len(uniques[code])})", out)
+        for card in uniques[code]:
+            write(f"- [{getCardName(card)}]({getCardUrl(card)}) x{card.get("quantity")}", out)
+    writeSpoilerEnd(out)
