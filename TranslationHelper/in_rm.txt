@@ -1,3 +1,17 @@
+KRAFT DES ATOMS
+Sobald aufgedeckt: Finde Radioactive Man und decke ihn auf. (Falls er bereits im Spiel ist, verwickelt er dich in einen Kampf.) Radioactive Man wird gegen dich aktiviert. Falls auf diese Weise kein Gegner aktiviert wurde, erhält diese Karte Nachrüsten.
+* Boost: Nimm 2 indirekten Schaden.
+
+
+UNKONTROLLIERBARE KERNREAKTION
+Erzwungene Reaktion: Nachdem Radioactive Man eine beliebige Menge an Schaden zugefügt worden ist, platziere genauso viel Bedrohung auf dieser Karte, Falls hier dann 10 oder mehr Bedrohung liegt, füge jedem Charakter 10 Schaden zu und lege Unkontrollierbare Kernreaktion ab.
+
+STRAHLENBELASTUNG
+ZUSTAND.
+Hänge diese Karte an deine Identität an.
+* Falls die Identität mit diesem Anhang das Merkmal GAMMA hat, gibt dieser Anhang stattdessen +1 ANG.
+Erzwungene Reaktion: Nachdem du dich erholt hast, lege 1 Karte von deiner Hand ab → lege diese Karte ab.
+
 + RADIOACTIVE MAN
 ELITE. THUNDERBOLT.
 Schurkisch. Sieg 1.

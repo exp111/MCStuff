@@ -1,5 +1,0 @@
-{
-	"code": "ADD CODE",
-	"name": "Kraft Des Atoms",
-	"text": "Sobald aufgedeckt: Finde Radioactive Man und decke ihn auf. (Falls er bereits im Spiel ist, verwickelt er dich in einen Kampf.) Radioactive Man wird gegen dich aktiviert. Falls auf diese Weise kein Gegner aktiviert wurde, erhält diese Karte Nachrüsten.\n<hr/>\n[star] <b>Boost</b>: Nimm 2 indirekten Schaden."
-}
