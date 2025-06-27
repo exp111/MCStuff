@@ -16,7 +16,7 @@ with open(filename, encoding="utf-8") as f:
     content = f.readlines()
 
 def replaceSpecialIcons(text: str):
-    return text.replace("*", "[star]")
+    return text.replace("*", "[star]").replace("•", "\u2022")
 
 def parseCard(text: list[str]):
     index = 0
@@ -41,7 +41,7 @@ def parseCard(text: list[str]):
     for i in range(index, textEndIndex):
         if text[i].startswith("* Boost:"):
             print("Found boost")
-            boost = str.join("", text[i:textEndIndex]).replace("* Boost:", "<hr/>\n* <b>Boost</b>:")
+            boost = str.join("", text[i:textEndIndex]).replace("* Boost:", "<hr/>\n* <b>Boost</b>:").strip()
             textEndIndex = i
             break
 
@@ -63,8 +63,10 @@ def writeCard(card, file: TextIOWrapper):
     obj = {
         "code": "ADD CODE",
         "name": card["title"],
-        "text": card["text"] + "\n" + card["boost"]
+        "text": card["text"]
     }
+    if card["boost"]:
+        obj["text"] += "\n" + card["boost"]
     if card["traits"]:
         obj["traits"] = card["traits"]
     file.write(json.dumps(obj, indent="\t", ensure_ascii=False))

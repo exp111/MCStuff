@@ -1,22 +1,22 @@
 {
 	"code": "ADD CODE",
 	"name": "Kraft Des Atoms",
-	"text": "Sobald aufgedeckt: Finde Radioactive Man und decke ihn auf. (Falls er bereits im Spiel ist, verwickelt er dich in einen Kampf.) Radioactive Man wird gegen dich aktiviert. Falls auf diese Weise kein Gegner aktiviert wurde, erhält diese Karte Nachrüsten.\n<hr/>\n[star] <b>Boost</b>: Nimm 2 indirekten Schaden.\n"
+	"text": "Sobald aufgedeckt: Finde Radioactive Man und decke ihn auf. (Falls er bereits im Spiel ist, verwickelt er dich in einen Kampf.) Radioactive Man wird gegen dich aktiviert. Falls auf diese Weise kein Gegner aktiviert wurde, erhält diese Karte Nachrüsten.\n<hr/>\n[star] <b>Boost</b>: Nimm 2 indirekten Schaden."
 },
 {
 	"code": "ADD CODE",
 	"name": "Unkontrollierbare Kernreaktion",
-	"text": "Erzwungene Reaktion: Nachdem Radioactive Man eine beliebige Menge an Schaden zugefügt worden ist, platziere genauso viel Bedrohung auf dieser Karte, Falls hier dann 10 oder mehr Bedrohung liegt, füge jedem Charakter 10 Schaden zu und lege Unkontrollierbare Kernreaktion ab.\n"
+	"text": "Erzwungene Reaktion: Nachdem Radioactive Man eine beliebige Menge an Schaden zugefügt worden ist, platziere genauso viel Bedrohung auf dieser Karte, Falls hier dann 10 oder mehr Bedrohung liegt, füge jedem Charakter 10 Schaden zu und lege Unkontrollierbare Kernreaktion ab."
 },
 {
 	"code": "ADD CODE",
 	"name": "Strahlenbelastung",
-	"text": "Hänge diese Karte an deine Identität an.\n[star] Falls die Identität mit diesem Anhang das Merkmal GAMMA hat, gibt dieser Anhang stattdessen +1 ANG.\nErzwungene Reaktion: Nachdem du dich erholt hast, lege 1 Karte von deiner Hand ab → lege diese Karte ab.\n",
+	"text": "Hänge diese Karte an deine Identität an.\n[star] Falls die Identität mit diesem Anhang das Merkmal GAMMA hat, gibt dieser Anhang stattdessen +1 ANG.\nErzwungene Reaktion: Nachdem du dich erholt hast, lege 1 Karte von deiner Hand ab → lege diese Karte ab.",
 	"traits": "Zustand."
 },
 {
 	"code": "ADD CODE",
 	"name": "Radioactive Man",
-	"text": "Schurkisch. Sieg 1.\n[star] Erzwungene Reaktion: Nachdem Radioactive Man gegen dich aktiviert worden ist, füge jedem Charakter unter deiner Kontrolle 1 Schaden zu.\n„Auf geht's, machen wir sie nieder!\"\n",
+	"text": "Schurkisch. Sieg 1.\n[star] Erzwungene Reaktion: Nachdem Radioactive Man gegen dich aktiviert worden ist, füge jedem Charakter unter deiner Kontrolle 1 Schaden zu.\n„Auf geht's, machen wir sie nieder!\"",
 	"traits": "Elite. Thunderbolt."
 },
