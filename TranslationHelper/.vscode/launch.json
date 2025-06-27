@@ -5,12 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Python Debugger: Current File with Arguments",
+            "name": "RadioactiveMan",
             "type": "debugpy",
             "request": "launch",
             "program": "convert.py",
             "console": "integratedTerminal",
-            "args": "${command:pickArgs}"
+            "args": "in_rm.txt"
+        },
+        {
+            "name": "Mojo",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "convert.py",
+            "console": "integratedTerminal",
+            "args": "in_mojo.txt"
         }
     ]
 }

@@ -3,7 +3,7 @@ from io import TextIOWrapper
 import json
 import re
 
-traitRegex = "([\t ]*[A-Z]+\.)+"
+traitRegex = "([\t ]*[A-Z\u00C0-\u017F]+\.)+"
 
 parser = argparse.ArgumentParser(
                     prog='MC Translation Converter')

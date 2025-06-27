@@ -1,0 +1,87 @@
+DIE NEUEN STARS
+Sobald aufgedeckt: Heile 1 Schaden von jedem Charakter unter deiner Kontrolle. Platziere 2 Bedrohung auf jedem Charakter unter deiner Kontrolle.
+* Boost: Platziere 1 Bedrohung auf jedem Charakter unter deiner Kontrolle.
+
+REGIEANWEISUNGEN
+Sobald aufgedeckt: Wähle eines:
+• Gib 2 unterschiedliche Ressourcen aus.
+• Mojo treibt den Plan voran.
+• Nimm für jede Bedrohung auf deiner Identität 1 Schaden. Falls du auf diese Weise weniger als 2 Schaden nimmst, erhält diese Karte Nachrüsten.
+
+RUF VOR DEN VORHANG
+Sobald aufgedeckt: Verschiebe alle Bedrohung vom Charakter mit
+der meisten Bedrohung auf den
+Hauptplan. Falls auf diese Weise keine Bedrohung verschoben wurde,
+platziere 1 Bedrohung auf jedem
+Charakter unter deiner Kontrolle.
+* Boost: Decke diese Karte auf.
+
+UNDERCOVER MOJo
+„Sie werden mich niemals erkennen." - Mojo
+Hindernis 28.
+Erzwungene Unterbrechung:
+Sobald Mojo eine beliebige Menge an Schaden nehmen würde, entferne stattdessen so viel Bedrohung von dieser Karte.
+
+PAPARAZZI
+Hindernis 10.
+Aktion: Wähle: Erschöpfe entweder einen Charakter unter deiner Kontrolle oder lege
+1 Karte von deiner Hand ab → entferne
+2 Bedrohung von hier (3 Bedrohung statt-dessen, falls du in Alter-Ego-Gestalt bist).
+Erzwungene Unterbrechung: Sobald dein Zug endet, verschiebe alle Bedrohung von hier auf den Hauptplan und lege Paparazzi ab.
+
+NEBENDARSTELLER
+MIME. ROBOTER.
+* Erzwungene Reaktion: Nachdem Nebendarsteller gegen dich aktiviert worden ist, platziere hier 2 Bedrohung.
+* Boost: Platziere 1 Bedrohung auf jedem Charakter unter deiner Kontrolle.
+„Sie sind billiger als echte Schauspieler." - Mojo
+
+STACHELSCHWANZ
+WAFFE.
+Hänge diese Karte an Mojo an.
+Mojo erhält Vergeltung 2.
+Erzwungene Unterbrechung: Sobald Mojo eine beliebige Menge an Schaden zugefügt werden würde, platziere ihn stattdessen hier. Falls sich dann mindestens 5 Schaden auf dieser Karte befinden, lege Stachelschwanz ab.
+* Boost: Hänge diese Karte an Mojo an.
+
++ MAJOR DOMO
+PERSON.
+Hänge diese Karte an Mojo an.
+* Erzwungene Reaktion: Nachdem Mojo angegriffen hat, lege so viele Karten vom Begegnungsdeck ab, wie durch den Angriff Schaden zugefügt wurde.
+Held - Aktion: Gib 1 M
+Ressourcen aus → lege diese Karte ab.
+„Ich lebe, um Euch zu dienen, Eure Erhabene
+Rückgratlosigkeit."
+
+RAD DER GENRES
+ANGEHALTEN.
+Erzwungene Unterbrechung: Bestimme zu Beginn von Schritt 3 der Schurken-phase (Begegnungskarten zuteilen) zufällig 1 beiseitegelegtes modulares Set und decke dessen SHOW-Umgebung auf. Mische den Rest des Sets und lege die Karten auf das Begegnungsdeck. Teile dem Startspieler 2 verdeckte Begegnungskarten zu und drehe diese Karte um.
+
+RAD DER GENRES
+DREHEND.
+Erzwungene Reaktion: Nachdem das Begegnungsdeck zurückgesetzt worden ist und falls kein beiseite-gelegtes modulares Begegnungsset übrig ist, verlieren die Spieler das Spiel. Drehe ansonsten diese Karte um.
+„Die Einschaltquoten stagnieren. Eine Crossover-Episode sollte für neuen Schwung sorgen!" - Mojo
+
+MOJoMANIA
+Sobald aufgedeckt: Bestimme zufällig 1 beiseitegelegtes Begegnungsset, decke dessen SHOW-Umgebung auf und mische die restlichen Karten in das Begegnungsdeck.
+Erzwungene Unterbrechung:
+Sobald ein Charakter umgedreht wird oder das Spiel verlässt, verschiebe alle Bedrohung von dem Charakter auf diesen Plan.
+Falls dieser Abschnitt vollendet ist, verlieren die Spieler das Spiel.
+
+MOJoMANIA
+Inhalt: Mojo (I) und (II) (statt-dessen Mojo (I1) und (III) im Expertenmodus). Mojo- und Standard-Begegnungssets.
+Spielaufbau: Wähle 1 modulares Set plus 1& zusätzliches modulares
+Set aus dem Szenario-Pack MojoMania und lege sie beiseite.
+Bringe die Umgebung Rad der Genres mit der DREHEND-Seite nach oben ins Spiel.
+
++ MoJo
+RÜCKGRATLOS.
+Sobald aufgedeckt: Platziere 3 Bedrohung auf jedem befreundeten Charakter.
+Erzwungene Reaktion (Held): Nachdem dein Zug beendet ist, lege die obersten
+5 Karten des Begegnungsdecks ab.
+Platziere für jede auf diese Weise abgelegte Karte, die nicht zum Mojo-Begegnungsset gehört, 1 Bedrohung auf deinem Helden.
+
++ MoJo
+RÜCKGRATLOS.
+Sobald aufgedeckt: Platziere 2 Bedrohung auf jedem befreundeten Charakter.
+Erzwungene Reaktion (Held): Nachdem dein Zug beendet ist, lege die obersten
+4 Karten des Begegnungsdecks ab.
+Platziere für jede auf diese Weise abgelegte Karte, die nicht zum Mojo-Begegnungsset gehört, 1 Bedrohung auf deinem Helden.

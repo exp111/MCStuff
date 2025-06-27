@@ -1,0 +1,77 @@
+{
+	"code": "ADD CODE",
+	"name": "Die Neuen Stars",
+	"text": "Sobald aufgedeckt: Heile 1 Schaden von jedem Charakter unter deiner Kontrolle. Platziere 2 Bedrohung auf jedem Charakter unter deiner Kontrolle.\n<hr/>\n[star] <b>Boost</b>: Platziere 1 Bedrohung auf jedem Charakter unter deiner Kontrolle.\n"
+},
+{
+	"code": "ADD CODE",
+	"name": "Regieanweisungen",
+	"text": "Sobald aufgedeckt: Wähle eines:\n• Gib 2 unterschiedliche Ressourcen aus.\n• Mojo treibt den Plan voran.\n• Nimm für jede Bedrohung auf deiner Identität 1 Schaden. Falls du auf diese Weise weniger als 2 Schaden nimmst, erhält diese Karte Nachrüsten.\n"
+},
+{
+	"code": "ADD CODE",
+	"name": "Ruf Vor Den Vorhang",
+	"text": "Sobald aufgedeckt: Verschiebe alle Bedrohung vom Charakter mit\nder meisten Bedrohung auf den\nHauptplan. Falls auf diese Weise keine Bedrohung verschoben wurde,\nplatziere 1 Bedrohung auf jedem\nCharakter unter deiner Kontrolle.\n<hr/>\n[star] <b>Boost</b>: Decke diese Karte auf.\n"
+},
+{
+	"code": "ADD CODE",
+	"name": "Undercover Mojo",
+	"text": "„Sie werden mich niemals erkennen.\" - Mojo\nHindernis 28.\nErzwungene Unterbrechung:\nSobald Mojo eine beliebige Menge an Schaden nehmen würde, entferne stattdessen so viel Bedrohung von dieser Karte.\n"
+},
+{
+	"code": "ADD CODE",
+	"name": "Paparazzi",
+	"text": "Hindernis 10.\nAktion: Wähle: Erschöpfe entweder einen Charakter unter deiner Kontrolle oder lege\n1 Karte von deiner Hand ab → entferne\n2 Bedrohung von hier (3 Bedrohung statt-dessen, falls du in Alter-Ego-Gestalt bist).\nErzwungene Unterbrechung: Sobald dein Zug endet, verschiebe alle Bedrohung von hier auf den Hauptplan und lege Paparazzi ab.\n"
+},
+{
+	"code": "ADD CODE",
+	"name": "Nebendarsteller",
+	"text": "[star] Erzwungene Reaktion: Nachdem Nebendarsteller gegen dich aktiviert worden ist, platziere hier 2 Bedrohung.\n<hr/>\n[star] <b>Boost</b>: Platziere 1 Bedrohung auf jedem Charakter unter deiner Kontrolle.\n„Sie sind billiger als echte Schauspieler.\" - Mojo\n",
+	"traits": "Mime. Roboter."
+},
+{
+	"code": "ADD CODE",
+	"name": "Stachelschwanz",
+	"text": "Hänge diese Karte an Mojo an.\nMojo erhält Vergeltung 2.\nErzwungene Unterbrechung: Sobald Mojo eine beliebige Menge an Schaden zugefügt werden würde, platziere ihn stattdessen hier. Falls sich dann mindestens 5 Schaden auf dieser Karte befinden, lege Stachelschwanz ab.\n<hr/>\n[star] <b>Boost</b>: Hänge diese Karte an Mojo an.\n",
+	"traits": "Waffe."
+},
+{
+	"code": "ADD CODE",
+	"name": "Major Domo",
+	"text": "Hänge diese Karte an Mojo an.\n[star] Erzwungene Reaktion: Nachdem Mojo angegriffen hat, lege so viele Karten vom Begegnungsdeck ab, wie durch den Angriff Schaden zugefügt wurde.\nHeld - Aktion: Gib 1 M\nRessourcen aus → lege diese Karte ab.\n„Ich lebe, um Euch zu dienen, Eure Erhabene\nRückgratlosigkeit.\"\n",
+	"traits": "Person."
+},
+{
+	"code": "ADD CODE",
+	"name": "Rad Der Genres",
+	"text": "Erzwungene Unterbrechung: Bestimme zu Beginn von Schritt 3 der Schurken-phase (Begegnungskarten zuteilen) zufällig 1 beiseitegelegtes modulares Set und decke dessen SHOW-Umgebung auf. Mische den Rest des Sets und lege die Karten auf das Begegnungsdeck. Teile dem Startspieler 2 verdeckte Begegnungskarten zu und drehe diese Karte um.\n",
+	"traits": "Angehalten."
+},
+{
+	"code": "ADD CODE",
+	"name": "Rad Der Genres",
+	"text": "Erzwungene Reaktion: Nachdem das Begegnungsdeck zurückgesetzt worden ist und falls kein beiseite-gelegtes modulares Begegnungsset übrig ist, verlieren die Spieler das Spiel. Drehe ansonsten diese Karte um.\n„Die Einschaltquoten stagnieren. Eine Crossover-Episode sollte für neuen Schwung sorgen!\" - Mojo\n",
+	"traits": "Drehend."
+},
+{
+	"code": "ADD CODE",
+	"name": "Mojomania",
+	"text": "Sobald aufgedeckt: Bestimme zufällig 1 beiseitegelegtes Begegnungsset, decke dessen SHOW-Umgebung auf und mische die restlichen Karten in das Begegnungsdeck.\nErzwungene Unterbrechung:\nSobald ein Charakter umgedreht wird oder das Spiel verlässt, verschiebe alle Bedrohung von dem Charakter auf diesen Plan.\nFalls dieser Abschnitt vollendet ist, verlieren die Spieler das Spiel.\n"
+},
+{
+	"code": "ADD CODE",
+	"name": "Mojomania",
+	"text": "Inhalt: Mojo (I) und (II) (statt-dessen Mojo (I1) und (III) im Expertenmodus). Mojo- und Standard-Begegnungssets.\nSpielaufbau: Wähle 1 modulares Set plus 1& zusätzliches modulares\nSet aus dem Szenario-Pack MojoMania und lege sie beiseite.\nBringe die Umgebung Rad der Genres mit der DREHEND-Seite nach oben ins Spiel.\n"
+},
+{
+	"code": "ADD CODE",
+	"name": "Mojo",
+	"text": "Sobald aufgedeckt: Platziere 3 Bedrohung auf jedem befreundeten Charakter.\nErzwungene Reaktion (Held): Nachdem dein Zug beendet ist, lege die obersten\n5 Karten des Begegnungsdecks ab.\nPlatziere für jede auf diese Weise abgelegte Karte, die nicht zum Mojo-Begegnungsset gehört, 1 Bedrohung auf deinem Helden.\n",
+	"traits": "Rückgratlos."
+},
+{
+	"code": "ADD CODE",
+	"name": "Mojo",
+	"text": "Sobald aufgedeckt: Platziere 2 Bedrohung auf jedem befreundeten Charakter.\nErzwungene Reaktion (Held): Nachdem dein Zug beendet ist, lege die obersten\n4 Karten des Begegnungsdecks ab.\nPlatziere für jede auf diese Weise abgelegte Karte, die nicht zum Mojo-Begegnungsset gehört, 1 Bedrohung auf deinem Helden.\n",
+	"traits": "Rückgratlos."
+},
