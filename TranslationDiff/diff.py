@@ -152,7 +152,11 @@ for entry in queue:
             if "duplicate_of" in obj:
                 continue
             # find entry in translation
-            result = next((t for t in translation if t["code"] == obj["code"]), None)
+            result = next((t for t in translation if t["code"] == obj["code"] or 
+                           # alternative way of doing dual side cards
+                           (obj["code"][-1] == "a" and t["code"] == obj["code"][:-1]) or
+                           (obj["code"][-1] == "b" and t["code"] == obj["code"][:-1] and t["back_text"])
+                           ), None)
             if not result:
                 # missing entry (not translated)
                 info.entries.append(MissingInfoEntry(obj["code"], obj["name"]))

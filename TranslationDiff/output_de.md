@@ -9,7 +9,7 @@ Missing Files (9):
 - winter.json
 - winter_encounter.json
 
-Missing Entries (22):
+Missing Entries (21):
 <details>
 <summary>factions.json (1)</summary>
 
@@ -361,18 +361,6 @@ Missing Entries (22):
 - Entry: 44042 (Metacidal Tendencies)
 </details>
 <details>
-<summary>gob_encounter.json (8)</summary>
-
-- Entry: 02004a (Hostile Takeover)
-- Entry: 02004b (Hostile Takeover)
-- Entry: 02005a (Corporate Acquisition)
-- Entry: 02005b (Corporate Acquisition)
-- Entry: 02017a (Unleashing the Mutagen)
-- Entry: 02017b (Unleashing the Mutagen)
-- Entry: 02018a (Mutagen Cloud)
-- Entry: 02018b (Mutagen Cloud)
-</details>
-<details>
 <summary>iceman_encounter.json (4)</summary>
 
 - Entry: 46029 (Sauron)
@@ -399,9 +387,8 @@ Missing Entries (22):
 - Entry: 47034 (Elaborate Trap)
 </details>
 <details>
-<summary>mts_encounter.json (2)</summary>
+<summary>mts_encounter.json (1)</summary>
 
-- Entry: 21100a (Avengers Tower)
 - Entry: 21100b (Avengers Tower)
 </details>
 <details>
