@@ -1,0 +1,5 @@
+STRAHLENBELASTUNG
+ZUSTAND.
+Hänge diese Karte an deine Identität an.
+* Falls die Identität mit diesem Anhang das Merkmal GAMMA hat, gibt dieser Anhang stattdessen +1 ANG.
+Erzwungene Reaktion: Nachdem du dich erholt hast, lege 1 Karte von deiner Hand ab → lege diese Karte ab.
