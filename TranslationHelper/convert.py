@@ -16,7 +16,7 @@ with open(filename, encoding="utf-8") as f:
     content = f.readlines()
 
 def replaceSpecialIcons(text: str):
-    return text.replace("*", "[star]").replace("•", "\u2022")
+    return text.replace("*", "[star]")
 
 def parseCard(text: list[str]):
     index = 0
