@@ -17,7 +17,7 @@ parser.add_argument("-l", "--lang", default="de", help="The language code for th
 parser.add_argument("-a", "--attributes", action="store_true", help="If used also compares the object keys for equalness. May lead to false positives as values may be the same in the two languages.") # flag
 parser.add_argument("-v", "--verbose", action="store_true", help="Show verbose output") # flag
 parser.add_argument("-i", "--input", nargs="?", default=os.path.curdir, type=directory, help="The directory of the repo. Defaults to the current path.")
-parser.add_argument("-o", "--output", nargs="?", default=os.path.curdir, type=directory, help="The directory where the output is writtent to. Defaults to the current path.")
+parser.add_argument("-o", "--output", nargs="?", default=os.path.curdir, type=directory, help="The directory where the output is written to. Defaults to the current path.")
 args = parser.parse_args()
 # args
 lang = args.lang
@@ -172,6 +172,7 @@ with open(outputPath, "w", encoding="utf-8") as out:
     write(f"Missing Files ({len(missingFiles)}):", out)
     for file in missingFiles:
         write(f"- {file}", out)
+    write("", out)
     
     write(f"Missing Entries ({len(missingInfos)}):", out)
     for info in missingInfos:

@@ -1,12 +1,15 @@
-Missing Files (7):
+Missing Files (9):
+- falcon.json
+- falcon_encounter.json
 - hood_encounter.json
-- magneto.json
-- magneto_encounter.json
 - mojo_encounter.json
 - ron_encounter.json
 - toafk_encounter.json
 - twc_encounter.json
-Missing Entries (18):
+- winter.json
+- winter_encounter.json
+
+Missing Entries (22):
 <details>
 <summary>factions.json (1)</summary>
 
@@ -45,7 +48,7 @@ Missing Entries (18):
 - Entry: 45074 (Targeted for Extermination)
 - Entry: 45075a (Pursued by the Past)
 - Entry: 45075b (Pursued by the Past)
-- Entry: 45076 (Dark Design)
+- Entry: 45076 (Dark Designs)
 - Entry: 45077 (Sinister Strike)
 - Entry: 45078 (Evil Alliance)
 - Entry: 45079 (Nowhere is Safe)
@@ -181,6 +184,173 @@ Missing Entries (18):
 - Entry: 45186c (Apocalypse)
 </details>
 <details>
+<summary>aos_encounter.json (155)</summary>
+
+- Entry: 50064 (Black Widow)
+- Entry: 50065 (Black Widow)
+- Entry: 50066 (Black Widow)
+- Entry: 50067a (The Widow&#x27;s Web)
+- Entry: 50067b (The Widow&#x27;s Web)
+- Entry: 50068 (Black Widow&#x27;s Gauntlet)
+- Entry: 50069 (Grappling Hook)
+- Entry: 50070 (Night Vision Goggles)
+- Entry: 50071 (Stun Net)
+- Entry: 50072 (A.I.M. Commando)
+- Entry: 50073 (A.I.M. Grunt)
+- Entry: 50074 (Automated Defenses)
+- Entry: 50075 (Destroy Evidence)
+- Entry: 50076 (Attacrobatics)
+- Entry: 50077 (Covert Ops)
+- Entry: 50078 (Dance of Death)
+- Entry: 50079 (Widow&#x27;s Bite)
+- Entry: 50080 (A.I.M. Abductor)
+- Entry: 50081 (Abduct Superhumans)
+- Entry: 50082 (Nabbed!)
+- Entry: 50083 (A.I.M. Scientist)
+- Entry: 50084 (A.I.M. Soldier)
+- Entry: 50085 (Mad Science)
+- Entry: 50086a (Batroc)
+- Entry: 50086b (Batroc)
+- Entry: 50087a (Infiltrate A.I.M. Island Embassy)
+- Entry: 50087b (Infiltrate A.I.M. Island Embassy)
+- Entry: 50088a (Locate Missing Person)
+- Entry: 50088b (Locate Missing Person)
+- Entry: 50089a (Extract Captives)
+- Entry: 50089b (Extract Captives)
+- Entry: 50090a (Alert Level)
+- Entry: 50090b (Alert Level)
+- Entry: 50091 (Rescued Captive)
+- Entry: 50092 (Heightened Reflexes)
+- Entry: 50093 (Embassy Guard)
+- Entry: 50094 (Embassy Patrol)
+- Entry: 50095 (Commandeer Security Office)
+- Entry: 50096 (Leaping Kick)
+- Entry: 50097 (Security Cameras)
+- Entry: 50098 (Machete)
+- Entry: 50099 (Rapido)
+- Entry: 50100 (Zaran)
+- Entry: 50101 (Batroc&#x27;s Brigade)
+- Entry: 50102 (Soldiers of Fortune)
+- Entry: 50103a (M.O.D.O.K.)
+- Entry: 50103b (M.O.D.O.K.)
+- Entry: 50104a (Upgrading Adaptoids)
+- Entry: 50104b (Upgrading Adaptoids)
+- Entry: 50105a (Holding Cell)
+- Entry: 50105b (Flying Inhuman)
+- Entry: 50106a (Holding Cell)
+- Entry: 50106b (Psionic Inhuman)
+- Entry: 50107a (Holding Cell)
+- Entry: 50107b (Sarah Garza)
+- Entry: 50108a (Holding Cell)
+- Entry: 50108b (Strong Inhuman)
+- Entry: 50109 (Flying Upgrade)
+- Entry: 50110 (Psionic Upgrade)
+- Entry: 50111 (Sarah Garza Upgrade)
+- Entry: 50112 (Strong Upgrade)
+- Entry: 50113 (Adaptoid)
+- Entry: 50114 (Automated Mobile Unit)
+- Entry: 50115 (Focusing Crystal)
+- Entry: 50116 (Nanobots)
+- Entry: 50117 (Psionic Force Field)
+- Entry: 50118 (Psionic Machetes)
+- Entry: 50119 (Reverse Engineering)
+- Entry: 50120 (A.I.M. Jailer)
+- Entry: 50121 (Hostage Situation)
+- Entry: 50122 (Psionic Enhancement)
+- Entry: 50123 (&quot;It&#x27;s Alive!&quot;)
+- Entry: 50124 (Psionic Blast)
+- Entry: 50125 (Scientist Supreme)
+- Entry: 50126 (Monica Rappaccini)
+- Entry: 50127 (Diplomatic Immunity)
+- Entry: 50128 (Diplomatic Sanctions)
+- Entry: 50129a (Citizen V)
+- Entry: 50129b (Citizen V)
+- Entry: 50130a (Apprehending Rogue Agents)
+- Entry: 50130b (Apprehending Rogue Agents)
+- Entry: 50131a (Justice, Like Lightning)
+- Entry: 50131b (Thunderbolt Backup)
+- Entry: 50132 (Citizen V&#x27;s Sword)
+- Entry: 50133 (Jolt)
+- Entry: 50134 (Innocent Bystanders)
+- Entry: 50135 (The Coming Storm)
+- Entry: 50136 (Rumbling Thunder)
+- Entry: 50137 (Down but Not Out)
+- Entry: 50138 (Tap In)
+- Entry: 50139 (Moonstone)
+- Entry: 50140 (Rule the Skies)
+- Entry: 50141 (Gravitational Pull)
+- Entry: 50142 (Psychological Manipulation)
+- Entry: 50143 (Songbird)
+- Entry: 50144 (Solid Sound Constructs)
+- Entry: 50145 (Hard Sound Bindings)
+- Entry: 50146 (Sonic Bubble)
+- Entry: 50147 (Hard Sound)
+- Entry: 50148 (Black Widow)
+- Entry: 50149 (Handspring)
+- Entry: 50150 (Pride of the Red Room)
+- Entry: 50151 (Pale Little Spider)
+- Entry: 50152 (Radioactive Man)
+- Entry: 50153 (Radiation Exposure)
+- Entry: 50154 (Runaway Nuclear Reaction)
+- Entry: 50155 (Power of the Atom)
+- Entry: 50156 (MACH-IV)
+- Entry: 50157 (Blasters)
+- Entry: 50158 (Heat-Seeking Missiles)
+- Entry: 50159 (Aerial Dogfight)
+- Entry: 50160 (Supersonic)
+- Entry: 50161 (Batroc)
+- Entry: 50162 (Coup de Foudre)
+- Entry: 50163 (Batroc the Leaper)
+- Entry: 50164 (Parcours du Combattant)
+- Entry: 50165a (Baron Zemo)
+- Entry: 50165b (Baron Zemo)
+- Entry: 50166a (Baron Zemo)
+- Entry: 50166b (Baron Zemo)
+- Entry: 50167a (Zemo&#x27;s Manipulations)
+- Entry: 50167b (Zemo&#x27;s Manipulations)
+- Entry: 50168a (The Accusation)
+- Entry: 50168b (The Accusation)
+- Entry: 50169a (Fighting Zemo)
+- Entry: 50169b (Fighting Zemo)
+- Entry: 50170 (Baron Zemo&#x27;s Sword)
+- Entry: 50171 (Reluctant Foe)
+- Entry: 50172 (S.H.I.E.L.D. Agent)
+- Entry: 50173 (Divided Loyalties)
+- Entry: 50174 (Undermine Support)
+- Entry: 50175 (Battle of Wits)
+- Entry: 50176 (Might Makes Right)
+- Entry: 50177 (The Ends Justify the Means)
+- Entry: 50178 (S.H.I.E.L.D. Trooper)
+- Entry: 50179 (Arrest Warrant)
+- Entry: 50180 (Disavowed)
+- Entry: 50181a (Chief Medical Officer)
+- Entry: 50181b (Medical Officer&#x27;s Aid)
+- Entry: 50182a (Chief Surveillance Officer)
+- Entry: 50182b (Surveillance Officer&#x27;s Aid)
+- Entry: 50183a (Chief Tactical Officer)
+- Entry: 50183b (Tactical Officer&#x27;s Aid)
+- Entry: 50184a (A.I.M. Interference ([energy]))
+- Entry: 50184b (A.I.M. Interference ([mental]))
+- Entry: 50184c (A.I.M. Interference ([physical]))
+- Entry: 50185 (Medical Records)
+- Entry: 50186 (Wiretap)
+- Entry: 50187 (Security Scanner)
+- Entry: 50188 (Money)
+- Entry: 50189 (Blackmail)
+- Entry: 50190 (Ideology)
+- Entry: 50191 (Security Clearance)
+- Entry: 50192 (Travel)
+- Entry: 50193 (Authority)
+</details>
+<details>
+<summary>bp_encounter.json (4)</summary>
+
+- Entry: 51039 (Joystick)
+- Entry: 51040 (Energy Truncheon)
+- Entry: 51041 (Playing for Keeps)
+- Entry: 51042 (Extreme Risk)
+</details>
+<details>
 <summary>deadpool_encounter.json (6)</summary>
 
 - Entry: 44037 (Crisis of Infinite Deadpools)
@@ -227,6 +397,12 @@ Missing Entries (18):
 - Entry: 47032 (Arcade&#x27;s Funhouse)
 - Entry: 47033 (Hall of Mirrors)
 - Entry: 47034 (Elaborate Trap)
+</details>
+<details>
+<summary>mts_encounter.json (2)</summary>
+
+- Entry: 21100a (Avengers Tower)
+- Entry: 21100b (Avengers Tower)
 </details>
 <details>
 <summary>ncrawler_encounter.json (6)</summary>
@@ -419,6 +595,14 @@ Missing Entries (18):
 - Entry: 28032 (Tough It Out)
 </details>
 <details>
+<summary>silk_encounter.json (4)</summary>
+
+- Entry: 52035 (Atlas)
+- Entry: 52036 (Grow Invulnerable)
+- Entry: 52037 (Growing Strong)
+- Entry: 52038 (Titanic Proportions)
+</details>
+<details>
 <summary>spdr_encounter.json (8)</summary>
 
 - Entry: 31030 (Grand Larceny)
@@ -452,7 +636,7 @@ Missing Entries (18):
 - Entry: 36039 (Astral Attack)
 </details>
 <details>
-<summary>packs.json (30)</summary>
+<summary>packs.json (35)</summary>
 
 - Entry: stld (Star-Lord)
 - Entry: gam (Gamora)
@@ -484,10 +668,17 @@ Missing Entries (18):
 - Entry: jubilee (Jubilee)
 - Entry: ncrawler (Nightcrawler)
 - Entry: magneto (Magneto)
+- Entry: aos (Agents of S.H.I.E.L.D.)
+- Entry: bp (Black Panther)
+- Entry: silk (Silk)
+- Entry: falcon (Falcon)
+- Entry: winter (Winter Soldier)
 </details>
 <details>
-<summary>sets.json (167)</summary>
+<summary>sets.json (203)</summary>
 
+- Entry: infiltrate_the_museum (Infiltrate the Museum)
+- Entry: escape_the_museum (Escape the Museum)
 - Entry: nebu (Nebula)
 - Entry: nebu_nemesis (Nebula Nemesis)
 - Entry: warm (War Machine)
@@ -513,7 +704,7 @@ Missing Entries (18):
 - Entry: sandman (Sandman)
 - Entry: venom (Venom)
 - Entry: mysterio (Mysterio)
-- Entry: sinister_six (Sinister Six)
+- Entry: sinister_six (The Sinister Six)
 - Entry: venom_goblin (Venom Goblin)
 - Entry: city_in_chaos (City in Chaos)
 - Entry: down_to_earth (Down to Earth)
@@ -655,9 +846,46 @@ Missing Entries (18):
 - Entry: magneto (Magneto)
 - Entry: magneto_nemesis (Magneto Nemesis)
 - Entry: hellfire (Hellfire)
+- Entry: maria_hill (Maria Hill)
+- Entry: maria_hill_nemesis (Maria Hill Nemesis)
+- Entry: nick_fury (Nick Fury)
+- Entry: nick_fury_nemesis (Nick Fury Nemesis)
+- Entry: black_widow_villain (Black Widow)
+- Entry: a.i.m._abduction (A.I.M. Abduction)
+- Entry: a.i.m._science (A.I.M. Science)
+- Entry: batroc (Batroc)
+- Entry: batrocs_brigade (Batroc&#x27;s Brigade)
+- Entry: m.o.d.o.k. (M.O.D.O.K)
+- Entry: scientist_supreme (Scientist Supreme)
+- Entry: thunderbolts (Thunderbolts)
+- Entry: gravitational_pull (Gravitational Pull)
+- Entry: hard_sound (Hard Sound)
+- Entry: pale_little_spider (Pale Little Spider)
+- Entry: power_of_the_atom (Power of the Atom)
+- Entry: supersonic (Supersonic)
+- Entry: the_leaper (The Leaper)
+- Entry: baron_zemo (Baron Zemo)
+- Entry: s.h.i.e.l.d. (S.H.I.E.L.D.)
+- Entry: s.h.i.e.l.d._executive_board (S.H.I.E.L.D. Executive Board)
+- Entry: executive_board_evidence (Executive Board Evidence)
+- Entry: silk (Silk)
+- Entry: silk_nemesis (Silk Nemesis)
+- Entry: growing_strong (Growing Strong)
+- Entry: black_panther_shuri (Black Panther (Shuri))
+- Entry: black_panther_shuri_nemesis (Black Panther (Shuri) Nemesis)
+- Entry: extreme_risk (Extreme Risk)
+- Entry: falcon (Falcon)
+- Entry: falcon_nemesis (Falcon Nemesis)
+- Entry: techno (Techno)
+- Entry: winter_soldier (Winter Soldier)
+- Entry: winter_soldier_nemesis (Winter Soldier Nemesis)
+- Entry: whiteout (Whiteout)
 </details>
 <details>
-<summary>types.json (1)</summary>
+<summary>types.json (4)</summary>
 
 - Entry: player_side_scheme (Player Side Scheme)
+- Entry: evidence_means (Evidence - Means)
+- Entry: evidence_motive (Evidence - Motive)
+- Entry: evidence_opportunity (Evidence - Opportunity)
 </details>
