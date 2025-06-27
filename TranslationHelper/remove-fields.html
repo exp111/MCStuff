@@ -1,0 +1,36 @@
+<html>
+    <body>
+        <div style="display: flex; flex-direction: row; height: 100%">
+            <textarea id="in" style="width: 100%; height: 100%" oninput="onInput()" placeholder="Input JSON"></textarea>
+            <textarea id="out" style="width: 100%; height: 100%" placeholder="Output JSON"></textarea>
+        </div>
+        <script>
+            var allowed = {"code": true, "name":true, "flavor":true, "traits":true, "text":true};
+            function onInput() {
+                console.log("input");
+                let el = document.getElementById("in");
+                let jsons = el.value.split("},");
+                console.log(jsons);
+                let outs = [];
+                for (let val of jsons) {
+                    console.log(val);
+                    if (val[val.length - 1] != "}") {
+                        val += "}";
+                    }
+                    let json = JSON.parse(val.trim());
+                    let out = {}
+                    for (let key of Object.keys(json)) {
+                        if (allowed[key]) {
+                            out[key] = json[key];
+                        }
+                    }
+                    outs.push(out);
+                }
+
+                let outEl = document.getElementById("out");
+                let str = JSON.stringify(outs, null, "\t");
+                outEl.value = str.substring(1, str.length - 1).trim();
+            }
+        </script>
+    </body>
+</html>
