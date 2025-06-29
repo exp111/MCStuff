@@ -31,7 +31,7 @@ def sanitizeInput(lines: list[str]):
         # card number
         if re.match(cardNumberRegex, line):
             continue
-        # TODO: ignore lines that are just numbers
+        # ignore lines that are just numbers
         if re.match(numberRegex, line):
             continue
         # artist credit
@@ -52,7 +52,7 @@ def parseCard(text: list[str]):
     index += 1
     # get traits, if exist
     traits = ""
-    # check for regex (TRAIT. TRAIT.)
+    ## check for trait regex (TRAIT. TRAIT.)
     for i in range(index, textEndIndex):
         if re.match(traitRegex, text[i]):
             print(f"Found traits at {i}, skipping {i - index} lines")
@@ -62,14 +62,14 @@ def parseCard(text: list[str]):
             index = i + 1
     # check if there is a boost
     boost = ""
-    #TODO: flavor text
-    # check for a line that starts with boost start
+    ## check for a line that starts with boost start
     for i in range(index, textEndIndex):
         if text[i].startswith("* Boost:"):
             print("Found boost")
             boost = str.join("", text[i:textEndIndex]).replace("* Boost:", "<hr/>\n* <b>Boost</b>:").strip()
             textEndIndex = i
             break
+    #TODO: flavor text
 
     # rest is text
     cardText = str.join("", text[index:textEndIndex]).strip()
