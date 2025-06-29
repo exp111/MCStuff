@@ -1,0 +1,564 @@
+{
+	"code": "ADD CODE",
+	"name": "Chaos Im Ganzen Land",
+	"text": "Red Skull verursacht im ganzen Land\nKatastrophen, um seine Feinde zu beschäftigen.\nSobald aufgedeckt: Jeder\nSpieler legt die obersten 5 Karten seines Decks ab und platziert hier\n1 Bedrohung für jedes unterschiedliche Ressourcensymbol\nWeise abgelegt hat."
+},
+{
+	"code": "ADD CODE",
+	"name": "Hydra-Verstärkungen",
+	"text": "Was den Hydra-Truppen an Können fehlt, machen sie durch schiere Masse wett.\nSobald besiegt: Der Spieler, der diesen Plan besiegt hat, legt einen Nicht-ELITE-Schergen ab."
+},
+{
+	"code": "ADD CODE",
+	"name": "Zensur Der Vergangenheit",
+	"text": "Hydra kontrolliert alle Medien und bringt die Massen durch Manipulation und Propaganda gegen die Helden der Vergangenheit auf.\nSobald besiegt: Jeder Spieler wählt bis zu 3 Karten in seinem Ablagestapel und mischt sie in sein Deck."
+},
+{
+	"code": "ADD CODE",
+	"name": "Gefangenenlager",
+	"text": "Unter der Herrschaft von Hydra werden Familien voneinander getrennt und Menschen ohne ein ordentliches Verfahren inhaftiert.\nSobald besiegt: Der Spieler, der diesen Plan besiegt hat, durchsucht sein Deck und seinen Ablagestapel nach einem Verbündeten, bringt ihn ins Spiel und mischt sein Deck."
+},
+{
+	"code": "ADD CODE",
+	"name": "Der Schläfer Ist Erwacht",
+	"text": "Der Schläfer ist erwacht und erhebt sich aus dem Potomac River, um den Befehlen Red Skulls zu folgen.\nDieser Plan kann das Spiel nicht verlassen, solange Der Schläfer im Spiel ist.\nSobald aufgedeckt: Bringe Der Schläfer mit dem Startspieler im Kampf ins Spiel. Sobald Der Schläfer besiegt wird, entferne diesen Nebenplan aus dem Spiel."
+},
+{
+	"code": "ADD CODE",
+	"name": "Das Rote Haus",
+	"text": "Als Symbol für die Eroberung Amerikas durch Hydra ließ Red Skull seine Festung über dem Weißen Haus errichten.\nRed Skull kann keinen Schaden nehmen.\nUnterbrechung: Sobald ein Charakter gegen diesen Nebenplan Widerstand leistet, darf er statt seines WID-Wertes seinen ANG-Wert verwenden."
+},
+{
+	"code": "ADD CODE",
+	"name": "Unendliche Macht",
+	"text": "Sobald aufgedeckt (Alter Ego): Gib Red Skull eine Zäh-Statuskarte. Red Skull treibt den Plan voran.\nSobald aufgedeckt (Held): Gib Red Skull eine Zäh-Statuskarte. Red Skull greift dich an."
+},
+{
+	"code": "ADD CODE",
+	"name": "Lügen Verbreiten",
+	"text": "Sobald aufgedeckt: Platziere\n2 Bedrohung auf jedem Plan im Spiel.\n<hr/>\n[star] <b>Boost</b>: Gib Red Skull eine Zäh-Statuskarte.\n„Dank meiner großen und unübertroffenen Schläue wird Hydra die Vorherrschaft erlangen!\" - Red Skull"
+},
+{
+	"code": "ADD CODE",
+	"name": "Erbitterter Rivale",
+	"text": "Sobald aufgedeckt: Erschöpfe für jeden Nebenplan im Spiel einen Charakter unter deiner Kontrolle.\n<hr/>\n[star] <b>Boost</b>: Erschöpfe einen Charakter unter deiner Kontrolle.\n„Dies ist Ihr Ende, Herr Captain!\" - Red Skull"
+},
+{
+	"code": "ADD CODE",
+	"name": "Verzerrte Realität",
+	"text": "Anstacheln 1.\nHänge diese Karte an einen Nebenplan an.\nErzwungene Reaktion: Sobald der Nebenplan mit diesem Anhang besiegt wird, teile dem Startspieler eine Begegnungskarte zu.\nDer Infinity-Stein gibt Red Skull die Macht, die Realität nach seinem Willen zu beugen.",
+	"traits": "Zustand."
+},
+{
+	"code": "ADD CODE",
+	"name": "Meisterstratege",
+	"text": "Hänge diese Karte an Red Skull an.\n[star] Erzwungene Unterbrechung:\nSobald Red Skull aktiviert wird, gib ihm für jeden Nebenplan im Spiel eine zusätzliche Boost-Karte. Lege dann diese Karte ab.\n(Max. ein Mal pro Aktivierung.)\n„Die einzige Figur, die beim Schach zählt, ist der König - und der bin ich.\" - Red Skull",
+	"traits": "Fertigkeit."
+},
+{
+	"code": "ADD CODE",
+	"name": "Red Skulls Rechter Haken",
+	"text": "Hänge diese Karte an Red Skull an.\nRed Skull erhält Vergeltung 1.\nHeld - Aktion: Gib ≤ M Ressourcen aus → lege diese Karte ab.\n„Ich bin dir auf jede erdenkliche Art überlegen!\"\n-Red Skull",
+	"traits": "Fertigkeit."
+},
+{
+	"code": "ADD CODE",
+	"name": "Red Skulls Luger",
+	"text": "Hänge diese Karte an Red Skull an.\n[star] Red Skulls Angriffe erhalten Durchdringend und Fernkampf.\nHeld - Aktion: Gib 2 M\nRessourcen aus → lege diese Karte ab.\n+1\n<hr/>\n[star] <b>Boost</b>: Hänge diese Karte an\nRed Skull an.",
+	"traits": "Waffe."
+},
+{
+	"code": "ADD CODE",
+	"name": "Hydra-Exo-Soldat",
+	"text": "Zähigkeit.\n<hr/>\n[star] <b>Boost</b>: Gib dem Schurken eine Zäh-Statuskarte und eine weitere Boost-\nKarte.\n„Vorsicht, Leute! Diese Jungs können ganz schön austeilen!\" - Captain America",
+	"traits": "Hydra."
+},
+{
+	"code": "ADD CODE",
+	"name": "Der Schläfer",
+	"text": "Vergeltung 1. Wache. Zähigkeit.\nSobald aufgedeckt: Der Schläfer verwickelt den Startspieler in einen\nKampf.\nSobald besiegt: Entferne diesen Schergen aus dem Spiel.",
+	"traits": "Elite. Hydra. Roboter."
+},
+{
+	"code": "ADD CODE",
+	"name": "113 Hydras Neue Welt",
+	"text": "[star] Erzwungene Reaktion:\nNachdem der erste Schritt der Schurkenphase abgehandelt worden ist, decke die oberste Karte des Nebenplandecks auf und bringe sie ins Spiel.\nFalls dieser Abschnitt vollendet ist, verlieren die Spieler das Spiel.\n478[star]"
+},
+{
+	"code": "ADD CODE",
+	"name": "89 129B",
+	"text": ""
+},
+{
+	"code": "ADD CODE",
+	"name": "2B",
+	"text": ""
+},
+{
+	"code": "ADD CODE",
+	"name": "Hydras Neue Welt",
+	"text": "Red Skull ist dem Ziel, die volle Macht des Infinity-Steins freizusetzen, einen Schritt näher gekommen. Ihr müsst ihn aufhalten, bevor die gesamte Realität seinem bösen Willen unterworfen ist.\nSobald aufgedeckt:\nDecke die oberste Karte des Nebenplandecks auf und bringe sie ins Spiel.\n2A"
+},
+{
+	"code": "ADD CODE",
+	"name": "Der Aufstieg Von Red Skull",
+	"text": "1B\nMit der Macht des Realitätssteins will Red Skull die Welt erobern. Er setzt sein strategisches Genie ein, um euch mit anderen Dingen abzulenken, während er auf sein Ziel hinarbeltet.\n[star] Erzwungene Reaktion:\nNachdem der erste Schritt der Schurkenphase abgehandelt worden ist, decke die oberste Karte des Nebenplandecks auf und bringe sie ins Spiel.\n+12'"
+},
+{
+	"code": "ADD CODE",
+	"name": "Der Aufstieg Von Red Skull",
+	"text": "Inhalt: Red Skull (I) und Red\nSkull (II). „Red Skull\" - und Standard-Begegnungssets. Zwei modulare Begegnungssets (Hydra-Angriff und Hydra-Patrouille).\nSpielaufbau: Bringe den Neben-plan Das Rote Haus ins Spiel. Mische jeden anderen Nebenplan in das Nebenplandeck und lege es neben das Begegnungsdeck (siehe Regelheft).\nLege den Schergen Der Schläfer als nicht im Spiel befindlich beiseite.\n1A"
+},
+{
+	"code": "ADD CODE",
+	"name": "Sa",
+	"text": ""
+},
+{
+	"code": "ADD CODE",
+	"name": "Red Skull",
+	"text": "[star] Red Skull bekommt +1 ANG für jeden Nebenplan im Spiel.\nSobald aufgedeckt: Teile jedem Spieler eine Begegnungskarte zu.\n„Die ganze Welt wird sich Red Skull unterwerfen!\"",
+	"traits": "Hydra."
+},
+{
+	"code": "ADD CODE",
+	"name": "Red Skull",
+	"text": "[star] Red Skull bekommt +1 ANG für jeden Nebenplan im Spiel.\nSobald aufgedeckt: Teile jedem Spieler eine Begegnungskarte zu.\n„Niemand wird meinen Plänen im Wege stehen!\"\n- RED SKULL (2/28) / LEBENSPUNKTE 162",
+	"traits": "Hydra."
+},
+{
+	"code": "ADD CODE",
+	"name": "Red Skull",
+	"text": "[star] Red Skull bekommt +1 ANG für jeden Nebenplan im Spiel.\n„Freiheit gibt es nur für den, der herrscht! Alle anderen müssen Sklaven sein!\"",
+	"traits": "Hydra."
+},
+{
+	"code": "ADD CODE",
+	"name": "Zolas Experimente",
+	"text": "Der verrückte Doktor wird nie müde, an seinen Opfern herumzuexperimentieren.\nErzwungene Reaktion:\nNachdem ein Scherge ins Spiel gekommen ist, hänge den obersten TECH-Anhang im Begegnungs-Ablagestapel an den Schergen an."
+},
+{
+	"code": "ADD CODE",
+	"name": "Versuchsobjekte",
+	"text": "Ein Schicksal schlimmer als der Tod.\nSobald besiegt: Der Start-spieler legt Karten vom Begegnungsdeck ab, bis er einen Schergen ablegt. Decke den Schergen auf."
+},
+{
+	"code": "ADD CODE",
+	"name": "Hydra-Gefängnis",
+	"text": "Sobald aufgedeckt: Jeder Spieler durchsucht sein Deck, seinen Ablage-stapel und seine Hand nach einem heldenspezifischen Verbündeten\nund platziert ihn verdeckt unter diesem Plan. Platziere X Bedrohung auf diesem Plan. X ist die Summe der Kosten aller Verbündeten unter im.\nJeder Spieler mischt sein Deck.\nSobald besiegt: Enterne diesen\nPlan aus dem Spiel und schicke jeden\nVerbündeten unter ihm zurück auf\ndie Hand seines Besitzers."
+},
+{
+	"code": "ADD CODE",
+	"name": "Technologische Verbesserungen",
+	"text": "Anstacheln 1.\nSobald aufgedeckt: Platziere\n1 Versuchsmarker auf dem Hauptplan.\n<hr/>\n[star] <b>Boost</b>: Platziere 1 Versuchsmarker auf dem Hauptplan.\nSeatt Drunomond"
+},
+{
+	"code": "ADD CODE",
+	"name": "Gedankenstrahl",
+	"text": "Sobald aufgedeckt (Alter Ego):\nZola treibt den Plan voran. Du wirst verwirrt.\nSobald aufgedeckt (Held): Zola greift dich an. Du wirst betäubt.\n„Du hast geglaubt, Zola könne sich nicht wehren?\nDu arroganter Narr!\" - Arnim Zola"
+},
+{
+	"code": "ADD CODE",
+	"name": "Neuro-Implantate",
+	"text": "Hänge diese Karte an den Schergen mit den meisten verbleibenden Lebenspunkten an, an den noch keine Neuro-Implantate angehängt sind. Falls du das nicht kannst, erhält diese Karte Nachrüsten.\nDer Scherge mit diesem Anhang bekommt +2 Lebenspunkte.",
+	"traits": "Tech."
+},
+{
+	"code": "ADD CODE",
+	"name": "Schmerzunterdrücker",
+	"text": "Hänge diese Karte an den Schergen mit den meisten verbleibenden Lebenspunkten an, an den noch kein Schmerz-unterdrücker angehängt ist. Falls du das nicht kannst, erhält diese Karte Nachrüsten.\nDer Scherge mit diesem Anhang bekommt +2 Lebenspunkte und erhält Vergeltung 1.",
+	"traits": "Tech."
+},
+{
+	"code": "ADD CODE",
+	"name": "Defensives Programm",
+	"text": "Hänge diese Karte an den Schergen mit den meisten verbleibenden Lebenspunkten an, an den noch kein Defensives Programm angehängt ist. Falls du das nicht kannst, erhält diese Karte Nachrüsten.\nDer Scherge mit diesem Anhang bekommt +2 Lebenspunkte und erhält Wache.",
+	"traits": "Tech."
+},
+{
+	"code": "ADD CODE",
+	"name": "Berserker-Mutation",
+	"text": "Erstschlag.\n<hr/>\n[star] <b>Boost</b>: Platziere 1 Versuchsmarker auf dem Hauptplan. Für jeden Versuchsmarker auf dem Hauptplan bekommt Zola für diese Aktivierung\n+1 PLA und +1 ANG.",
+	"traits": "Hydra. Mutation."
+},
+{
+	"code": "ADD CODE",
+	"name": "Zolas Mutation",
+	"text": "Sobald aufgedeckt: Lege Karten vom Begegnungsdeck ab, bis ein TECH-Anhang abgelegt wird. Hänge die Karte an Zolas Mutation an.\n<hr/>\n[star] <b>Boost</b>: Mische Zolas Mutation in das Begegnungsdeck.",
+	"traits": "Hydra. Mutation."
+},
+{
+	"code": "ADD CODE",
+	"name": "Ultimativer Bio-Diener",
+	"text": "Zähigkeit.\n[star] Ultimativer Bio-Diener bekommt +1 ANG für jeden Anhang, den er\nhat.\n<hr/>\n[star] <b>Boost</b>: Gib dem Schurken eine Zäh-Statuskarte.",
+	"traits": "Hydra. Mutation."
+},
+{
+	"code": "ADD CODE",
+	"name": "Der Verrückte Doktor",
+	"text": "[star] Erzwungene Reaktion: Nachdem der erste Schritt der Schurken-phase abgehandelt worden ist, platziere hier 1 Versuchsmarker. Falls hier dann 3 oder mehr Versuchs-marker liegen, lege Karten vom Begegnungsdeck ab, bis ein Scherge abgelegt wird. Bringe den Schergen mit dem Startspieler im Kampf ins Spiel und entferne 3 Versuchsmarker von diesem Plan.\n+18\nFalls dieser Abschnitt vollendet ist, verlieren die Spieler das Spiel."
+},
+{
+	"code": "ADD CODE",
+	"name": "2B",
+	"text": ""
+},
+{
+	"code": "ADD CODE",
+	"name": "Der Verrückte Doktor",
+	"text": "Zolas Mutationen greifen euch mit blindem Gehorsam und wildem Zorn an. Es liegt an euch, diesem Albtraum ein Ende zu bereiten, bevor der verrückte Doktor sie auf die Welt loslässt!\nSobald aufgedeckt: Jeder\nSpieler durchsucht das Begegnungsdeck und den Ablagestapel nach einem Schergen und deckt ihn auf.\nMische das Begegnungsdeck.\n2A"
+},
+{
+	"code": "ADD CODE",
+	"name": "Die Insel Des Dr. Zola",
+	"text": "[star] Erzwungene Reaktion:\nNachdem der erste Schritt der Schurkenphase abgehandelt worden ist, platziere hier\n1 Versuchsmarker. Falls hier dann 3 oder mehr Versuchs-marker liegen, lege Karten vom Begegnungsdeck ab, bis ein Scherge abgelegt wird.\nBringe den Schergen mit dem Startspieler im Kampf ins Spiel\n+18\nund entferne 3 Versuchsmarker von diesem Plan."
+},
+{
+	"code": "ADD CODE",
+	"name": "Die Insel Des Dr. Zola",
+	"text": "Inhalt: Zola (I) und Zola (II). Zola-und Standard-Begegnungssets.\nEin modulares Begegnungsset\n(Unter Beschuss).\nSpielaufbau: Durchsuche das Begegnungsdeck nach dem Neben-plan Hydra-Gefängnis und decke ihn auf. Jeder Spieler durchsucht das Begegnungsdeck nach einem Exemplar von Ultimativer Bio-Diener und bringt ihn mit sich im Kampf ins Spiel. Mische das Begegnungsdeck.\nLA"
+},
+{
+	"code": "ADD CODE",
+	"name": "Zola",
+	"text": "Vergeltung 1.\nSobald aufgedeckt: Jeder Spieler durchsucht das Begegnungsdeck und den Ablagestapel nach einem Schergen und deckt ihn auf. (Mische das Begegnungsdeck.)",
+	"traits": "Androide. Hydra."
+},
+{
+	"code": "ADD CODE",
+	"name": "Zola",
+	"text": "Vergeltung 1.\nSobald aufgedeckt: Durchsuche das Begegnungsdeck und den Ablagestapel nach dem Nebenplan Versuchsobjekte und decke ihn auf.\n(Mische das Begegnungsdeck.)",
+	"traits": "Androide. Hydra."
+},
+{
+	"code": "ADD CODE",
+	"name": "Zola",
+	"text": "Vergeltung 1.\n„Mein Mutationsprogramm wird diese armseligen Kreaturen in Hydras Elite-Stoßtruppen verwandeln!\"",
+	"traits": "Androide. Hydra."
+},
+{
+	"code": "ADD CODE",
+	"name": "Taskmasters Trainingscamp",
+	"text": "Taskmaster nimmt nur die besten Truppen in seine Polizei auf. Bevor ein Hydra-Soldat ihr beitreten kann, muss er zuerst Taskmasters Trainingscamp überleben.\nErzwungene Reaktion:\nNachdem ein Scherge ins Spiel gekommen ist, gib ihm eine Zäh-Statuskarte."
+},
+{
+	"code": "ADD CODE",
+	"name": "Von Hydra Gefangen",
+	"text": "Sobald aufgedeckt: Platziere 1 zufälligen beiseitegelegten\nGEFANGENER-Verbündeten\nverdeckt unter diesem Plan.\nSobald dieser Plan besiegt wird, nimmt der Spieler, der den Plan besiegt hat, den Verbündeten auf seine Hand und entfernt diesen Plan aus dem Spiel."
+},
+{
+	"code": "ADD CODE",
+	"name": "Von Hydra Gejagt",
+	"text": "Anstacheln 1. (Sobald diese\nKarte aufgedeckt wird, platziere\n1 Bedrohung auf dem Hauptplan.)\nSobald aufgedeckt: Jeder Spieler in\nHeldengestalt nimmt 1 Schaden und legt\n1 zufällige Karte von seiner Hand ab.\n„Keine gute Zeit für Helden.\" - Bucky Barnes"
+},
+{
+	"code": "ADD CODE",
+	"name": "Nachahmung",
+	"text": "Sobald aufgedeckt (Alter Ego): Lege die obersten 5 Karten deines Decks ab.\nFalls auf diese Weise eine WIDERSTAND - Karte abgelegt wurde, treibt Taskmaster den Plan voran.\nSobald aufgedeckt (Held): Lege die obersten 5 Karten deines Decks ab.\nFalls auf diese Weise eine ANGRIFF-Karte abgelegt wurde, greift Taskmaster dich an."
+},
+{
+	"code": "ADD CODE",
+	"name": "Fotografische Reflexe",
+	"text": "Hänge diese Karte an Taskmaster an.\nErzwungene Unterbrechung:\nSobald ein Spieler Taskmaster angreift, verhindere allen Schaden, der Taskmaster zugefügt werden würde, und füge stattdessen der Identität des Spielers die gleiche Menge an Schaden zu. Lege dann Fotografische Reflexe ab. (Max. ein Mal pro Angriff.)"
+},
+{
+	"code": "ADD CODE",
+	"name": "Taskmasters Schild",
+	"text": "Hänge diese Karte an Taskmaster an.\nTaskmaster erhält Vergeltung 1.\nHeld - Aktion: Erschöpfe deinen Helden und gib io\n-Ressourcen\naus → lege diese Karte ab.\n„Das habe ich von Captain America gelernt.\"\n- Taskmaster",
+	"traits": "Rüstung. Waffe."
+},
+{
+	"code": "ADD CODE",
+	"name": "Taskmasters Schwert",
+	"text": "Hänge diese Karte an Taskmaster an.\n[star] Taskmasters Angriffe erhalten\nDurchdringend.\nHeld - Aktion: Erschöpfe deinen Helden und gib i a\n-Ressourcen\naus → lege diese Karte ab.\n+1",
+	"traits": "Waffe."
+},
+{
+	"code": "ADD CODE",
+	"name": "Hydra-Jäger",
+	"text": "[star] Hydra-Jägers Angriffe erhalten Durchdringend und Fernkampf.\n<hr/>\n[star] <b>Boost</b>: Falls du in Heldengestalt bist, nimm 1 Schaden. Ansonsten platziere 1 Bedrohung auf dem Hauptplan.",
+	"traits": "Hydra."
+},
+{
+	"code": "ADD CODE",
+	"name": "Fotografische Reflexe",
+	"text": "Hänge diese Karte an Taskmaster an.\nErzwungene Unterbrechung:\nSobald ein Spieler Taskmaster angreift, verhindere allen Schaden, der Taskmaster zugefügt werden würde, und füge stattdessen der Identität des Spielers die gleiche Menge an Schaden zu. Lege dann Fotografische Reflexe ab. (Max. ein Mal pro Angriff.)"
+},
+{
+	"code": "ADD CODE",
+	"name": "Elektra",
+	"text": "Reaktion: Nachdem du Elektra von deiner Hand gespielt hast, gib eine ®-Ressource aus → füge einem Gegner 3 Schaden zu.\n„Ich wurde erwischt, als ich versuchte, einigen Zivilisten bei der Flucht vor einer Hydra-Patrouille zu helfen. Die vermeintlichen Zivllisten waren selbst verdeckte Hydra-Agenten.\"",
+	"traits": "Gefangener. Held Für Geld."
+},
+{
+	"code": "ADD CODE",
+	"name": "White Tiger",
+	"text": "Reaktion: Nachdem du White Tiger von deiner Hand gespielt hast, gib eine -Ressource aus → entferne\n3 Bedrohung von einem Plan.\n„Nachdem Hydra die Macht übernommen und Superhelden zu Verbrechern erklärt hatte, rief ein Nachbar den neuen Polizeichef an, um mich anzuzeigen.\"",
+	"traits": "Gefangener. Held Für Geld."
+},
+{
+	"code": "ADD CODE",
+	"name": "Shang-Chi",
+	"text": "Reaktion: Nachdem du Shang-Chi von deiner Hand gespielt hast, gib eine\n-Ressource aus → betäube einen\nGegner.\n„Ein Hydra-Sturmtrupp drang in mein Haus ein, während ich meditierte. Ich habe sie rausgeschmissen, aber draußen warteten noch zwei weitere Teams.\"",
+	"traits": "Gefangener. Held Für Geld."
+},
+{
+	"code": "ADD CODE",
+	"name": "Moon Knight",
+	"text": "Reaktion: Nachdem du Moon Knight von deiner Hand gespielt hast, gib eine\n[star]-Ressource aus → ziehe 2 Karten.\n„Hydra hat so schnell die Macht übernommen. Und ich wusste nicht mal, ob sie real sind.\"",
+	"traits": "Gefangener. Held Für Geld."
+},
+{
+	"code": "ADD CODE",
+	"name": "Auf Heldenjagd",
+	"text": "Der berüchtigte Taskmaster wurde zu Hydras Polizeichef ernannt. Seine oberste Priorität ist die Jagd auf geächtete Helden.\n[star] Erzwungene Reaktion:\nNachdem der erste Schritt der Schurkenphase abgehandelt worden ist, muss jeder Spieler in Heldengestalt wählen, ob er entweder 1 Bedrohung hier platziert oder 1 Schaden nimmt.\n+12\nFalls dieser Abschnitt vollendet ist, verlieren die Spieler das Spiel."
+},
+{
+	"code": "ADD CODE",
+	"name": "Ib",
+	"text": ""
+},
+{
+	"code": "ADD CODE",
+	"name": "Auf Heldenjagd",
+	"text": "Inhalt: Taskmaster (I) und Taskmaster (II). Taskmaster, Hydra-Patrouille- und Standard-Begegnungssets. Ein modulares Begegnungsset (Waffenmeister).\nSpielaufbau: Lege jeden\nGEFANGENER-Verbündeten als nicht im Spiel befindlich beiseite.\nDurchsuche das Begegnungsdeck nach dem Nebenplan Hydra-Patrouille und bringe ihn ins Spiel.\nMische das Begegnungsdeck."
+},
+{
+	"code": "ADD CODE",
+	"name": "Taskmaster",
+	"text": "Sobald aufgedeckt: Teile jedem Spieler eine Begegnungskarte zu.\nErzwungene Reaktion: Nachdem ein Spieler in seine Heldengestalt gewechselt ist, legt er die oberste Karte des Begegnungsdecks ab und nimmt Schaden in Höhe der Anzahl der Boost-Symbole auf der Karte.",
+	"traits": "Hydra. Söldner."
+},
+{
+	"code": "ADD CODE",
+	"name": "Taskmaster",
+	"text": "Sobald aufgedeckt: Teile jedem Spieler eine Begegnungskarte zu.\nErzwungene Reaktion: Nachdem ein Spieler in seine Heldengestalt gewechselt ist, legt er die oberste Karte des Begegnungsdecks ab und nimmt Schaden in Höhe der Anzahl der Boost-Symbole auf der Karte.",
+	"traits": "Hydra. Söldner."
+},
+{
+	"code": "ADD CODE",
+	"name": "Taskmaster",
+	"text": "Erzwungene Reaktion: Nachdem ein Spieler in seine Heldengestalt gewechselt ist, legt er die oberste Karte des Begegnungsdecks ab und nimmt Schaden in Höhe der Anzahl der Boost-Symbole auf der Karte.\n\"Es gibt nichts, was du kannst, das ich nicht besser kann.\"",
+	"traits": "Hydra. Söldner."
+},
+{
+	"code": "ADD CODE",
+	"name": "Superabsorptionskraft",
+	"text": "Creel hat die Fähigkeit, die Eigenschaften mehrerer Elemente auf einmal zu absorbieren, was enorme Konzentration erfordert.\nAbsorbing Man erhält die Merkmale EIS, HOLZ, METALL und STEIN.\n<hr/>\n[star] <b>Boost</b>: Decke diese Karte auf."
+},
+{
+	"code": "ADD CODE",
+	"name": "Uckraft",
+	"text": ""
+},
+{
+	"code": "ADD CODE",
+	"name": "Lawine!",
+	"text": "Sobald aufgedeckt: Jeder Spieler muss wählen, ob er entweder eine -Ressource ausgibt oder 2 indirekten Schaden nimmt (3 indirekten Schaden stattdessen, falls sich auf dem Hauptplan 5 oder mehr Verzögerungsmarker befinden)."
+},
+{
+	"code": "ADD CODE",
+	"name": "Lawine!",
+	"text": "Sobald aufgedeckt: Jeder Spieler muss wählen, ob er entweder eine -Ressource ausgibt oder 2 indirekten Schaden nimmt (3 indirekten Schaden stattdessen, falls sich auf dem Hauptplan 5 oder mehr Verzögerungsmarker befinden)."
+},
+{
+	"code": "ADD CODE",
+	"name": "Eisiger Griff",
+	"text": "Sobald aufgedeckt: Du wirst betäubt.\nFalls Absorbing Man das Merkmal EIs hat, nimm 2 indirekten Schaden.\n<hr/>\n[star] <b>Boost</b>: Falls Absorbing Man das Merkmal EiS oder METALL hat, gib ihm eine Zäh-Statuskarte."
+},
+{
+	"code": "ADD CODE",
+	"name": "Omni-Morph-Duplikation",
+	"text": "Sobald aufgedeckt: Falls Absorbing Man ...\n• das Merkmal ElS hat, erschöpfe deine\nIdentität.\n• das Merkmal METALL hat, gib Absorbing Man eine Zäh-Statuskarte und heile\n1 Schaden von ihm.\n• das Merkmal STEIN hat, gib Absorbing\nMan 1 verdeckte Boost-Karte.\n• das Merkmal HOLZ hat, lege 1 zufällige Karte von deiner Hand ab."
+},
+{
+	"code": "ADD CODE",
+	"name": "Stechende Dornen",
+	"text": "Sobald aufgedeckt: Lege 1 zufällige Karte von deiner Hand ab. Falls\nAbsorbing Man das Merkmal HoLZ hat, lege 1 Karte unter deiner Kontrolle ab.\n<hr/>\n[star] <b>Boost</b>: Falls Absorbing Man das Merkmal STEIN oder HOLZ hat, wirst du betäubt."
+},
+{
+	"code": "ADD CODE",
+	"name": "Stahltritt",
+	"text": "Sobald aufgedeckt (Alter Ego):\nPlatziere 2 Bedrohung auf dem Haupt-plan (3 Bedrohung stattdessen, falls Absorbing Man das Merkmal METALL hat).\nSobald aufgedeckt (Held): Nimm 3 indirekten Schaden (4 indirekten Schaden stattdessen, falls Absorbing\nMan das Merkmal METALL hat)."
+},
+{
+	"code": "ADD CODE",
+	"name": "Schwingender Stein",
+	"text": "Sobald aufgedeckt (Alter Ego):\nAbsorbing Man treibt den Plan voran.\nFalls Absorbing Man das Merkmal STEIN hat, bekommt er für diese Aktivierung\n+1 PLA.\nSobald aufgedeckt (Held): Absorbing Man greift dich an. Falls Absorbing Man das Merkmal STEIN hat, bekommt er für diese Aktivierung +1 ANG."
+},
+{
+	"code": "ADD CODE",
+	"name": "Hinhaltetaktik",
+	"text": "Sobald aufgedeckt: Platziere für je\n2 Verzögerungsmarker auf dem Hauptplan\n1 Bedrohung auf dem Hauptplan. Falls auf diese Weise keine Bedrohung platziert wurde, erhält diese Karte Nachrüsten.\n<hr/>\n[star] <b>Boost</b>: Falls sich auf dem Hauptplan 5 oder mehr Verzögerungsmarker befinden, nimm 1 indirekten Schaden."
+},
+{
+	"code": "ADD CODE",
+	"name": "Kettenkugel",
+	"text": "Hänge diese Karte an Absorbing\nMan an.\nHeld - Aktion: Gib eine a-Ressource aus → mische diese Karte in das Begegnungsdeck.\n<hr/>\n[star] <b>Boost</b>: Decke diese Karte auf.\n+1\n+1",
+	"traits": "Waffe."
+},
+{
+	"code": "ADD CODE",
+	"name": "Verlassene Fabrik",
+	"text": "Nachrüsten.\nErzwungene Reaktion: Nachdem Absorbing Man einen unverteidigten Angriff gegen dich durchgeführt hat, lege 1 Ressourcensymbol von deiner Hand ab (2 Ressourcensymbole stattdessen, falls sich auf dem Hauptplan 5 oder mehr Verzögerungsmarker befinden).\n<hr/>\n[star] <b>Boost</b>: Bringe diese Karte ins Spiel.",
+	"traits": "Metall."
+},
+{
+	"code": "ADD CODE",
+	"name": "Vef",
+	"text": ""
+},
+{
+	"code": "ADD CODE",
+	"name": "Umgeb",
+	"text": ""
+},
+{
+	"code": "ADD CODE",
+	"name": "Felsvorsprung",
+	"text": "Nachrüsten.\nErzwungene Reaktion: Nachdem\nAbsorbing Man einen unverteidigten Angriff gegen dich durchgeführt hat, heile\n1 Schaden von ihm (2 Schaden stattdessen, falls sich auf dem Hauptplan 5 oder mehr Verzögerungsmarker befinden).\n<hr/>\n[star] <b>Boost</b>: Bringe diese Karte ins Spiel.",
+	"traits": "Stein."
+},
+{
+	"code": "ADD CODE",
+	"name": "Verschneiter Berghang",
+	"text": "Nachrüsten.\nErzwungene Reaktion: Nachdem Absorbing Man einen unverteidigten Angriff gegen dich durchgeführt hat, platziere 1 Bedrohung auf dem Hauptplan (2 Bedrohung stattdessen, falls sich auf dem Hauptplan 5 oder mehr Verzögerungsmarker befinden).\n<hr/>\n[star] <b>Boost</b>: Bringe diese Karte ins Spiel.",
+	"traits": "Eis."
+},
+{
+	"code": "ADD CODE",
+	"name": "Dichter Wald",
+	"text": "Nachrüsten.\nErzwungene Reaktion: Nachdem\nAbsorbing Man einen unverteidigten Angriff gegen dich durchgeführt hat, nimm 1 indirekten Schaden (2 indirekten Schaden stattdessen, falls sich auf dem Hauptplan 5 oder mehr Verzögerungs-marker befinden).\n<hr/>\n[star] <b>Boost</b>: Bringe diese Karte ins Spiel.",
+	"traits": "Holz."
+},
+{
+	"code": "ADD CODE",
+	"name": "123 An Mir Kommt Keiner Vorbei",
+	"text": "[star] Erzwungene Reaktion:\nNachdem der erste Schritt der Schurkenphase abgehandelt worden ist, platziere hier\n1 Verzögerungsmarker.\nErzwungene Unterbrechung:\nSobald eine Umgebung ins Spiel kommt, lege jede andere Umgebungskarte im Spiel ab.\nFalls dieser Abschnitt\n+18[star]\nvollendet ist, verlieren die Spieler das Spiel."
+},
+{
+	"code": "ADD CODE",
+	"name": "Ib",
+	"text": ""
+},
+{
+	"code": "ADD CODE",
+	"name": "An Mir Kommt Keiner Vorbei",
+	"text": "Inhalt: Absorbing Man (1) und Absorbing Man (II). „Absorbing\nMan\"- und Standard-Begegnungssets. Ein modulares Begegnungsset (Hydra-Patrouille).\nSpielaufbau: Lege Karten vom Begegnungsdeck ab, bis eine Umgebung abgelegt wird. Bringe die Karte ins Spiel und mische den Begegnungs-Ablagestapel in das Begegnungsdeck.\nLA"
+},
+{
+	"code": "ADD CODE",
+	"name": "Absorbing Man",
+	"text": "Absorbing Man erhält das Merkmal jeder Umgebung im Spiel.\n[star] Erzwungene Reaktion: Nachdem Absorbing Man gegen dich aktiviert worden ist, falls er ...\n• das Merkmal eis oder STEIN hat, platziere\n1 Bedrohung auf dem Hauptplan.\n• das Merkmal METALL oder HOLZ hat, nimm\n1 indirekten Schaden.",
+	"traits": "Schläger."
+},
+{
+	"code": "ADD CODE",
+	"name": "Absorbing Man",
+	"text": "Absorbing Man erhält das Merkmal jeder Umgebung im Spiel.\nSobald aufgedeckt: Falls der Nebenplan Superabsorptionskraft im Spiel ist, teile jedem Spieler 1 Begegnungskarte zu. Ansonsten durchsuche das Begegnungsdeck und den Ablagestapel nach Superabsorptionskraft und decke sie auf. Mische das Begegnungsdeck, falls es auf diese Weise durchsucht wurde.",
+	"traits": "Schläger."
+},
+{
+	"code": "ADD CODE",
+	"name": "Absorbing Man",
+	"text": "Absorbing Man erhält das Merkmal jeder Umgebung im Spiel.\n„Weißt du, dass ich einmal Thor besiegt habe?\nStell dir das vor: Crusher Creel steht über dem Gott des Donners. Und du glaubst, dass du mir Angst machen kannst?\"",
+	"traits": "Schläger."
+},
+{
+	"code": "ADD CODE",
+	"name": "Gefangene Mitarbeiter",
+	"text": "Sobald aufgedeckt: Lege\n18 Karten vom Begegnungsdeck ab. Platziere hier zusätzlich\n1 Bedrohung für jedes auf diese Weise abgelegte Boost-Symbol.\nm\nB3 71",
+	"traits": "P. E. G. A. S. U. S. Als Geiseln Zusammen."
+},
+{
+	"code": "ADD CODE",
+	"name": "Crossbones' Angriff",
+	"text": "Crossbones ist zwar ein kaltherziger Killer, aber kein verrückter Psychopath. Sein Überfall auf P.E.G.A.S.U.S. ist skrupellos und effizient.\nSobald besiegt: Aktiviere\nCrossbones gegen den Spieler, der diesen Plan besiegt hat.\ne 70"
+},
+{
+	"code": "ADD CODE",
+	"name": "Plünderung Der Waffenkammer",
+	"text": "Anstacheln 1. (Sobald diese Karte aufgedeckt wird, platziere\n1 Bedrohung auf dem Hauptplan.)\nSobald aufgedeckt: Lege Karten vom Begegnungsdeck ab, bis ein WAFFE-Anhang abgelegt wird. Decke die Karte auf."
+},
+{
+	"code": "ADD CODE",
+	"name": "Hart Wie Stahl",
+	"text": "Sobald aufgedeckt: Gib dem Schurken eine Zäh-Statuskarte. Falls du das nicht kannst, heile stattdessen\n3 Schaden von ihm.\n<hr/>\n[star] <b>Boost</b>: Gib dem Schurken eine Zäh-Statuskarte. Falls du das nicht kannst, heile stattdessen 3 Schaden von ihm."
+},
+{
+	"code": "ADD CODE",
+	"name": "Kugelhagel",
+	"text": "Sobald aufgedeckt (Alter Ego):\nNachrüsten.\nSobald aufgedeckt (Held): Lege X Karten vom Begegnungsdeck ab.\nX ist Crossbones' ANG-Wert. Nimm für jedes auf diese Weise abgelegte Boost-Symbol 1 indirekten Schaden."
+},
+{
+	"code": "ADD CODE",
+	"name": "Hydra-Bombenleger",
+	"text": "Sobald aufgedeckt: Wähle: Nimm entweder 2 Schaden oder platziere\n1 Bedrohung auf dem Hauptplan.\n„Ich weiß, dass wenn man einen Kopf abschlägt, zwei Köpfe nachwachsen werden. Aber was ist, wenn er stattdessen explodiert?\" - She-Hulk",
+	"traits": "Hydra."
+},
+{
+	"code": "ADD CODE",
+	"name": "Crossbones' Rüstung",
+	"text": "Hänge diese Karte an\nCrossbones an.\nErzwungene Unterbrechung:\nSobald Crossbones eine beliebige\n+1\nMenge an Schaden nehmen würde, platziere den Schaden stattdessen hier. Falls sich auf dieser Karte 5 oder mehr Schaden befinden,\n+1\nlege Crossbones' Rüstung ab.\n„Sonne dich in dem Glanz, Baby.\" - Crossbones",
+	"traits": "Rüstung."
+},
+{
+	"code": "ADD CODE",
+	"name": "Crossbones' Maschinengewehr",
+	"text": "Hänge diese Karte an Crossbones an. Anwendungen\n(28 Munitionsmarker).\n[star] Erzwungene Unterbrechung:\nSobald Crossbones dich angreift, entferne 1 Munitionsmarker von dieser Karte und lege die oberste Karte des Begegnungsdecks ab\n+0\n→ nimm indirekten Schaden in Höhe der Anzahl der Boost-Symbole auf\nder abgelegten Karte.",
+	"traits": "Waffe."
+},
+{
+	"code": "ADD CODE",
+	"name": "Die Flucht",
+	"text": "Sobald aufgedeckt: Decke die oberste Karte des „Experimentelle Waffen\"-Decks auf.\nFalls dieser Abschnitt vollendet ist, verlieren die Spieler das Spiel.\n3B"
+},
+{
+	"code": "ADD CODE",
+	"name": "Die Flucht",
+	"text": "Hydra hat den Infinity-Stein an sich gerissen und Crossbones ordnet den Rückzug an. Ihr müsst sie aufhalten, bevor sie entkommen!\nЗА"
+},
+{
+	"code": "ADD CODE",
+	"name": "Der Infinity-Stein",
+	"text": "Sobald aufgedeckt: Decke die oberste Karte des „Experimentelle Waffen\"-Decks auf.\n+18"
+},
+{
+	"code": "ADD CODE",
+	"name": "2B",
+	"text": ""
+},
+{
+	"code": "ADD CODE",
+	"name": "Der Infinity-Stein",
+	"text": "Agenten verzweifelt zu verhindern, dass der dort versteckte Realitätsstein Hydra in die Hände fällt.\n2A",
+	"traits": "P. E. G. A. S. U. S. Versuchen S. H. I. E. L. D. -"
+},
+{
+	"code": "ADD CODE",
+	"name": "32 Angriff Auf Mount Athena",
+	"text": "Crossbones startet mit einer Armee von Hydra-Soldaten einen Direktangriff auf die Anlage von Projekt P.E.G.A.S.U.S. in den Adirondack Mountains.\nSobald aufgedeckt: Decke die oberste Karte des „Experimentelle Waffen\"-Decks auf.\nIB"
+},
+{
+	"code": "ADD CODE",
+	"name": "Angriff Auf Mount Athena",
+	"text": "Inhalt: Crossbones (I) und Crossbones (II). Crossbones-, „Experimentelle Waffen\" - und Standard-Begegnungssets.\nDrei modulare Begegnungssets (Hydra-Patrouille, Waffenmeister und Hydras Legionen).\nSpielaufbau: Erstelle das „Experimentelle Waffen\"-Deck und lege es neben das Hauptplandeck.\n(Siehe Regelheft, Seite 5.)\n囚"
+},
+{
+	"code": "ADD CODE",
+	"name": "Crossbones",
+	"text": "[star] Solange Crossbones einen WAFFE-Anhang hat, erhalten seine Angriffe Durchdringend.\nSobald aufgedeckt: Decke die oberste Karte des „Experimentelle Waffen\" - Decks auf.\n„Diese Typen mit den Superkräften sind vielleicht stärker, aber keiner von ihnen hat so viel Stil wie ich.\"",
+	"traits": "Hydra. Söldner."
+},
+{
+	"code": "ADD CODE",
+	"name": "Crossbones",
+	"text": "[star] Solange Crossbones einen WAFFE-Anhang hat, erhalten seine Angriffe Durchdringend.\nSobald aufgedeckt: Durchsuche das Begegnungsdeck und den Ablagestapel nach Crossbones' Maschinengewehr und hänge es an Crossbones an. Mische das Begegnungsdeck.",
+	"traits": "Hydra. Söloner."
+},
+{
+	"code": "ADD CODE",
+	"name": "Crossbones",
+	"text": "[star] Solange Crossbones einen WAFFE-Anhang hat, erhalten seine Angriffe Durchdringend. (Lege alle Zäh-Statuskarten vom Ziel ab, bevor Schaden zugefügt wird.)\n,Ich betrachte mich selbst als Handwerker. Meine Spezialgeblete sind Zerstörung und Terror.\"",
+	"traits": "Hydra. Soldner."
+},

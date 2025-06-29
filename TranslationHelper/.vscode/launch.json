@@ -19,6 +19,14 @@
             "program": "convert.py",
             "console": "integratedTerminal",
             "args": "in_mojo.txt"
+        },
+        {
+            "name": "RoRS",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "convert.py",
+            "console": "integratedTerminal",
+            "args": "in_rors.txt"
         }
     ]
 }

@@ -4,6 +4,10 @@ import json
 import re
 
 traitRegex = "([\t ]*[A-Z\u00C0-\u017F]+\.)+"
+cardNumberRegex = "^([A-Z]\s*)+\s+\(\d+\/\d+\).*$"
+numberRegex = "^(\d\s*)+$"
+cardTypes = ["ANHANG", "VERRAT", "SCHERGE", "NEBENPLAN", "HAUPTPLAN", "UMGEBUNG", "VERBÜNDETER", "SCHURKE"]
+stats = ["ANG", "WID", "PLA"]
 
 parser = argparse.ArgumentParser(
                     prog='MC Translation Converter')
@@ -15,11 +19,33 @@ content = []
 with open(filename, encoding="utf-8") as f:
     content = f.readlines()
 
+def sanitizeInput(lines: list[str]):
+    out = []
+    for line in lines:
+        # type
+        if line.strip() in cardTypes:
+            continue
+        # stats
+        if line.strip() in stats:
+            continue
+        # card number
+        if re.match(cardNumberRegex, line):
+            continue
+        # TODO: ignore lines that are just numbers
+        if re.match(numberRegex, line):
+            continue
+        # artist credit
+        if "©" in line or "@" in line or "FFG" in line:
+            continue
+        out.append(line)
+    return out
+
 def replaceSpecialIcons(text: str):
     return text.replace("*", "[star]")
 
 def parseCard(text: list[str]):
     index = 0
+    textEndIndex = len(text)
     # get title
     ## remove any whitespace or unique symbols. then convert to title-case 
     title = text[index].strip("+ \n").title()
@@ -27,15 +53,15 @@ def parseCard(text: list[str]):
     # get traits, if exist
     traits = ""
     # check for regex (TRAIT. TRAIT.)
-    if re.match(traitRegex, text[index]):
-        print("Found traits")
-        # convert all traits to title-case, then rejoin into trait format
-        allTraits = text[index].split(".")
-        traits = str.join(". ", [t.strip().title() for t in allTraits]).strip()
-        index += 1
+    for i in range(index, textEndIndex):
+        if re.match(traitRegex, text[i]):
+            print(f"Found traits at {i}, skipping {i - index} lines")
+            # convert all traits to title-case, then rejoin into trait format
+            allTraits = text[i].split(".")
+            traits = str.join(". ", [t.strip().title() for t in allTraits]).strip()
+            index = i + 1
     # check if there is a boost
     boost = ""
-    textEndIndex = len(text)
     #TODO: flavor text
     # check for a line that starts with boost start
     for i in range(index, textEndIndex):
@@ -74,7 +100,9 @@ def writeCard(card, file: TextIOWrapper):
 texts = []
 lines = []
 print(content)
-for text in content:
+sanitized = sanitizeInput(content)
+print(f"removed {len(sanitized) - len(content)} lines ({len(sanitized)}/{len(content)})")
+for text in sanitized:
     if len(text.strip()) == 0:
         print("found end")
         print(lines)

@@ -1,0 +1,1109 @@
+CHAOS IM GANZEN LAND
+NEBENPLAN
+Red Skull verursacht im ganzen Land
+Katastrophen, um seine Feinde zu beschäftigen.
+Sobald aufgedeckt: Jeder
+Spieler legt die obersten 5 Karten seines Decks ab und platziert hier
+1 Bedrohung für jedes unterschiedliche Ressourcensymbol
+(2, 8o, @ oder *), das er auf diese
+Weise abgelegt hat.
+
+
+
+HYDRA-VERSTÄRKUNGEN
+NEBENPLAN
+Was den Hydra-Truppen an Können fehlt, machen sie durch schiere Masse wett.
+Sobald besiegt: Der Spieler, der diesen Plan besiegt hat, legt einen Nicht-ELITE-Schergen ab.
+
+
+
+ZENSUR DER VERGANGENHEIT
+NEBENPLAN
+Hydra kontrolliert alle Medien und bringt die Massen durch Manipulation und Propaganda gegen die Helden der Vergangenheit auf.
+Sobald besiegt: Jeder Spieler wählt bis zu 3 Karten in seinem Ablagestapel und mischt sie in sein Deck.
+
+
+
+GEFANGENENLAGER
+NEBENPLAN
+Unter der Herrschaft von Hydra werden Familien voneinander getrennt und Menschen ohne ein ordentliches Verfahren inhaftiert.
+Sobald besiegt: Der Spieler, der diesen Plan besiegt hat, durchsucht sein Deck und seinen Ablagestapel nach einem Verbündeten, bringt ihn ins Spiel und mischt sein Deck.
+
+
+
+DER SCHLÄFER IST ERWACHT
+NEBENPLAN
+Der Schläfer ist erwacht und erhebt sich aus dem Potomac River, um den Befehlen Red Skulls zu folgen.
+Dieser Plan kann das Spiel nicht verlassen, solange Der Schläfer im Spiel ist.
+Sobald aufgedeckt: Bringe Der Schläfer mit dem Startspieler im Kampf ins Spiel. Sobald Der Schläfer besiegt wird, entferne diesen Nebenplan aus dem Spiel.
+
+
+
+DAS ROTE HAUS
+NEBENPLAN
+Als Symbol für die Eroberung Amerikas durch Hydra ließ Red Skull seine Festung über dem Weißen Haus errichten.
+Red Skull kann keinen Schaden nehmen.
+Unterbrechung: Sobald ein Charakter gegen diesen Nebenplan Widerstand leistet, darf er statt seines WID-Wertes seinen ANG-Wert verwenden.
+
+
+
+UNENDLICHE MACHT
+VERRAT
+Sobald aufgedeckt (Alter Ego): Gib Red Skull eine Zäh-Statuskarte. Red Skull treibt den Plan voran.
+Sobald aufgedeckt (Held): Gib Red Skull eine Zäh-Statuskarte. Red Skull greift dich an.
+
+
+
+LÜGEN VERBREITEN
+VERRAT
+Sobald aufgedeckt: Platziere
+2 Bedrohung auf jedem Plan im Spiel.
+* Boost: Gib Red Skull eine Zäh-Statuskarte.
+„Dank meiner großen und unübertroffenen Schläue wird Hydra die Vorherrschaft erlangen!" - Red Skull
+
+
+
+ERBITTERTER RIVALE
+VERRAT
+Sobald aufgedeckt: Erschöpfe für jeden Nebenplan im Spiel einen Charakter unter deiner Kontrolle.
+* Boost: Erschöpfe einen Charakter unter deiner Kontrolle.
+„Dies ist Ihr Ende, Herr Captain!" - Red Skull
+
+ANHANG
+VERZERRTE REALITÄT
+ZUSTAND.
+Anstacheln 1.
+Hänge diese Karte an einen Nebenplan an.
+Erzwungene Reaktion: Sobald der Nebenplan mit diesem Anhang besiegt wird, teile dem Startspieler eine Begegnungskarte zu.
+Der Infinity-Stein gibt Red Skull die Macht, die Realität nach seinem Willen zu beugen.
+
+
+
+MEISTERSTRATEGE
+ANHANG
+PLA
+FERTIGKEIT.
+Hänge diese Karte an Red Skull an.
+* Erzwungene Unterbrechung:
+Sobald Red Skull aktiviert wird, gib ihm für jeden Nebenplan im Spiel eine zusätzliche Boost-Karte. Lege dann diese Karte ab.
+(Max. ein Mal pro Aktivierung.)
+„Die einzige Figur, die beim Schach zählt, ist der König - und der bin ich." - Red Skull
+
+
+
+RED SKULLS RECHTER HAKEN
+ANHANG
+FERTIGKEIT.
+Hänge diese Karte an Red Skull an.
+Red Skull erhält Vergeltung 1.
+Held - Aktion: Gib ≤ M Ressourcen aus → lege diese Karte ab.
+„Ich bin dir auf jede erdenkliche Art überlegen!"
+-Red Skull
+
+
+
++ RED SKULLS LUGER
+ANHANG
++1
+PLA
+WAFFE.
+Hänge diese Karte an Red Skull an.
+* Red Skulls Angriffe erhalten Durchdringend und Fernkampf.
+Held - Aktion: Gib 2 M
+Ressourcen aus → lege diese Karte ab.
++1
+ANG
+RED SKULL (10/28)
+* Boost: Hänge diese Karte an
+Red Skull an.
+• Andrea Di Vito & Laura Villarì © MARVEL © 2020 FFG 8 132
+
+
+HYDRA-EXO-SOLDAT
+SCHERGE
+N
+PLA
+ANG
+HYDRA.
+Zähigkeit.
+* Boost: Gib dem Schurken eine Zäh-Statuskarte und eine weitere Boost-
+Karte.
+„Vorsicht, Leute! Diese Jungs können ganz schön austeilen!" - Captain America
+RED SKULL (7/28)
+• Javier Pina © MARVEL O 2020 FFG 8% 131
+
+
++ DER SCHLÄFER
+SCHERGE
+PLA
+ANG
+58
+ELITE. HYDRA. ROBOTER.
+Vergeltung 1. Wache. Zähigkeit.
+Sobald aufgedeckt: Der Schläfer verwickelt den Startspieler in einen
+Kampf.
+Sobald besiegt: Entferne diesen Schergen aus dem Spiel.
+RED SKULL (6/28)
+Patrick McEvoy © MARVEL © 2020 FFG % 130
+
+
+113 HYDRAS NEUE WELT
+HAUPTPLAN
+* Erzwungene Reaktion:
+Nachdem der erste Schritt der Schurkenphase abgehandelt worden ist, decke die oberste Karte des Nebenplandecks auf und bringe sie ins Spiel.
+Falls dieser Abschnitt vollendet ist, verlieren die Spieler das Spiel.
+478*
+RED SKULL (5/28)
+18
+• Scott Drummand © MARVEL O 2020 FFG
+
+
+89 129B
+
+
+2B
+
+
+HYDRAS NEUE WELT
+HAUPTPLAN
+Red Skull ist dem Ziel, die volle Macht des Infinity-Steins freizusetzen, einen Schritt näher gekommen. Ihr müsst ihn aufhalten, bevor die gesamte Realität seinem bösen Willen unterworfen ist.
+Sobald aufgedeckt:
+Decke die oberste Karte des Nebenplandecks auf und bringe sie ins Spiel.
+2A
+RED SKULL (5/28)
+Scott Drummond @ MARVELO 2020 FFG 129A
+
+
+88
+
+
+DER AUFSTIEG VON RED SKULL
+HAUPTPLAN
+1B
+Mit der Macht des Realitätssteins will Red Skull die Welt erobern. Er setzt sein strategisches Genie ein, um euch mit anderen Dingen abzulenken, während er auf sein Ziel hinarbeltet.
+* Erzwungene Reaktion:
+Nachdem der erste Schritt der Schurkenphase abgehandelt worden ist, decke die oberste Karte des Nebenplandecks auf und bringe sie ins Spiel.
++12'
+RED SKULL (4/28)
+Denis Medri ® MARVEL O 2019 FFG % 1288
+
+
+DER AUFSTIEG VON RED SKULL
+HAUPTPLAN
+Inhalt: Red Skull (I) und Red
+Skull (II). „Red Skull" - und Standard-Begegnungssets. Zwei modulare Begegnungssets (Hydra-Angriff und Hydra-Patrouille).
+Spielaufbau: Bringe den Neben-plan Das Rote Haus ins Spiel. Mische jeden anderen Nebenplan in das Nebenplandeck und lege es neben das Begegnungsdeck (siehe Regelheft).
+Lege den Schergen Der Schläfer als nicht im Spiel befindlich beiseite.
+1A
+RED SKULL (4/28)
+. Denis Medri © MARVEL © 2020 FFG@$ 128A
+
+
+SA
+
+
++ RED SKULL
+SCHURKE
+PLA
+ANG
+HYDRA.
+* Red Skull bekommt +1 ANG für jeden Nebenplan im Spiel.
+Sobald aufgedeckt: Teile jedem Spieler eine Begegnungskarte zu.
+„Die ganze Welt wird sich Red Skull unterwerfen!"
+RED SKULL (3/29) / LEBENSPUNKTE 202
+Javier Pina © MARVELO 2020 FFG & 127
+
+
++ RED SKULL
+SCHURKE
+PLA
+ANG
+HYDRA.
+* Red Skull bekommt +1 ANG für jeden Nebenplan im Spiel.
+Sobald aufgedeckt: Teile jedem Spieler eine Begegnungskarte zu.
+„Niemand wird meinen Plänen im Wege stehen!"
+- RED SKULL (2/28) / LEBENSPUNKTE 162
+Javier Pina © MARVEL O 2020 FFG eg 126
+
+
++ RED SKULL
+SCHURKE
+N
+PLA
+ANG
+HYDRA.
+* Red Skull bekommt +1 ANG für jeden Nebenplan im Spiel.
+„Freiheit gibt es nur für den, der herrscht! Alle anderen müssen Sklaven sein!"
+RED SKULL (1/28) / LEBENSPUNKTE 122
+•Javier Pina O MARVELO 2020 FFGES 125
+
+
+ZOLAS EXPERIMENTE
+NEBENPLAN
+Der verrückte Doktor wird nie müde, an seinen Opfern herumzuexperimentieren.
+Erzwungene Reaktion:
+Nachdem ein Scherge ins Spiel gekommen ist, hänge den obersten TECH-Anhang im Begegnungs-Ablagestapel an den Schergen an.
+38
+ZOLA (31/31)
+Andrea Di Vito & Laura Villari © MARVEL O 2020 FFG
+
+
+124
+
+
+VERSUCHSOBJEKTE
+NEBENPLAN
+Ein Schicksal schlimmer als der Tod.
+Sobald besiegt: Der Start-spieler legt Karten vom Begegnungsdeck ab, bis er einen Schergen ablegt. Decke den Schergen auf.
+28
+ZOLA (29/31)
+Patrick McEvoy © MARVEL © 2020 FFG
+
+
+63 123
+
+
+HYDRA-GEFÄNGNIS
+NEBENPLAN
+Sobald aufgedeckt: Jeder Spieler durchsucht sein Deck, seinen Ablage-stapel und seine Hand nach einem heldenspezifischen Verbündeten
+und platziert ihn verdeckt unter diesem Plan. Platziere X Bedrohung auf diesem Plan. X ist die Summe der Kosten aller Verbündeten unter im.
+Jeder Spieler mischt sein Deck.
+Sobald besiegt: Enterne diesen
+Plan aus dem Spiel und schicke jeden
+Verbündeten unter ihm zurück auf
+die Hand seines Besitzers.
+ZOLA (28/31)
+a Imaginary Friends Studio & Alessandro Vitti ® MARVEL© 2020 FFG @$ 122
+
+
+TECHNOLOGISCHE VERBESSERUNGEN
+VERRAT
+Anstacheln 1.
+Sobald aufgedeckt: Platziere
+1 Versuchsmarker auf dem Hauptplan.
+* Boost: Platziere 1 Versuchsmarker auf dem Hauptplan.
+ZOLA (26/31)
+• Scott Drummond © MARVEL O 2020 FFG 9 121
+Seatt Drunomond
+© 2020 /F085721
+
+
+GEDANKENSTRAHL
+VERRAT
+Sobald aufgedeckt (Alter Ego):
+Zola treibt den Plan voran. Du wirst verwirrt.
+Sobald aufgedeckt (Held): Zola greift dich an. Du wirst betäubt.
+„Du hast geglaubt, Zola könne sich nicht wehren?
+Du arroganter Narr!" - Arnim Zola
+ZOLA (24/31)
+Steve Ellis © MARVEL O 2020 FFG&3 120
+
+
+NEURO-IMPLANTATE
+ANHANG
++2
+PLA
++2
+ANG
+ZOLA (22/31)
+TECH.
+Hänge diese Karte an den Schergen mit den meisten verbleibenden Lebenspunkten an, an den noch keine Neuro-Implantate angehängt sind. Falls du das nicht kannst, erhält diese Karte Nachrüsten.
+Der Scherge mit diesem Anhang bekommt +2 Lebenspunkte.
+Frank D'Armata, Steve Epting, & Rick Magyar © MARVEL O 2020 FFG € 119
+
+
+SCHMERZUNTERDRÜCKER
+ANHANG
+TECH.
+Hänge diese Karte an den Schergen mit den meisten verbleibenden Lebenspunkten an, an den noch kein Schmerz-unterdrücker angehängt ist. Falls du das nicht kannst, erhält diese Karte Nachrüsten.
+Der Scherge mit diesem Anhang bekommt +2 Lebenspunkte und erhält Vergeltung 1.
+ZOLA (19/31)
+Andrea Di Vito & Laura Villari. © MARVEL @ 2020 FFG6 118
+
+ANHANG
+DEFENSIVES PROGRAMM
+TECH.
+Hänge diese Karte an den Schergen mit den meisten verbleibenden Lebenspunkten an, an den noch kein Defensives Programm angehängt ist. Falls du das nicht kannst, erhält diese Karte Nachrüsten.
+Der Scherge mit diesem Anhang bekommt +2 Lebenspunkte und erhält Wache.
+ZOLA (16/31)
+Patrick McEvoy @ MARVEL ® 2020 FFG&117
+
+
+BERSERKER-MUTATION
+SCHERGE
+PLA
+ANG
+HYDRA. MUTATION.
+Erstschlag.
+* Boost: Platziere 1 Versuchsmarker auf dem Hauptplan. Für jeden Versuchsmarker auf dem Hauptplan bekommt Zola für diese Aktivierung
++1 PLA und +1 ANG.
+ZOLA (14/31)
+Steve Ellis © MARVELO 2020 FFG & 116
+
+
+ZOLAS MUTATION
+SCHERGE
+PLA
+N
+ANG
+HYDRA. MUTATION.
+Sobald aufgedeckt: Lege Karten vom Begegnungsdeck ab, bis ein TECH-Anhang abgelegt wird. Hänge die Karte an Zolas Mutation an.
+* Boost: Mische Zolas Mutation in das Begegnungsdeck.
+ZOLA (10/31)
+• Bryndon Everett © MARVEL® 2020 FFG & 115
+
+
+ULTIMATIVER BIO-DIENER
+SCHERGE
+PLA
+ANG
+HYDRA. MUTATION.
+Zähigkeit.
+* Ultimativer Bio-Diener bekommt +1 ANG für jeden Anhang, den er
+hat.
+* Boost: Gib dem Schurken eine Zäh-Statuskarte.
+ZOLA (6/31)
+• Patrick McEvoy © MARVEL © 2020 FFG & 114
+
+
+88
+
+
+DER VERRÜCKTE DOKTOR
+HAUPTPLAN
+* Erzwungene Reaktion: Nachdem der erste Schritt der Schurken-phase abgehandelt worden ist, platziere hier 1 Versuchsmarker. Falls hier dann 3 oder mehr Versuchs-marker liegen, lege Karten vom Begegnungsdeck ab, bis ein Scherge abgelegt wird. Bringe den Schergen mit dem Startspieler im Kampf ins Spiel und entferne 3 Versuchsmarker von diesem Plan.
++18
+Falls dieser Abschnitt vollendet ist, verlieren die Spieler das Spiel.
+ZOLA (5/31)
+18
+• Bryndon Everett © MARVEL © 2020 FFG € 113B
+
+
+2B
+
+
+DER VERRÜCKTE DOKTOR
+HAUPTPLAN
+Zolas Mutationen greifen euch mit blindem Gehorsam und wildem Zorn an. Es liegt an euch, diesem Albtraum ein Ende zu bereiten, bevor der verrückte Doktor sie auf die Welt loslässt!
+Sobald aufgedeckt: Jeder
+Spieler durchsucht das Begegnungsdeck und den Ablagestapel nach einem Schergen und deckt ihn auf.
+Mische das Begegnungsdeck.
+2A
+ZOLA (5/31)
+Bryndon Everette O MARVEL S 2020 FFG- 113A
+62
+
+DIE INSEL DES DR. ZOLA 
+HAUPTPLAN
+* Erzwungene Reaktion:
+Nachdem der erste Schritt der Schurkenphase abgehandelt worden ist, platziere hier
+1 Versuchsmarker. Falls hier dann 3 oder mehr Versuchs-marker liegen, lege Karten vom Begegnungsdeck ab, bis ein Scherge abgelegt wird.
+Bringe den Schergen mit dem Startspieler im Kampf ins Spiel
++18
+und entferne 3 Versuchsmarker von diesem Plan.
+ZOLA (4/31)
+Christoper Jones © MARVELO 2020 FFG C9 112B
+
+
+DIE INSEL DES DR. ZOLA
+HAUPTPLAN
+Inhalt: Zola (I) und Zola (II). Zola-und Standard-Begegnungssets.
+Ein modulares Begegnungsset
+(Unter Beschuss).
+Spielaufbau: Durchsuche das Begegnungsdeck nach dem Neben-plan Hydra-Gefängnis und decke ihn auf. Jeder Spieler durchsucht das Begegnungsdeck nach einem Exemplar von Ultimativer Bio-Diener und bringt ihn mit sich im Kampf ins Spiel. Mische das Begegnungsdeck.
+LA
+ZOLA (4/31)
+Christopher Jones © MARVEL Ó 2020 FFGEL 112A
+
+
++ZOLA
+SCHURKE
+PLA
+ANG
+ANDROIDE. HYDRA.
+Vergeltung 1.
+Sobald aufgedeckt: Jeder Spieler durchsucht das Begegnungsdeck und den Ablagestapel nach einem Schergen und deckt ihn auf. (Mische das Begegnungsdeck.)
+ZOLA (3/31) / LEBENSPUNKTE 168
+Javier Pina © MARVEL © 2020 FFG & 111
+
+
++ZOLA
+SCHURKE
+PLA
+ANG
+ANDROIDE. HYDRA.
+Vergeltung 1.
+Sobald aufgedeckt: Durchsuche das Begegnungsdeck und den Ablagestapel nach dem Nebenplan Versuchsobjekte und decke ihn auf.
+(Mische das Begegnungsdeck.)
+ZOLA (2/31) / LEBENSPUNKTE 142
+Javier-Pina © MARVEL © 2020 FFG 85 110
+
+
++ ZOLA
+SCHURKE
+N
+PLA
+ANG
+ANDROIDE. HYDRA.
+Vergeltung 1.
+„Mein Mutationsprogramm wird diese armseligen Kreaturen in Hydras Elite-Stoßtruppen verwandeln!"
+ZOLA (1/31) / LEBENSPUNKTE 122
+Javier Pina © MARVEL O 2020 FFGE 109
+
+
+TASKMASTERS TRAININGSCAMP
+NEBENPLAN
+Taskmaster nimmt nur die besten Truppen in seine Polizei auf. Bevor ein Hydra-Soldat ihr beitreten kann, muss er zuerst Taskmasters Trainingscamp überleben.
+Erzwungene Reaktion:
+Nachdem ein Scherge ins Spiel gekommen ist, gib ihm eine Zäh-Statuskarte.
+28
+TASKMASTER (23/23)
+Denis Medri© MARVELO 2020 FFG
+
+
+83 108
+
+
+VON HYDRA GEFANGEN
+NEBENPLAN
+Sobald aufgedeckt: Platziere 1 zufälligen beiseitegelegten
+GEFANGENER-Verbündeten
+verdeckt unter diesem Plan.
+Sobald dieser Plan besiegt wird, nimmt der Spieler, der den Plan besiegt hat, den Verbündeten auf seine Hand und entfernt diesen Plan aus dem Spiel.
+TASKMASTER (19/23)
+Steve Ellis o MARVEL @ 2020 FFG
+
+
+107
+
+
+VON HYDRA GEJAGT
+VERRAT
+Anstacheln 1. (Sobald diese
+Karte aufgedeckt wird, platziere
+1 Bedrohung auf dem Hauptplan.)
+Sobald aufgedeckt: Jeder Spieler in
+Heldengestalt nimmt 1 Schaden und legt
+1 zufällige Karte von seiner Hand ab.
+„Keine gute Zeit für Helden." - Bucky Barnes
+TASKMASTER (17/23)
+• Alan Davis, Mark Farmer, & Javier Rodriguez © MARVEL @ 2020 FFG& 106
+
+
+NACHAHMUNG
+VERRAT
+Sobald aufgedeckt (Alter Ego): Lege die obersten 5 Karten deines Decks ab.
+Falls auf diese Weise eine WIDERSTAND - Karte abgelegt wurde, treibt Taskmaster den Plan voran.
+Sobald aufgedeckt (Held): Lege die obersten 5 Karten deines Decks ab.
+Falls auf diese Weise eine ANGRIFF-Karte abgelegt wurde, greift Taskmaster dich an.
+TASKMASTER (15/23)
+• Andrea Di Vito & Laura Villari © MARVEL © 2020 FFG 03 105
+
+
+FOTOGRAFISCHE REFLEXE
+ANHANG
+Hänge diese Karte an Taskmaster an.
+Erzwungene Unterbrechung:
+Sobald ein Spieler Taskmaster angreift, verhindere allen Schaden, der Taskmaster zugefügt werden würde, und füge stattdessen der Identität des Spielers die gleiche Menge an Schaden zu. Lege dann Fotografische Reflexe ab. (Max. ein Mal pro Angriff.)
+TASKMASTER (14/23)
+• Christopher Jones © MARVEL © 2020 FFG & 104
+ANHANG
+TASKMASTER (12/23)
+
++ TASKMASTERS SCHILD
+RÜSTUNG. WAFFE.
+Hänge diese Karte an Taskmaster an.
+Taskmaster erhält Vergeltung 1.
+Held - Aktion: Erschöpfe deinen Helden und gib io
+-Ressourcen
+aus → lege diese Karte ab.
+„Das habe ich von Captain America gelernt."
+- Taskmaster
+• Andrea Di Vito & Laura Villari @ MARVEL © 2020 FFGES 103
+
+
++ TASKMASTERS SCHWERT
+ANHANG
+WAFFE.
+Hänge diese Karte an Taskmaster an.
+* Taskmasters Angriffe erhalten
+Durchdringend.
+Held - Aktion: Erschöpfe deinen Helden und gib i a
+-Ressourcen
+aus → lege diese Karte ab.
++1
+ANG
+TASKMASTER (11/23)
+• Steve Ellis @ MARVELÔ 2020 FFG 69 102
+
+
+HYDRA-JÄGER
+SCHERGE
+N
+PLA
+21
+ANG
+HYDRA.
+* Hydra-Jägers Angriffe erhalten Durchdringend und Fernkampf.
+* Boost: Falls du in Heldengestalt bist, nimm 1 Schaden. Ansonsten platziere 1 Bedrohung auf dem Hauptplan.
+TASKMASTER (9/23)
+Miguel Sepulveda © MARVEL © 2020 FFG & 101
+
+
+FOTOGRAFISCHE REFLEXE
+ANHANG
+Hänge diese Karte an Taskmaster an.
+Erzwungene Unterbrechung:
+Sobald ein Spieler Taskmaster angreift, verhindere allen Schaden, der Taskmaster zugefügt werden würde, und füge stattdessen der Identität des Spielers die gleiche Menge an Schaden zu. Lege dann Fotografische Reflexe ab. (Max. ein Mal pro Angriff.)
+TASKMASTER (13/23)
+. Christopher Jones. O MARVELC 2020 FFG03 104
+
+
++ ELEKTRA
+VERBÜNDETER
+WID
+☆
+W
+ANG
+GEFANGENER. HELD FÜR GELD.
+Reaktion: Nachdem du Elektra von deiner Hand gespielt hast, gib eine ®-Ressource aus → füge einem Gegner 3 Schaden zu.
+„Ich wurde erwischt, als ich versuchte, einigen Zivilisten bei der Flucht vor einer Hydra-Patrouille zu helfen. Die vermeintlichen Zivllisten waren selbst verdeckte Hydra-Agenten."
+TASKMASTER (8/23)
+© MARVEL G 2020 FFG 100
+
+
++ WHITE TIGER
+ANGELA DEL TORO
+VERBÜNDETER
+w
+WID
+ANG
+GEFANGENER. HELD FÜR GELD.
+Reaktion: Nachdem du White Tiger von deiner Hand gespielt hast, gib eine -Ressource aus → entferne
+3 Bedrohung von einem Plan.
+„Nachdem Hydra die Macht übernommen und Superhelden zu Verbrechern erklärt hatte, rief ein Nachbar den neuen Polizeichef an, um mich anzuzeigen."
+TASKMASTER (7/23)
+© MARVEL © 2020 FFG /99
+
+
++ SHANG-CHI
+VERBÜNDETER
+N
+WID
+食
+ANG
+N
+GEFANGENER. HELD FÜR GELD.
+Reaktion: Nachdem du Shang-Chi von deiner Hand gespielt hast, gib eine
+-Ressource aus → betäube einen
+Gegner.
+„Ein Hydra-Sturmtrupp drang in mein Haus ein, während ich meditierte. Ich habe sie rausgeschmissen, aber draußen warteten noch zwei weitere Teams."
+TASKMASTER (6/23)
+© MARVEL @ 2020 FFG & 98
+
+
++ MOON KNIGHT
+MARC SPECTOR
+VERBÜNDETER
+WID
+食
+ANG
+GEFANGENER. HELD FÜR GELD.
+Reaktion: Nachdem du Moon Knight von deiner Hand gespielt hast, gib eine
+*-Ressource aus → ziehe 2 Karten.
+„Hydra hat so schnell die Macht übernommen. Und ich wusste nicht mal, ob sie real sind."
+TASKMASTER (5/23)
+© MARVEL © 2020 EFG 43 97
+
+
+128
+
+
+AUF HELDENJAGD
+HAUPTPLAN
+Der berüchtigte Taskmaster wurde zu Hydras Polizeichef ernannt. Seine oberste Priorität ist die Jagd auf geächtete Helden.
+* Erzwungene Reaktion:
+Nachdem der erste Schritt der Schurkenphase abgehandelt worden ist, muss jeder Spieler in Heldengestalt wählen, ob er entweder 1 Bedrohung hier platziert oder 1 Schaden nimmt.
++12
+Falls dieser Abschnitt vollendet ist, verlieren die Spieler das Spiel.
+TASKMASTER (4/23)
+18
+Denis Medai © MARVEL O 2020 FFGeS 96B
+
+
+IB
+
+
+AUF HELDENJAGD
+HAUPTPLAN
+Inhalt: Taskmaster (I) und Taskmaster (II). Taskmaster, Hydra-Patrouille- und Standard-Begegnungssets. Ein modulares Begegnungsset (Waffenmeister).
+Spielaufbau: Lege jeden
+GEFANGENER-Verbündeten als nicht im Spiel befindlich beiseite.
+Durchsuche das Begegnungsdeck nach dem Nebenplan Hydra-Patrouille und bringe ihn ins Spiel.
+Mische das Begegnungsdeck.
+TASKMASTER (4/23)
+Denis Medy O MARVEL 9 2020 FFG
+
+
++ TASKMASTER
+SCHURKE
+PLA
+ANG
+HYDRA. SÖLDNER.
+Sobald aufgedeckt: Teile jedem Spieler eine Begegnungskarte zu.
+Erzwungene Reaktion: Nachdem ein Spieler in seine Heldengestalt gewechselt ist, legt er die oberste Karte des Begegnungsdecks ab und nimmt Schaden in Höhe der Anzahl der Boost-Symbole auf der Karte.
+TASKMASTER (3/23) / LEBENSPUNKTE 178
+© MARVEL © 2020 FFG € 95
+
+
++ TASKMASTER
+SCHURKE
+N
+PLA
+ANG
+HYDRA. SÖLDNER.
+Sobald aufgedeckt: Teile jedem Spieler eine Begegnungskarte zu.
+Erzwungene Reaktion: Nachdem ein Spieler in seine Heldengestalt gewechselt ist, legt er die oberste Karte des Begegnungsdecks ab und nimmt Schaden in Höhe der Anzahl der Boost-Symbole auf der Karte.
+TASKMASTER (2/23) / LEBENSPUNKTE 162
+0 MARVEL © 2020 FFGE 94
+
+
++ TASKMASTER
+SCHURKE
+PLA
+N
+ANG
+HYDRA. SÖLDNER.
+Erzwungene Reaktion: Nachdem ein Spieler in seine Heldengestalt gewechselt ist, legt er die oberste Karte des Begegnungsdecks ab und nimmt Schaden in Höhe der Anzahl der Boost-Symbole auf der Karte.
+"Es gibt nichts, was du kannst, das ich nicht besser kann."
+TASKMASTER (1/23) / LEBENSPUNKTE 138
+Ó MARVEL @ 2020 FFG48 93
+
+
+SUPERABSORPTIONSKRAFT
+NEBENPLAN
+Creel hat die Fähigkeit, die Eigenschaften mehrerer Elemente auf einmal zu absorbieren, was enorme Konzentration erfordert.
+Absorbing Man erhält die Merkmale EIS, HOLZ, METALL und STEIN.
+* Boost: Decke diese Karte auf.
+38
+ABSORBING MAN (25/25)
+• Steve Ellis © MARVELO 2020 FFG
+
+
+UCKRAFT
+
+
+LAWINE!
+NEBENPLAN
+Sobald aufgedeckt: Jeder Spieler muss wählen, ob er entweder eine -Ressource ausgibt oder 2 indirekten Schaden nimmt (3 indirekten Schaden stattdessen, falls sich auf dem Hauptplan 5 oder mehr Verzögerungsmarker befinden).
+28
+ABSORBING MAN (24/25)
+Patrick McEvoy © MARVEL © 2020 FFG
+
+
+91
+
+
+LAWINE!
+NEBENPLAN
+Sobald aufgedeckt: Jeder Spieler muss wählen, ob er entweder eine -Ressource ausgibt oder 2 indirekten Schaden nimmt (3 indirekten Schaden stattdessen, falls sich auf dem Hauptplan 5 oder mehr Verzögerungsmarker befinden).
+22
+ABSORBING MAN (23/25)
+Patrick McEvoy © MARVEL © 2020 FFG
+
+
+2 91
+
+
+EISIGER GRIFF
+VERRAT
+Sobald aufgedeckt: Du wirst betäubt.
+Falls Absorbing Man das Merkmal EIs hat, nimm 2 indirekten Schaden.
+* Boost: Falls Absorbing Man das Merkmal EiS oder METALL hat, gib ihm eine Zäh-Statuskarte.
+ABSORBING MAN (21/25)
+Scott Drummond © MARVELO 2020 FFG 69 90
+
+
+OMNI-MORPH-DUPLIKATION
+VERRAT
+Sobald aufgedeckt: Falls Absorbing Man ...
+• das Merkmal ElS hat, erschöpfe deine
+Identität.
+• das Merkmal METALL hat, gib Absorbing Man eine Zäh-Statuskarte und heile
+1 Schaden von ihm.
+• das Merkmal STEIN hat, gib Absorbing
+Man 1 verdeckte Boost-Karte.
+• das Merkmal HOLZ hat, lege 1 zufällige Karte von deiner Hand ab.
+ABSORBING MAN (18/25)
+* Denis Medri © MARVEL O 2020 FFG 8: 89
+
+
+STECHENDE DORNEN
+VERRAT
+Sobald aufgedeckt: Lege 1 zufällige Karte von deiner Hand ab. Falls
+Absorbing Man das Merkmal HoLZ hat, lege 1 Karte unter deiner Kontrolle ab.
+* Boost: Falls Absorbing Man das Merkmal STEIN oder HOLZ hat, wirst du betäubt.
+ABSORBING MAN (16/25)
+• Bryndon Everett © MARVEL© 2020 FFGE 88
+
+
+STAHLTRITT
+VERRAT
+Sobald aufgedeckt (Alter Ego):
+Platziere 2 Bedrohung auf dem Haupt-plan (3 Bedrohung stattdessen, falls Absorbing Man das Merkmal METALL hat).
+Sobald aufgedeckt (Held): Nimm 3 indirekten Schaden (4 indirekten Schaden stattdessen, falls Absorbing
+Man das Merkmal METALL hat).
+ABSORBING MAN (14/25)
+Andrea Di Vito & Laura Villari © MARVEL G 2020 FFG& 87
+
+
+SCHWINGENDER STEIN
+VERRAT
+Sobald aufgedeckt (Alter Ego):
+Absorbing Man treibt den Plan voran.
+Falls Absorbing Man das Merkmal STEIN hat, bekommt er für diese Aktivierung
++1 PLA.
+Sobald aufgedeckt (Held): Absorbing Man greift dich an. Falls Absorbing Man das Merkmal STEIN hat, bekommt er für diese Aktivierung +1 ANG.
+ABSORBING MAN (12/25)
+• Christopher Jones © MARVEL © 2020 FFG 6 86
+
+
+HINHALTETAKTIK
+VERRAT
+Sobald aufgedeckt: Platziere für je
+2 Verzögerungsmarker auf dem Hauptplan
+1 Bedrohung auf dem Hauptplan. Falls auf diese Weise keine Bedrohung platziert wurde, erhält diese Karte Nachrüsten.
+* Boost: Falls sich auf dem Hauptplan 5 oder mehr Verzögerungsmarker befinden, nimm 1 indirekten Schaden.
+ABSORBING MAN (10/25)
+Bryndon Everett © MARVEL ® 2020 FFG 89 85
+
+
++ KETTENKUGEL
+ANHANG
+WAFFE.
+Hänge diese Karte an Absorbing
+Man an.
+Held - Aktion: Gib eine a-Ressource aus → mische diese Karte in das Begegnungsdeck.
+* Boost: Decke diese Karte auf.
++1
+PLA
++1
+ANG
+ABSORBING MAN (9/25)
+Patrick McEvoy © MARVEL O 2020 FFGeS 84
+
+
+VERLASSENE FABRIK
+UMGEBUNG
+METALL.
+Nachrüsten.
+Erzwungene Reaktion: Nachdem Absorbing Man einen unverteidigten Angriff gegen dich durchgeführt hat, lege 1 Ressourcensymbol von deiner Hand ab (2 Ressourcensymbole stattdessen, falls sich auf dem Hauptplan 5 oder mehr Verzögerungsmarker befinden).
+* Boost: Bringe diese Karte ins Spiel.
+ABSORBING MAN (8/25)
+• Patrick McEvoy © MARVEL© 2020 FFG 43 83
+
+
+VEF
+
+
+UMGEB
+
+
+FELSVORSPRUNG
+UMGEBUNG
+STEIN.
+Nachrüsten.
+Erzwungene Reaktion: Nachdem
+Absorbing Man einen unverteidigten Angriff gegen dich durchgeführt hat, heile
+1 Schaden von ihm (2 Schaden stattdessen, falls sich auf dem Hauptplan 5 oder mehr Verzögerungsmarker befinden).
+* Boost: Bringe diese Karte ins Spiel.
+ABSORBING MAN (7/25)
+Patrick McEvoy © MARVEL ® 2020 FFGe 82
+
+
+VERSCHNEITER BERGHANG
+UMGEBUNG
+EIS.
+Nachrüsten.
+Erzwungene Reaktion: Nachdem Absorbing Man einen unverteidigten Angriff gegen dich durchgeführt hat, platziere 1 Bedrohung auf dem Hauptplan (2 Bedrohung stattdessen, falls sich auf dem Hauptplan 5 oder mehr Verzögerungsmarker befinden).
+* Boost: Bringe diese Karte ins Spiel.
+ABSORBING MAN (6/25)
+• Patrick McEvoy ® MARVEL © 2020 FFGe 81
+
+
+DICHTER WALD
+UMGEBUNG
+HOLZ.
+Nachrüsten.
+Erzwungene Reaktion: Nachdem
+Absorbing Man einen unverteidigten Angriff gegen dich durchgeführt hat, nimm 1 indirekten Schaden (2 indirekten Schaden stattdessen, falls sich auf dem Hauptplan 5 oder mehr Verzögerungs-marker befinden).
+* Boost: Bringe diese Karte ins Spiel.
+ABSORBING MAN (5/25)
+Patrick McEvoy © MARVELO 2020 FFG @ 80
+
+
+123 AN MIR KOMMT KEINER VORBEI
+HAUPTPLAN
+* Erzwungene Reaktion:
+Nachdem der erste Schritt der Schurkenphase abgehandelt worden ist, platziere hier
+1 Verzögerungsmarker.
+Erzwungene Unterbrechung:
+Sobald eine Umgebung ins Spiel kommt, lege jede andere Umgebungskarte im Spiel ab.
+Falls dieser Abschnitt
++18*
+vollendet ist, verlieren die Spieler das Spiel.
+ABSORBING MAN (4/25)
+28
+Christopher Jones © MARVEL @ 2020 FFGEs 79B
+
+
+IB
+
+
+AN MIR KOMMT KEINER VORBEI
+HAUPTPLAN
+Inhalt: Absorbing Man (1) und Absorbing Man (II). „Absorbing
+Man"- und Standard-Begegnungssets. Ein modulares Begegnungsset (Hydra-Patrouille).
+Spielaufbau: Lege Karten vom Begegnungsdeck ab, bis eine Umgebung abgelegt wird. Bringe die Karte ins Spiel und mische den Begegnungs-Ablagestapel in das Begegnungsdeck.
+LA
+ABSORBING MAN (4/25)
+• Christopher Jones © MARVEL® 2020 FFG= 79A
+
+
++ ABSORBING MAN
+SCHURKE
+2*
+PLA
+ANG
+SCHLÄGER.
+Absorbing Man erhält das Merkmal jeder Umgebung im Spiel.
+* Erzwungene Reaktion: Nachdem Absorbing Man gegen dich aktiviert worden ist, falls er ...
+• das Merkmal eis oder STEIN hat, platziere
+1 Bedrohung auf dem Hauptplan.
+• das Merkmal METALL oder HOLZ hat, nimm
+1 indirekten Schaden.
+ABSORBING MAN (3/25) / LEBENSPUNKTE 168
+• Miguel Sepulveda © MARVEL © 2020 FFG &3 78
+
+
++ ABSORBING MAN
+SCHURKE
+N
+PLA
+N
+ANG
+SCHLÄGER.
+Absorbing Man erhält das Merkmal jeder Umgebung im Spiel.
+Sobald aufgedeckt: Falls der Nebenplan Superabsorptionskraft im Spiel ist, teile jedem Spieler 1 Begegnungskarte zu. Ansonsten durchsuche das Begegnungsdeck und den Ablagestapel nach Superabsorptionskraft und decke sie auf. Mische das Begegnungsdeck, falls es auf diese Weise durchsucht wurde.
+ABSORBING MAN (2/25) / LEBENSPUNKTE 152
+Miguel Sepulveda © MARVEL © 2Q20 FFG €&3 77
+
+
++ ABSORBING MAN
+SCHURKE
+PLA
+ANG
+SCHLÄGER.
+Absorbing Man erhält das Merkmal jeder Umgebung im Spiel.
+„Weißt du, dass ich einmal Thor besiegt habe?
+Stell dir das vor: Crusher Creel steht über dem Gott des Donners. Und du glaubst, dass du mir Angst machen kannst?"
+ABSORBING MAN (1/25) / LEBENSPUNKTE 148
+Miguel Sepulveda © MARVEL © 2020 FFG €3 76
+
+
+GEFANGENE MITARBEITER
+NEBENPLAN
+Hydra treibt die Angestellten von
+P.E.G.A.S.U.S. als Geiseln zusammen.
+Sobald aufgedeckt: Lege
+18 Karten vom Begegnungsdeck ab. Platziere hier zusätzlich
+1 Bedrohung für jedes auf diese Weise abgelegte Boost-Symbol.
+m
+CROSSBONES (19/19)
+Steve Ellis © MARVEL © 2020 FFG
+B3 71
+
+CROSSBONES' ANGRIFF
+NEBENPLAN
+Crossbones ist zwar ein kaltherziger Killer, aber kein verrückter Psychopath. Sein Überfall auf P.E.G.A.S.U.S. ist skrupellos und effizient.
+Sobald besiegt: Aktiviere
+Crossbones gegen den Spieler, der diesen Plan besiegt hat.
+28
+CROSSBONES (17/19)
+Patrick McEvoy © MARVEL © 2020 FFG
+e 70
+
+
+PLÜNDERUNG DER WAFFENKAMMER
+VERRAT
+Anstacheln 1. (Sobald diese Karte aufgedeckt wird, platziere
+1 Bedrohung auf dem Hauptplan.)
+Sobald aufgedeckt: Lege Karten vom Begegnungsdeck ab, bis ein WAFFE-Anhang abgelegt wird. Decke die Karte auf.
+CROSSBONES (15/19)
+Patrick McEvoy © MARVEL ® 2020 FFG@ 69
+
+
+HART WIE STAHL
+VERRAT
+Sobald aufgedeckt: Gib dem Schurken eine Zäh-Statuskarte. Falls du das nicht kannst, heile stattdessen
+3 Schaden von ihm.
+* Boost: Gib dem Schurken eine Zäh-Statuskarte. Falls du das nicht kannst, heile stattdessen 3 Schaden von ihm.
+CROSSBONES (13/19)
+• Denis Medri © MARVEL O FFG FFGeà 68
+
+
+KUGELHAGEL
+VERRAT
+Sobald aufgedeckt (Alter Ego):
+Nachrüsten.
+Sobald aufgedeckt (Held): Lege X Karten vom Begegnungsdeck ab.
+X ist Crossbones' ANG-Wert. Nimm für jedes auf diese Weise abgelegte Boost-Symbol 1 indirekten Schaden.
+CROSSBONES (11/19)
+Patrick McEvoy © MARVEL© 2020 FFG& 67
+
+
+HYDRA-BOMBENLEGER
+SCHERGE
+PLA
+ANG
+HYDRA.
+Sobald aufgedeckt: Wähle: Nimm entweder 2 Schaden oder platziere
+1 Bedrohung auf dem Hauptplan.
+„Ich weiß, dass wenn man einen Kopf abschlägt, zwei Köpfe nachwachsen werden. Aber was ist, wenn er stattdessen explodiert?" - She-Hulk
+CROSSBONES (9/19)
+© MARVEL © 2020 FFG # 66
+
++ CROSSBONES' RÜSTUNG
+ANHANG
+RÜSTUNG.
+Hänge diese Karte an
+Crossbones an.
+Erzwungene Unterbrechung:
+Sobald Crossbones eine beliebige
++1
+PLA
+Menge an Schaden nehmen würde, platziere den Schaden stattdessen hier. Falls sich auf dieser Karte 5 oder mehr Schaden befinden,
++1
+lege Crossbones' Rüstung ab.
+ANG
+„Sonne dich in dem Glanz, Baby." - Crossbones
+CROSSBONES (8/19)
+•Patrick McEvoy © MARVEL © 2020 FFG&$ 65
+
++ CROSSBONES' MASCHINENGEWEHR
+ANHANG
+WAFFE.
+Hänge diese Karte an Crossbones an. Anwendungen
+(28 Munitionsmarker).
+* Erzwungene Unterbrechung:
+Sobald Crossbones dich angreift, entferne 1 Munitionsmarker von dieser Karte und lege die oberste Karte des Begegnungsdecks ab
++0
+→ nimm indirekten Schaden in Höhe der Anzahl der Boost-Symbole auf
+ANG
+der abgelegten Karte.
+CROSSBONES (7/19)
+Patrick McEvoy © MARVEL © 2020 FFG 6 64
+
+
+53
+
+
+DIE FLUCHT
+HAUPTPLAN
+Sobald aufgedeckt: Decke die oberste Karte des „Experimentelle Waffen"-Decks auf.
+Falls dieser Abschnitt vollendet ist, verlieren die Spieler das Spiel.
+3B
+CROSSBONES (6/19)
+• Bryndon Everett © MARVEL © 2020 FFG & 63B
+
+
+DIE FLUCHT
+HAUPTPLAN
+Hydra hat den Infinity-Stein an sich gerissen und Crossbones ordnet den Rückzug an. Ihr müsst sie aufhalten, bevor sie entkommen!
+ЗА
+CROSSBONES (6/19)
+Bryndon Everett © MARVELG 2020 FFG@ 63A
+
+
+68
+
+
+DER INFINITY-STEIN
+HAUPTPLAN
+Sobald aufgedeckt: Decke die oberste Karte des „Experimentelle Waffen"-Decks auf.
++18
+CROSSBONES (5/19)
+• Andrea Dí Vito & Laura Villari MARVEL® 2020 FFGe 628
+
+
+18
+
+
+2B
+
+
+DER INFINITY-STEIN
+HAUPTPLAN
+Innerhalb der Anlage von Projekt
+P.E.G.A.S.U.S. versuchen S.H.I. E.L.D.-
+Agenten verzweifelt zu verhindern, dass der dort versteckte Realitätsstein Hydra in die Hände fällt.
+2A
+CROSSBONES (5/19)
+• Andrea Di Vito A Laura Villan © MARVEL 9 2020 FIG 624
+
+
+32 ANGRIFF AUF MOUNT ATHENA
+HAUPTPLAN
+Crossbones startet mit einer Armee von Hydra-Soldaten einen Direktangriff auf die Anlage von Projekt P.E.G.A.S.U.S. in den Adirondack Mountains.
+Sobald aufgedeckt: Decke die oberste Karte des „Experimentelle Waffen"-Decks auf.
+IB
+CROSSBONES (4/19)
+•Denis Medri © MARVEL © 2020 FFG &* 61B
+
+
+ANGRIFF AUF MOUNT ATHENA
+HAUPTPLAN
+Inhalt: Crossbones (I) und Crossbones (II). Crossbones-, „Experimentelle Waffen" - und Standard-Begegnungssets.
+Drei modulare Begegnungssets (Hydra-Patrouille, Waffenmeister und Hydras Legionen).
+Spielaufbau: Erstelle das „Experimentelle Waffen"-Deck und lege es neben das Hauptplandeck.
+(Siehe Regelheft, Seite 5.)
+囚
+CROSSBONES (4/19)
+Denis Medri & MARVEL < 2020 FFGS 61A
+
+
++ CROSSBONES
+SCHURKE
+N
+PLA
+M
+ANG
+HYDRA. SÖLDNER.
+* Solange Crossbones einen WAFFE-Anhang hat, erhalten seine Angriffe Durchdringend.
+Sobald aufgedeckt: Decke die oberste Karte des „Experimentelle Waffen" - Decks auf.
+„Diese Typen mit den Superkräften sind vielleicht stärker, aber keiner von ihnen hat so viel Stil wie ich."
+CROSSBONES (3/19) /. LEBENSPUNKTE 168
+• Miguel Sepulveda © MARVELO FFG FFG&$ 60
+
+
++ CROSSBONES
+SCHURKE
+N
+PLA
+ANG
+HYDRA. SÖLONER.
+* Solange Crossbones einen WAFFE-Anhang hat, erhalten seine Angriffe Durchdringend.
+Sobald aufgedeckt: Durchsuche das Begegnungsdeck und den Ablagestapel nach Crossbones' Maschinengewehr und hänge es an Crossbones an. Mische das Begegnungsdeck.
+CROSSBONES (2/19) / LEBENSPUNKTE 148
+• Miguel Sepulveda ® MARVEL © 2020 FFG 59
+
+
++ CROSSBONES
+SCHURKE
+PLA
+ANG
+HYDRA. SOLDNER.
+* Solange Crossbones einen WAFFE-Anhang hat, erhalten seine Angriffe Durchdringend. (Lege alle Zäh-Statuskarten vom Ziel ab, bevor Schaden zugefügt wird.)
+,Ich betrachte mich selbst als Handwerker. Meine Spezialgeblete sind Zerstörung und Terror."
+CROSSBONES (1/19) / LEBENSPUNKTE 128
+Miquel Sepulveda © MARVEL ( 2020 FFG&* 58
