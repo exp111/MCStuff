@@ -1,0 +1,169 @@
+import argparse
+import codecs
+import html
+import json
+import os
+import textwrap
+from card_schema import Card, DeckOption, DeckRequirement
+from pack_schema import Pack
+import sys
+
+def directory(raw_path: str):
+    raw_path = raw_path.replace("\"", "").replace("'", "").strip()
+    if not os.path.isdir(raw_path):
+        raise argparse.ArgumentTypeError('"{}" is not an existing directory'.format(raw_path))
+    return os.path.abspath(raw_path)
+
+parser = argparse.ArgumentParser(
+                    prog='Marvel Champions Reprint List',
+                    description='Checks the Marvel Champions JSON Repo for reprints')
+parser.add_argument("-v", "--verbose", action="store_true", help="Show verbose output") # flag
+parser.add_argument("-i", "--input", nargs="?", default=os.path.curdir, type=directory, help="The directory of the repo. Defaults to the current path.")
+parser.add_argument("-o", "--output", nargs="?", default=os.path.curdir, type=directory, help="The directory where the output is written to. Defaults to the current path.")
+args = parser.parse_args()
+# args
+verbose = args.verbose
+inputDir = args.input
+outputDir = args.output
+
+def vprint(text: str):
+    if verbose:
+        print(text)
+
+def write(text: str = "", out=None):
+    print(text, file=out)
+    vprint(text)
+
+
+vprint("Args:")
+vprint(args)
+
+# consts
+baseDir = inputDir
+packSubDir = "pack"
+translationsSubDir = "translations"
+packsFile = "packs.json"
+lang = "de"
+
+vprint("Reading files")
+# TODO: sanity check the input dir
+
+translationDir = ""
+if lang is not None:
+    translationDir = os.path.join(baseDir, translationsSubDir, lang)
+    if not os.path.exists(translationDir):
+        print(f"Can't find translations directory for lang {lang}.")
+        sys.exit(1)
+
+def loadPacks(path: str):
+    packs = {}
+    for entry in os.scandir(path):
+        if entry.is_file() and entry.name.endswith("json"):
+            with open(entry.path, mode="r", encoding="utf-8") as f:
+                packs[entry.name] = json.load(f)
+    return packs
+
+def loadAllPacks(path: str):
+    allPacks: list[Pack] = []
+    with open(path, mode="r", encoding="utf-8") as f:
+        allPacks = json.load(f)
+    return allPacks
+
+# get all existing original files
+packs = loadPacks(os.path.join(baseDir, packSubDir))
+vprint(f"{len(packs)} pack files loaded.")
+
+translatedPacks = None
+if lang is not None:
+    translatedPacks = loadPacks(os.path.join(translationDir, packSubDir))
+    vprint(f"{len(packs)} translation pack files loaded.")
+
+# get packs
+allPacks: list[Pack] = loadAllPacks(os.path.join(baseDir, packsFile))
+vprint(f"{len(allPacks)} packs loaded.")
+
+translatedAllPacks = None
+if lang is not None:
+    translatedAllPacks = loadAllPacks(os.path.join(translationDir, packsFile))
+    vprint(f"{len(packs)} translation packs loaded.")
+
+# check if any files were found
+if len(packs) == 0:
+    print("No files found.")
+    exit(0)
+
+# map into cards list
+cards: list[Card] = []
+for pack in packs.values():
+    cards = cards + pack
+vprint(f"Loaded {len(cards)} cards.")
+
+translatedCards: list[Card] = []
+if lang is not None:
+    for pack in translatedPacks.values():
+        translatedCards = translatedCards + pack
+    vprint(f"Loaded {len(cards)} translated cards.")
+
+def getTranslatedCardName(card: Card):
+    c = list(filter(lambda c: c.get("code") == card.get("code"), translatedCards))
+    if len(c) > 0:
+        return c[0].get("name") or card.get("name")
+    else:
+        return ""
+
+class OutputCard:
+    code: str
+    cost: str
+    type: str
+    faction: str
+    name: str
+    name_de: str
+    packs: list[str]
+    illustrators: list[str]
+
+vprint("Collecting output")
+output: dict[str, OutputCard] = {}
+duplicates: list[Card] = []
+for card in cards:
+    # skip encounter cards
+    if card.get("faction_code") in ["encounter"]:
+        continue
+
+    # skip identity cards
+    if card.get("type_code") in ["hero", "alter_ego"]:
+        continue
+
+    # is reprint, add later to packs
+    if card.get("duplicate_of") is not None:
+        duplicates.append(card)
+        continue
+
+    # create ouput
+    output[card.get("code")] = {
+        "code": card.get("code"),
+        "cost": card.get("cost"),
+        "type": card.get("type_code"),
+        "faction": card.get("faction_code"),
+        "name": card.get("name"),
+        "name_de":  getTranslatedCardName(card),
+        "packs": [card.get("pack_code")],
+        "illustrators": list(map(lambda s: s.strip(), card.get("illustrator").split("&") if card.get("illustrator") is not None else []))
+    }
+
+vprint("Adding reprints")
+# add reprints to packs
+for duplicate in duplicates:
+    origCode = duplicate.get("duplicate_of")
+    if origCode not in output:
+        print(f"Missing card {origCode}")
+        continue
+    output[origCode]["packs"].append(duplicate.get("pack_code"))
+
+
+vprint("Starting writing")
+# write to file
+fileName = "output.json"
+outputPath = os.path.join(outputDir, fileName)
+with open(outputPath, "w", encoding="utf-8") as out:
+    write(json.dumps(list(output.values())), out)
+vprint("Finished writing.")
