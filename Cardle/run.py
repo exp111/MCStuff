@@ -110,6 +110,18 @@ def getTranslatedCardName(card: Card):
         return c[0].get("name") or card.get("name")
     else:
         return ""
+    
+def getResources(card: Card):
+    ret = []
+    if card.get("resource_energy") is not None:
+        ret = ret + (["e"] * card.get("resource_energy"))
+    if card.get("resource_mental") is not None:
+        ret = ret + (["m"] * card.get("resource_mental"))
+    if card.get("resource_physical") is not None:
+        ret = ret + (["p"] * card.get("resource_physical"))
+    if card.get("resource_wild") is not None:
+        ret = ret + (["w"] * card.get("resource_wild"))
+    return ret
 
 class OutputCard:
     code: str
@@ -118,6 +130,7 @@ class OutputCard:
     faction: str
     name: str
     name_de: str
+    resources: list[str]
     packs: list[str]
     illustrators: list[str]
 
@@ -146,6 +159,7 @@ for card in cards:
         "faction": card.get("faction_code"),
         "name": card.get("name"),
         "name_de":  getTranslatedCardName(card),
+        "resources": getResources(card),
         "packs": [card.get("pack_code")],
         "illustrators": list(map(lambda s: s.strip(), card.get("illustrator").split("&") if card.get("illustrator") is not None else []))
     }
