@@ -123,6 +123,14 @@ def getResources(card: Card):
         ret = ret + (["w"] * card.get("resource_wild"))
     return ret
 
+def hasUnmarkedDuplicate(c: Card):
+    # ignore marked duplicate
+    if c.get("duplicate_of") is not None:
+        return None
+    # check if any other card matches these parameters: name, cost, faction, type, subname. then its probably a reprint that isn't marked properly
+    filtered = list(filter(lambda x: x.get("code") != c.get("code") and x.get("name") == c.get("name") and x.get("cost") == c.get("cost") and x.get("faction_code") == c.get("faction_code") and x.get("type_code") == c.get("type_code") and x.get("subname") == c.get("subname"), cards))
+    return filtered[0] if len(filtered) > 0 else None
+
 class OutputCard:
     code: str
     cost: str
@@ -132,6 +140,7 @@ class OutputCard:
     name_de: str
     resources: list[str]
     packs: list[str]
+    sets: list[str]
     illustrators: list[str]
 
 vprint("Collecting output")
@@ -146,9 +155,20 @@ for card in cards:
     if card.get("type_code") in ["hero", "alter_ego"]:
         continue
 
+    # skip hidden cards (mostly used for backsides like 3 form heroes or campaign upgrades)
+    if card.get("hidden"):
+        continue
+
     # is reprint, add later to packs
     if card.get("duplicate_of") is not None:
         duplicates.append(card)
+        continue
+
+    # check for unmarked duplicates (ie in hero packs). add those as duplicates if the other card was already added
+    cardDuplicate = hasUnmarkedDuplicate(card)
+    if cardDuplicate is not None and cardDuplicate.get("code") in output:
+        card["duplicate_of"] = cardDuplicate.get("code")
+        print(f"Card is duplicate {card.get("name")} ({card.get("code")}) of {cardDuplicate.get("name")} ({cardDuplicate.get("code")})")
         continue
 
     # create ouput
@@ -161,6 +181,7 @@ for card in cards:
         "name_de":  getTranslatedCardName(card),
         "resources": getResources(card),
         "packs": [card.get("pack_code")],
+        "sets": [card.get("set_code")],
         "illustrators": list(map(lambda s: s.strip(), card.get("illustrator").split("&") if card.get("illustrator") is not None else []))
     }
 
@@ -171,7 +192,10 @@ for duplicate in duplicates:
     if origCode not in output:
         print(f"Missing card {origCode}")
         continue
-    output[origCode]["packs"].append(duplicate.get("pack_code"))
+    if duplicate.get("pack_code") not in output[origCode]["packs"]:
+        output[origCode]["packs"].append(duplicate.get("pack_code"))
+    if duplicate.get("set_code") not in output[origCode]["sets"]:
+        output[origCode]["sets"].append(duplicate.get("set_code"))
 
 
 vprint("Starting writing")
