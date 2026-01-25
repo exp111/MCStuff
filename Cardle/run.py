@@ -148,7 +148,7 @@ output: dict[str, OutputCard] = {}
 duplicates: list[Card] = []
 for card in cards:
     # skip encounter cards
-    if card.get("faction_code") in ["encounter"]:
+    if card.get("faction_code") in ["encounter", "campaign"]:
         continue
 
     # skip identity cards
