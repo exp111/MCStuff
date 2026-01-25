@@ -142,6 +142,7 @@ class OutputCard:
     packs: list[str]
     sets: list[str]
     illustrators: list[str]
+    traits: list[str]
 
 vprint("Collecting output")
 output: dict[str, OutputCard] = {}
@@ -182,7 +183,11 @@ for card in cards:
         "resources": getResources(card),
         "packs": [card.get("pack_code")],
         "sets": [card.get("set_code")],
-        "illustrators": list(map(lambda s: s.strip(), card.get("illustrator").split("&") if card.get("illustrator") is not None else []))
+        # split by &, then strip whitespace
+        "illustrators": list(map(lambda s: s.strip(), card.get("illustrator").split("&") if card.get("illustrator") is not None else [])),
+        # split by ., then strip whitespace. as traits always end with . also remove empty strings afterwards
+        # replaces shield so the trait isnt split up
+        "traits": list(filter(lambda s: s.strip(), map(lambda s: s.strip(), card.get("traits").replace("S.H.I.E.L.D", "SHIELD").split(".") if card.get("traits") is not None else []))),
     }
 
 vprint("Adding reprints")
