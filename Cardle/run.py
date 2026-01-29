@@ -144,6 +144,9 @@ class OutputCard:
     illustrators: list[str]
     traits: list[str]
 
+vprint("Sorting cards by code")
+cards.sort(key=lambda x: x.get('code'))
+
 vprint("Collecting output")
 output: dict[str, OutputCard] = {}
 duplicates: list[Card] = []
@@ -170,6 +173,7 @@ for card in cards:
     if cardDuplicate is not None and cardDuplicate.get("code") in output:
         card["duplicate_of"] = cardDuplicate.get("code")
         print(f"Card is duplicate {card.get("name")} ({card.get("code")}) of {cardDuplicate.get("name")} ({cardDuplicate.get("code")})")
+        duplicates.append(card)
         continue
 
     # create ouput
