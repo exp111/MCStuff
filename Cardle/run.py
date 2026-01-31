@@ -4,6 +4,8 @@ import html
 import json
 import os
 import textwrap
+
+import requests
 from card_schema import Card, DeckOption, DeckRequirement
 from pack_schema import Pack
 import sys
@@ -44,6 +46,10 @@ packSubDir = "pack"
 translationsSubDir = "translations"
 packsFile = "packs.json"
 lang = "de"
+apiUrl = "https://marvelcdb.com/api/public/cards/"
+
+vprint("Fetching data")
+dbData = requests.get(apiUrl).json()
 
 vprint("Reading files")
 # TODO: sanity check the input dir
@@ -143,6 +149,7 @@ class OutputCard:
     sets: list[str]
     illustrators: list[str]
     traits: list[str]
+    img: str
 
 vprint("Sorting cards by code")
 cards.sort(key=lambda x: x.get('code'))
@@ -176,6 +183,12 @@ for card in cards:
         duplicates.append(card)
         continue
 
+    dbCard = list(filter(lambda x: x.get("code") == card.get("code"), dbData))
+    if dbCard is None or len(dbCard) == 0:
+        print(f"Card {card.get("code")} not found in DB data.")
+        continue
+    dbCard = dbCard[0]
+
     # create ouput
     output[card.get("code")] = {
         "code": card.get("code"),
@@ -192,6 +205,7 @@ for card in cards:
         # split by ., then strip whitespace. as traits always end with . also remove empty strings afterwards
         # replaces shield so the trait isnt split up
         "traits": list(filter(lambda s: s.strip(), map(lambda s: s.strip(), card.get("traits").replace("S.H.I.E.L.D", "SHIELD").split(".") if card.get("traits") is not None else []))),
+        "img": dbCard["imagesrc"] if dbCard and "imagesrc" in dbCard else None
     }
 
 vprint("Adding reprints")
