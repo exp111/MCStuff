@@ -2,6 +2,7 @@ import argparse
 import codecs
 import html
 import json
+import math
 import os
 import textwrap
 
@@ -150,6 +151,7 @@ class OutputCard:
     illustrators: list[str]
     traits: list[str]
     img: str
+    year: int
 
 vprint("Sorting cards by code")
 cards.sort(key=lambda x: x.get('code'))
@@ -220,6 +222,11 @@ for duplicate in duplicates:
     if duplicate.get("set_code") not in output[origCode]["sets"]:
         output[origCode]["sets"].append(duplicate.get("set_code"))
 
+vprint("Adding years")
+# add first release year of the card to the output. get it from the pack data
+for code, card in output.items():
+    output[code]["year"] = min([int(pack.get("date_release").split("-")[0]) for pack in allPacks if pack.get("code") in card["packs"]])
+
 
 vprint("Starting writing")
 # write to file
@@ -228,3 +235,4 @@ outputPath = os.path.join(outputDir, fileName)
 with open(outputPath, "w", encoding="utf-8") as out:
     write(json.dumps(list(output.values())), out)
 vprint("Finished writing.")
+print("Finished")
