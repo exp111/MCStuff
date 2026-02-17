@@ -9,6 +9,7 @@ import textwrap
 import requests
 from card_schema import Card, DeckOption, DeckRequirement
 from pack_schema import Pack
+from set_schema import Set
 import sys
 
 def directory(raw_path: str):
@@ -46,6 +47,7 @@ baseDir = inputDir
 packSubDir = "pack"
 translationsSubDir = "translations"
 packsFile = "packs.json"
+setsFile = "sets.json"
 lang = "de"
 apiUrl = "https://marvelcdb.com/api/public/cards/"
 
@@ -76,6 +78,12 @@ def loadAllPacks(path: str):
         allPacks = json.load(f)
     return allPacks
 
+def loadAllSets(path: str):
+    allSets: list[Set] = []
+    with open(path, mode="r", encoding="utf-8") as f:
+        allSets = json.load(f)
+    return allSets
+
 # get all existing original files
 packs = loadPacks(os.path.join(baseDir, packSubDir))
 vprint(f"{len(packs)} pack files loaded.")
@@ -93,6 +101,10 @@ translatedAllPacks = None
 if lang is not None:
     translatedAllPacks = loadAllPacks(os.path.join(translationDir, packsFile))
     vprint(f"{len(packs)} translation packs loaded.")
+
+# get sets
+allSets: list[Set] = loadAllPacks(os.path.join(baseDir, setsFile))
+vprint(f"{len(allSets)} sets loaded.")
 
 # check if any files were found
 if len(packs) == 0:
@@ -160,6 +172,11 @@ vprint("Collecting output")
 output: dict[str, OutputCard] = {}
 duplicates: list[Card] = []
 for card in cards:
+    # skip unwanted sets
+    set = [set for set in allSets if card.get("set_code") == set.get("code")]
+    if len(set) > 0 and set[0].get("card_set_type_code") in ["villain", "nemesis", "standard", "expert", "modular", "leader", "evidence", "main_scheme"]:
+        continue
+
     # skip encounter cards
     if card.get("faction_code") in ["encounter", "campaign"]:
         continue
