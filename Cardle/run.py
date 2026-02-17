@@ -215,7 +215,7 @@ vprint("Adding reprints")
 for duplicate in duplicates:
     origCode = duplicate.get("duplicate_of")
     if origCode not in output:
-        print(f"Missing card {origCode}")
+        print(f"Missing card {origCode} for duplicate {duplicate.get('code')}. May be an encounter card (like pvp set)? Skipping.")
         continue
     if duplicate.get("pack_code") not in output[origCode]["packs"]:
         output[origCode]["packs"].append(duplicate.get("pack_code"))
