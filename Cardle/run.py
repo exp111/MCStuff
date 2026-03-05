@@ -164,6 +164,9 @@ class OutputCard:
     traits: list[str]
     img: str
     year: int
+    health: int
+    attack: int
+    thwart: int
 
 vprint("Sorting cards by code")
 cards.sort(key=lambda x: x.get('code'))
@@ -219,6 +222,9 @@ for card in cards:
         "resources": getResources(card),
         "packs": [card.get("pack_code")],
         "sets": [card.get("set_code")],
+        "health": card.get("health"),
+        "attack": card.get("attack"),
+        "thwart": card.get("thwart"),
         # split by &, then strip whitespace
         "illustrators": list(map(lambda s: s.strip(), card.get("illustrator").split("&") if card.get("illustrator") is not None else [])),
         # split by ., then strip whitespace. as traits always end with . also remove empty strings afterwards
