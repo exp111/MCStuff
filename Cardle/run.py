@@ -100,7 +100,7 @@ vprint(f"{len(allPacks)} packs loaded.")
 translatedAllPacks = None
 if lang is not None:
     translatedAllPacks = loadAllPacks(os.path.join(translationDir, packsFile))
-    vprint(f"{len(packs)} translation packs loaded.")
+    vprint(f"{len(translatedAllPacks)} translation packs loaded.")
 
 # get sets
 allSets: list[Set] = loadAllPacks(os.path.join(baseDir, setsFile))

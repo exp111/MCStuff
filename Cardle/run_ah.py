@@ -63,8 +63,9 @@ if lang is not None:
         sys.exit(1)
 
 def loadPacks(path: str):
-    files = [f for f in os.scandir(path)]
+    files = []
     packs = {}
+    files.extend(os.scandir(path))
     while len(files) > 0:
         entry = files.pop()
         if entry.is_dir():
@@ -97,7 +98,7 @@ vprint(f"{len(allPacks)} packs loaded.")
 translatedAllPacks = None
 if lang is not None:
     translatedAllPacks = loadAllPacks(os.path.join(translationDir, packsFile))
-    vprint(f"{len(packs)} translation packs loaded.")
+    vprint(f"{len(translatedAllPacks)} translation packs loaded.")
 
 # check if any files were found
 if len(packs) == 0:
@@ -107,7 +108,7 @@ if len(packs) == 0:
 # map into cards list
 cards: list[Card] = []
 for pack in packs.values():
-    cards = cards + pack
+    cards.extend(pack)
 vprint(f"Loaded {len(cards)} cards.")
 
 translatedCards: list[Card] = []
@@ -141,8 +142,8 @@ def hasUnmarkedDuplicate(c: Card):
     # ignore marked duplicate
     if c.get("duplicate_of") is not None:
         return None
-    # check if any other card matches these parameters: name, cost, faction, type, subname. then its probably a reprint that isn't marked properly
-    filtered = list(filter(lambda x: x.get("code") != c.get("code") and x.get("name") == c.get("name") and x.get("cost") == c.get("cost") and x.get("faction_code") == c.get("faction_code") and x.get("type_code") == c.get("type_code") and x.get("subname") == c.get("subname"), cards))
+    # check if any other card matches these parameters: name, cost, faction, type, subname, xp. then its probably a reprint that isn't marked properly
+    filtered = list(filter(lambda x: x.get("code") != c.get("code") and x.get("name") == c.get("name") and x.get("cost") == c.get("cost") and x.get("faction_code") == c.get("faction_code") and x.get("type_code") == c.get("type_code") and x.get("subname") == c.get("subname") and x.get("xp") == c.get("xp"), cards))
     return filtered[0] if len(filtered) > 0 else None
 
 class OutputCard:
@@ -167,8 +168,12 @@ vprint("Collecting output")
 output: dict[str, OutputCard] = {}
 duplicates: list[Card] = []
 for card in cards:
-    # skip encounter/campaign cards
+    # skip encounter cards
     if card.get("faction_code") in ["mythos"]:
+        continue
+
+    # skip encounter/campaign cards
+    if card.get("encounter_code") is not None:
         continue
 
     # skip identity cards
@@ -191,10 +196,11 @@ for card in cards:
         print(f"Card is duplicate {card.get("name")} ({card.get("code")}) of {cardDuplicate.get("name")} ({cardDuplicate.get("code")})")
         duplicates.append(card)
         continue
-
-    dbCard = list(filter(lambda x: x.get("code") == card.get("code"), dbData))
+    
+    codes = [c.get("code") for c in cards if c.get("code") == card.get("code") or c.get("duplicate_of") == card.get("code")]
+    dbCard = list(filter(lambda x: x.get("code") in codes and x.get("imagesrc") is not None, dbData))
     if dbCard is None or len(dbCard) == 0:
-        print(f"Card {card.get("code")} not found in DB data.")
+        print(f"Card {card.get("code")} (or reprints) with img not found in DB data.")
         continue
     dbCard = dbCard[0]
 
