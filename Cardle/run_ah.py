@@ -7,9 +7,8 @@ import os
 import textwrap
 
 import requests
-from card_schema import Card, DeckOption, DeckRequirement
+from card_schema_ah import Card, DeckOption, DeckRequirement
 from pack_schema import Pack
-from set_schema import Set
 import sys
 
 def directory(raw_path: str):
@@ -19,8 +18,8 @@ def directory(raw_path: str):
     return os.path.abspath(raw_path)
 
 parser = argparse.ArgumentParser(
-                    prog='Marvel Champions Cardle Data Fetcher',
-                    description='Compiles the data for MCCardle from the Marvel Champions JSON Repo')
+                    prog='Arkham Horror Cardle Data Fetcher',
+                    description='Compiles the data for AHCardle from the Arkham Horror JSON Repo')
 parser.add_argument("-v", "--verbose", action="store_true", help="Show verbose output") # flag
 parser.add_argument("-i", "--input", nargs="?", default=os.path.curdir, type=directory, help="The directory of the repo. Defaults to the current path.")
 parser.add_argument("-o", "--output", nargs="?", default=os.path.curdir, type=directory, help="The directory where the output is written to. Defaults to the current path.")
@@ -47,9 +46,8 @@ baseDir = inputDir
 packSubDir = "pack"
 translationsSubDir = "translations"
 packsFile = "packs.json"
-setsFile = "sets.json"
 lang = "de"
-apiUrl = "https://marvelcdb.com/api/public/cards/"
+apiUrl = "https://arkhamdb.com/api/public/cards/"
 
 vprint("Fetching data")
 dbData = requests.get(apiUrl).json()
@@ -65,8 +63,13 @@ if lang is not None:
         sys.exit(1)
 
 def loadPacks(path: str):
+    files = [f for f in os.scandir(path)]
     packs = {}
-    for entry in os.scandir(path):
+    while len(files) > 0:
+        entry = files.pop()
+        if entry.is_dir():
+            files.extend(os.scandir(entry))
+            continue
         if entry.is_file() and entry.name.endswith("json"):
             with open(entry.path, mode="r", encoding="utf-8") as f:
                 packs[entry.name] = json.load(f)
@@ -77,12 +80,6 @@ def loadAllPacks(path: str):
     with open(path, mode="r", encoding="utf-8") as f:
         allPacks = json.load(f)
     return allPacks
-
-def loadAllSets(path: str):
-    allSets: list[Set] = []
-    with open(path, mode="r", encoding="utf-8") as f:
-        allSets = json.load(f)
-    return allSets
 
 # get all existing original files
 packs = loadPacks(os.path.join(baseDir, packSubDir))
@@ -101,10 +98,6 @@ translatedAllPacks = None
 if lang is not None:
     translatedAllPacks = loadAllPacks(os.path.join(translationDir, packsFile))
     vprint(f"{len(packs)} translation packs loaded.")
-
-# get sets
-allSets: list[Set] = loadAllPacks(os.path.join(baseDir, setsFile))
-vprint(f"{len(allSets)} sets loaded.")
 
 # check if any files were found
 if len(packs) == 0:
@@ -132,14 +125,16 @@ def getTranslatedCardName(card: Card):
     
 def getResources(card: Card):
     ret = []
-    if card.get("resource_energy") is not None:
-        ret = ret + (["e"] * card.get("resource_energy"))
-    if card.get("resource_mental") is not None:
-        ret = ret + (["m"] * card.get("resource_mental"))
-    if card.get("resource_physical") is not None:
-        ret = ret + (["p"] * card.get("resource_physical"))
-    if card.get("resource_wild") is not None:
-        ret = ret + (["w"] * card.get("resource_wild"))
+    if card.get("skill_willpower") is not None:
+        ret = ret + (["p"] * card.get("skill_willpower"))
+    if card.get("skill_intellect") is not None:
+        ret = ret + (["b"] * card.get("skill_intellect"))
+    if card.get("skill_combat") is not None:
+        ret = ret + (["c"] * card.get("skill_combat"))
+    if card.get("skill_agility") is not None:
+        ret = ret + (["a"] * card.get("skill_agility"))
+    if card.get("skill_wild") is not None:
+        ret = ret + (["?"] * card.get("skill_wild"))
     return ret
 
 def hasUnmarkedDuplicate(c: Card):
@@ -157,16 +152,13 @@ class OutputCard:
     faction: str
     name: str
     name_de: str
-    resources: list[str]
+    skills: list[str]
     packs: list[str]
-    sets: list[str]
     illustrators: list[str]
     traits: list[str]
     img: str
     year: int
-    health: int
-    attack: int
-    thwart: int
+    xp: int
 
 vprint("Sorting cards by code")
 cards.sort(key=lambda x: x.get('code'))
@@ -175,17 +167,12 @@ vprint("Collecting output")
 output: dict[str, OutputCard] = {}
 duplicates: list[Card] = []
 for card in cards:
-    # skip unwanted sets
-    set = [set for set in allSets if card.get("set_code") == set.get("code")]
-    if len(set) > 0 and set[0].get("card_set_type_code") in ["villain", "nemesis", "standard", "expert", "modular", "leader", "evidence", "main_scheme"]:
-        continue
-
     # skip encounter/campaign cards
-    if card.get("faction_code") in ["encounter", "campaign"]:
+    if card.get("faction_code") in ["mythos"]:
         continue
 
     # skip identity cards
-    if card.get("type_code") in ["hero", "alter_ego"]:
+    if card.get("type_code") in ["investigator"]:
         continue
 
     # skip hidden cards (mostly used for backsides like 3 form heroes or campaign upgrades)
@@ -219,17 +206,14 @@ for card in cards:
         "faction": card.get("faction_code"),
         "name": card.get("name"),
         "name_de":  getTranslatedCardName(card),
-        "resources": getResources(card),
+        "skills": getResources(card),
         "packs": [card.get("pack_code")],
-        "sets": [card.get("set_code")],
-        "health": card.get("health"),
-        "attack": card.get("attack"),
-        "thwart": card.get("thwart"),
+        "xp": card.get("xp"),
         # split by &, then strip whitespace
         "illustrators": list(map(lambda s: s.strip(), card.get("illustrator").split("&") if card.get("illustrator") is not None else [])),
         # split by ., then strip whitespace. as traits always end with . also remove empty strings afterwards
         # replaces shield so the trait isnt split up
-        "traits": list(filter(lambda s: s.strip(), map(lambda s: s.strip(), card.get("traits").replace("S.H.I.E.L.D", "SHIELD").split(".") if card.get("traits") is not None else []))),
+        "traits": list(filter(lambda s: s.strip(), map(lambda s: s.strip(), card.get("traits").split(".") if card.get("traits") is not None else []))),
         "img": dbCard["imagesrc"] if dbCard and "imagesrc" in dbCard else None
     }
 
@@ -238,12 +222,10 @@ vprint("Adding reprints")
 for duplicate in duplicates:
     origCode = duplicate.get("duplicate_of")
     if origCode not in output:
-        print(f"Missing card {origCode} for duplicate {duplicate.get('code')}. May be an encounter card (like pvp set)? Skipping.")
+        print(f"Missing card {origCode} for duplicate {duplicate.get('code')}. May be an encounter card? Skipping.")
         continue
     if duplicate.get("pack_code") not in output[origCode]["packs"]:
         output[origCode]["packs"].append(duplicate.get("pack_code"))
-    if duplicate.get("set_code") not in output[origCode]["sets"]:
-        output[origCode]["sets"].append(duplicate.get("set_code"))
 
 vprint("Adding years")
 # add first release year of the card to the output. get it from the pack data
@@ -253,7 +235,7 @@ for code, card in output.items():
 
 vprint("Starting writing")
 # write to file
-fileName = "output.json"
+fileName = "output_ah.json"
 outputPath = os.path.join(outputDir, fileName)
 with open(outputPath, "w", encoding="utf-8") as out:
     write(json.dumps(list(output.values())), out)

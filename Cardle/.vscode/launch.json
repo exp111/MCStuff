@@ -11,6 +11,14 @@
             "program": "run.py",
             "console": "integratedTerminal",
             "args": "-i '../../../Github/marvelsdb-json-data'"
+        },
+        {
+            "name": "run_ah",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "run_ah.py",
+            "console": "integratedTerminal",
+            "args": "-i '../../../Github/arkhamdb-json-data'"
         }
     ]
 }
