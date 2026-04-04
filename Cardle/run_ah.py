@@ -176,12 +176,20 @@ for card in cards:
     if card.get("encounter_code") is not None:
         continue
 
-    # skip identity cards
-    if card.get("type_code") in ["investigator"]:
+    # skip identity cards and treacheries
+    if card.get("type_code") in ["investigator", "treachery"]:
+        continue
+
+    # skip weaknesses
+    if card.get("subtype_code") in ["weakness", "basicweakness"]:
         continue
 
     # skip hidden cards (mostly used for backsides like 3 form heroes or campaign upgrades)
     if card.get("hidden"):
+        continue
+
+    # skip bonded cards (not available for deckbuilding)
+    if card.get("bonded_to") is not None:
         continue
 
     # is reprint, add later to packs
@@ -207,7 +215,7 @@ for card in cards:
     # create ouput
     output[card.get("code")] = {
         "code": card.get("code"),
-        "cost": card.get("cost"),
+        "cost": card.get("cost") if card.get("cost") is not None else 0,
         "type": card.get("type_code"),
         "faction": card.get("faction_code"),
         "name": card.get("name"),
